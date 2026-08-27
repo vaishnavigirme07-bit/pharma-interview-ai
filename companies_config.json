@@ -1,0 +1,26 @@
+[
+  {
+    "name": "IQVIA",
+    "tenant": "iqvia",
+    "wd_pod": "wd1",
+    "site": "IQVIA"
+  },
+  {
+    "name": "Parexel",
+    "tenant": "parexel",
+    "wd_pod": "wd1",
+    "site": "Parexel_External_Careers"
+  },
+  {
+    "name": "ICON plc",
+    "tenant": "icon",
+    "wd_pod": "wd3",
+    "site": "broadbean_external"
+  },
+  {
+    "name": "GSK",
+    "tenant": "gsk",
+    "wd_pod": "wd5",
+    "site": "GSKCareers"
+  }
+]

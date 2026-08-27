@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PV Jobs India</title>
+<style>
+  :root{
+    --ink:#152238;
+    --ink-soft:#5b6b82;
+    --bg:#f4f6fa;
+    --card:#ffffff;
+    --line:#e3e8f0;
+    --teal:#0f766e;
+    --teal-soft:#e6f4f2;
+    --amber:#b45309;
+    --amber-soft:#fdf1e0;
+    --slate:#475569;
+    --slate-soft:#eef1f5;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg); color:var(--ink);
+  }
+  header{
+    background:linear-gradient(135deg,#0f766e,#134e4a);
+    color:#fff; padding:28px 24px 24px;
+  }
+  header h1{margin:0 0 4px; font-size:1.6rem;}
+  header p{margin:0; opacity:.85; font-size:.95rem;}
+  .updated{font-size:.8rem; opacity:.75; margin-top:8px;}
+
+  .wrap{max-width:1100px; margin:0 auto; padding:20px 20px 60px;}
+
+  .filters{
+    display:flex; flex-wrap:wrap; gap:10px; background:var(--card);
+    padding:16px; border-radius:12px; border:1px solid var(--line);
+    margin:-28px auto 24px; position:relative; box-shadow:0 4px 14px rgba(15,23,42,.06);
+  }
+  .filters input, .filters select{
+    padding:9px 12px; border-radius:8px; border:1px solid var(--line);
+    font-size:.9rem; color:var(--ink); background:#fff;
+  }
+  .filters input{flex:1; min-width:180px;}
+
+  .count{font-size:.9rem; color:var(--ink-soft); margin-bottom:14px;}
+
+  .grid{display:grid; gap:14px;}
+
+  .card{
+    background:var(--card); border:1px solid var(--line); border-radius:12px;
+    padding:16px 18px; display:flex; flex-direction:column; gap:8px;
+  }
+  .card-top{display:flex; justify-content:space-between; align-items:flex-start; gap:10px; flex-wrap:wrap;}
+  .title{font-size:1.05rem; font-weight:600; margin:0;}
+  .company{color:var(--teal); font-weight:600; font-size:.9rem;}
+  .meta{display:flex; flex-wrap:wrap; gap:8px; font-size:.82rem; color:var(--ink-soft);}
+  .tag{
+    padding:3px 10px; border-radius:999px; font-size:.75rem; font-weight:600;
+  }
+  .tag-pv{background:var(--teal-soft); color:var(--teal);}
+  .tag-other{background:var(--amber-soft); color:var(--amber);}
+  .tag-general{background:var(--slate-soft); color:var(--slate);}
+
+  .apply{
+    align-self:flex-start; margin-top:4px; text-decoration:none;
+    background:var(--teal); color:#fff; padding:8px 16px; border-radius:8px;
+    font-size:.85rem; font-weight:600;
+  }
+  .apply:hover{background:#0d5c55;}
+
+  .empty{
+    text-align:center; padding:60px 20px; color:var(--ink-soft);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>PV Jobs India</h1>
+  <p>Pharmacovigilance &amp; pharma-domain jobs, pulled directly from company career pages — every link is real.</p>
+  <div class="updated" id="updated"></div>
+</header>
+
+<div class="wrap">
+  <div class="filters">
+    <input type="text" id="searchBox" placeholder="Search title or company...">
+    <select id="categoryFilter">
+      <option value="">All categories</option>
+      <option value="PV">PV core</option>
+      <option value="Pharma - Other">Pharma - Other</option>
+      <option value="Other">Other</option>
+    </select>
+    <select id="companyFilter">
+      <option value="">All companies</option>
+    </select>
+    <select id="locationFilter">
+      <option value="">All locations</option>
+    </select>
+  </div>
+
+  <div class="count" id="resultCount"></div>
+  <div class="grid" id="jobGrid"></div>
+</div>
+
+<script>
+let allJobs = [];
+
+async function loadJobs(){
+  try{
+    const res = await fetch('jobs.json?_=' + Date.now());
+    const data = await res.json();
+    allJobs = data.jobs || [];
+    document.getElementById('updated').textContent =
+      'Last updated: ' + new Date(data.generated_at).toLocaleString();
+    populateFilterOptions();
+    render();
+  }catch(e){
+    document.getElementById('jobGrid').innerHTML =
+      '<div class="empty">No jobs.json found yet. Run scraper.py first to pull live jobs.</div>';
+  }
+}
+
+function populateFilterOptions(){
+  const companies = [...new Set(allJobs.map(j => j.company))].sort();
+  const locations = [...new Set(allJobs.map(j => j.location).filter(Boolean))].sort();
+
+  const companySelect = document.getElementById('companyFilter');
+  companies.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c; opt.textContent = c;
+    companySelect.appendChild(opt);
+  });
+
+  const locationSelect = document.getElementById('locationFilter');
+  locations.forEach(l => {
+    const opt = document.createElement('option');
+    opt.value = l; opt.textContent = l;
+    locationSelect.appendChild(opt);
+  });
+}
+
+function tagClass(cat){
+  if(cat === 'PV') return 'tag-pv';
+  if(cat === 'Pharma - Other') return 'tag-other';
+  return 'tag-general';
+}
+
+function render(){
+  const search = document.getElementById('searchBox').value.toLowerCase();
+  const category = document.getElementById('categoryFilter').value;
+  const company = document.getElementById('companyFilter').value;
+  const location = document.getElementById('locationFilter').value;
+
+  let filtered = allJobs.filter(j => {
+    if(category && j.category !== category) return false;
+    if(company && j.company !== company) return false;
+    if(location && j.location !== location) return false;
+    if(search && !(j.title.toLowerCase().includes(search) || j.company.toLowerCase().includes(search))) return false;
+    return true;
+  });
+
+  // Most recently posted first
+  filtered.sort((a,b) => new Date(b.posted_on_parsed || 0) - new Date(a.posted_on_parsed || 0));
+
+  document.getElementById('resultCount').textContent =
+    filtered.length + ' job' + (filtered.length === 1 ? '' : 's') + ' found';
+
+  const grid = document.getElementById('jobGrid');
+  if(filtered.length === 0){
+    grid.innerHTML = '<div class="empty">No jobs match your filters right now.</div>';
+    return;
+  }
+
+  grid.innerHTML = filtered.map(j => `
+    <div class="card">
+      <div class="card-top">
+        <div>
+          <div class="company">${j.company}</div>
+          <h3 class="title">${j.title}</h3>
+        </div>
+        <span class="tag ${tagClass(j.category)}">${j.category}</span>
+      </div>
+      <div class="meta">
+        <span>📍 ${j.location || 'Location not specified'}</span>
+        <span>🗓️ ${j.posted_on || 'Date not specified'}</span>
+        ${j.req_id ? `<span>🔖 ${j.req_id}</span>` : ''}
+      </div>
+      <a class="apply" href="${j.apply_url}" target="_blank" rel="noopener">Apply on company site →</a>
+    </div>
+  `).join('');
+}
+
+document.getElementById('searchBox').addEventListener('input', render);
+document.getElementById('categoryFilter').addEventListener('change', render);
+document.getElementById('companyFilter').addEventListener('change', render);
+document.getElementById('locationFilter').addEventListener('change', render);
+
+loadJobs();
+</script>
+
+</body>
+</html>
