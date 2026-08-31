@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-31T14:54:14.554982+00:00",
-  "total_jobs": 22,
+  "generated_at": "2026-08-31T20:41:49.897183+00:00",
+  "total_jobs": 14,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Software Development Engineer 3",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1560866",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer-3_R1560866",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Software Development Engineer 4",
+      "location": "Chennai, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1560706",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Chennai-India/Software-Development-Engineer-4_R1560706",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Senior Statistical Programmer",
@@ -19,96 +39,6 @@
       "posted_on": "Posted Today",
       "req_id": "R1558678",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Chennai-India/Software-Development-Engineer-4_R1558678",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Analyst",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1566444",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Analyst_R1566444",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Software Development Engineer 4",
-      "location": "Chennai, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1560686",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Chennai-India/Software-Development-Engineer-4_R1560686",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Dot Net Full stack developer",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1558665",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Dot-Net-Full-stack-developer_R1558665",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Safety Aggreg Report Mgr",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1566163",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Safety-Aggreg-Report-Mgr_R1566163",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Primary Market Research Consultant",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1554106",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Consultant_R1554106",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Primary Market Research Associate Consultant",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1556100",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Associate-Consultant_R1556100-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Manager, Clinical Data Management",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1552030",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Manager--Clinical-Data-Management_R1552030",
-      "category": "Pharma - Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Senior Data Team Lead",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1552026",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Data-Team-Lead_R1552026",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Data Analyst",
-      "location": "Pune, Maharashtra, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1553302",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Pune-Maharashtra-India/Data-Analyst_R1553302",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -199,16 +129,6 @@
       "posted_on": "Posted Today",
       "req_id": "446928",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Director---ERP-Data-Analytics--AI---Automation-Platform_446928",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Analyst - ICT Analyst",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "445618",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---ICT-Analyst_445618",
       "category": "Other",
       "source": "Workday (direct)"
     },
