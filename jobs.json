@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-09-01T00:25:55.602178+00:00",
-  "total_jobs": 12,
+  "generated_at": "2026-09-01T06:04:52.132865+00:00",
+  "total_jobs": 10,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Software Development Engineer 3",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1560866",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer-3_R1560866",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Software Development Engineer 4",
-      "location": "Chennai, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1560706",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Chennai-India/Software-Development-Engineer-4_R1560706",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
     {
       "company": "Parexel",
       "title": "Health Economics Associate",
@@ -73,6 +53,16 @@
       "source": "Workday (direct)"
     },
     {
+      "company": "ICON plc",
+      "title": "Laboratory Report Processor I -BSC in Medical Laboratory Technology",
+      "location": "India, Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "JR156571",
+      "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Laboratory-Report-Processor-I_JR156571",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
       "company": "GSK",
       "title": "Brand Manager- Adult vaccines",
       "location": "India - Maharashtra - Worli Mumbai",
@@ -109,16 +99,6 @@
       "posted_on": "Posted Today",
       "req_id": "446928",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Director---ERP-Data-Analytics--AI---Automation-Platform_446928",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate Director Publications Lead",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "446786",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director-Publications-Lead_446786-1",
       "category": "Other",
       "source": "Workday (direct)"
     }
