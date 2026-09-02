@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-09-02T03:23:53.247745+00:00",
-  "total_jobs": 7,
+  "generated_at": "2026-09-02T08:30:33.322916+00:00",
+  "total_jobs": 9,
   "jobs": [
     {
       "company": "IQVIA",
-      "title": "Software Development Engineer",
-      "location": "Bangalore, India",
+      "title": "Intern",
+      "location": "Kochi, India",
       "posted_on": "Posted Today",
-      "req_id": "R1561514",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer_R1561514",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Software Development Engineer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1511508",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer_R1511508",
+      "req_id": "R1566902",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Intern_R1566902",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -26,19 +16,9 @@
       "company": "Parexel",
       "title": "Senior Clinical Data Analyst",
       "location": "India - Hyderabad",
-      "posted_on": "Posted Today",
+      "posted_on": "Posted Yesterday",
       "req_id": "R0000044588",
       "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India---Hyderabad/Senior-Clinical-Data-Analyst_R0000044588",
-      "category": "Pharma - Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Parexel",
-      "title": "Trainee Clinical Data Analyst",
-      "location": "India-Hyderabad-Remote",
-      "posted_on": "Posted Today",
-      "req_id": "R0000045248",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Trainee-Clinical-Data-Analyst_R0000045248",
       "category": "Pharma - Other",
       "source": "Workday (direct)"
     },
@@ -54,9 +34,49 @@
     },
     {
       "company": "GSK",
-      "title": "Senior Analyst, Data Acquisition",
+      "title": "GO-2",
+      "location": "India - Maharashtra - Nashik Site",
+      "posted_on": "Posted Today",
+      "req_id": "446952",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Nashik-Site/GO-2_446952",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Technology Business Manager",
+      "location": "India - Maharashtra - Worli Mumbai",
+      "posted_on": "Posted Today",
+      "req_id": "447054",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Technology-Business-Manager_447054",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Analyst - TPF C&C",
       "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
+      "req_id": "445626",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---TPF-C-C_445626",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Analyst - Learning Design & Curation",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "445888",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---Learning-Design---Curation_445888",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Analyst, Data Acquisition",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Yesterday",
       "req_id": "446852",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446852",
       "category": "Other",
@@ -66,7 +86,7 @@
       "company": "GSK",
       "title": "Senior Analyst, Data Acquisition",
       "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
+      "posted_on": "Posted Yesterday",
       "req_id": "446851",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446851",
       "category": "Other",
