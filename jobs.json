@@ -1,84 +1,14 @@
 {
-  "generated_at": "2026-09-02T13:20:42.364401+00:00",
-  "total_jobs": 20,
+  "generated_at": "2026-09-02T17:40:35.319922+00:00",
+  "total_jobs": 10,
   "jobs": [
     {
       "company": "IQVIA",
-      "title": "Project Manager",
+      "title": "Global Data Management",
       "location": "Bangalore, India",
       "posted_on": "Posted Today",
-      "req_id": "R1562143",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Project-Manager_R1562143-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Software Development Engineer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1560783",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer_R1560783",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Software Development Engineer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1561505",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer_R1561505",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Software Development Engineer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1556588",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer_R1556588",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Medical Data Reviewer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1564781",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Medical-Data-Reviewer_R1564781",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Primary Market Research Consultant",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1554106",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Consultant_R1554106",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Primary Market Research Associate Consultant",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1556100",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Associate-Consultant_R1556100-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Intern",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1566902",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Intern_R1566902",
+      "req_id": "R1554421",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Global-Data-Management_R1554421",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -110,16 +40,6 @@
       "req_id": "JR156050",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "ICON plc",
-      "title": "Clinical Data Science Programmer",
-      "location": "India, Chennai",
-      "posted_on": "Posted Today",
-      "req_id": "JR159024",
-      "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Clinical-Data-Science-Programmer_JR159024",
-      "category": "Pharma - Other",
       "source": "Workday (direct)"
     },
     {
@@ -179,26 +99,6 @@
       "posted_on": "Posted Today",
       "req_id": "445888",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---Learning-Design---Curation_445888",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Analyst, Data Acquisition",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "446852",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446852",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Analyst, Data Acquisition",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "446851",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446851",
       "category": "Other",
       "source": "Workday (direct)"
     }
