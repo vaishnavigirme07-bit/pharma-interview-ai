@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-09-02T17:40:35.319922+00:00",
-  "total_jobs": 10,
+  "generated_at": "2026-09-02T20:39:39.280165+00:00",
+  "total_jobs": 6,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Global Data Management",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1554421",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Global-Data-Management_R1554421",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
     {
       "company": "Parexel",
       "title": "Associate Digital Health Technologies Manager",
@@ -64,41 +54,11 @@
     },
     {
       "company": "GSK",
-      "title": "Associate - Tier 1 HR Services-3",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "446440",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate---Tier-1-HR-Services-3_446440-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
       "title": "Brand Manager- Adult vaccines",
       "location": "India - Maharashtra - Worli Mumbai",
       "posted_on": "Posted Today",
       "req_id": "446685",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Brand-Manager--Adult-vaccines_446685",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Analyst - TPF C&C",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "445626",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---TPF-C-C_445626",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Analyst - Learning Design & Curation",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "445888",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---Learning-Design---Curation_445888",
       "category": "Other",
       "source": "Workday (direct)"
     }
