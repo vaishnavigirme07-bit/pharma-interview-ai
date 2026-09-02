@@ -1,7 +1,77 @@
 {
-  "generated_at": "2026-09-02T08:30:33.322916+00:00",
-  "total_jobs": 9,
+  "generated_at": "2026-09-02T13:20:42.364401+00:00",
+  "total_jobs": 20,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Project Manager",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1562143",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Project-Manager_R1562143-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Software Development Engineer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1560783",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer_R1560783",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Software Development Engineer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1561505",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer_R1561505",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Software Development Engineer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1556588",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer_R1556588",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Medical Data Reviewer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1564781",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Medical-Data-Reviewer_R1564781",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Primary Market Research Consultant",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1554106",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Consultant_R1554106",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Primary Market Research Associate Consultant",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1556100",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Associate-Consultant_R1556100-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Intern",
@@ -14,12 +84,22 @@
     },
     {
       "company": "Parexel",
-      "title": "Senior Clinical Data Analyst",
+      "title": "Associate Digital Health Technologies Manager",
       "location": "India - Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0000044588",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India---Hyderabad/Senior-Clinical-Data-Analyst_R0000044588",
-      "category": "Pharma - Other",
+      "posted_on": "Posted Today",
+      "req_id": "R0000045524",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India---Hyderabad/Associate-Digital-Health-Technologies-Manager_R0000045524",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Parexel",
+      "title": "Senior Digital Health Technologies Specialist",
+      "location": "India - Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R0000045521",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India---Hyderabad/Senior-Digital-Health-Technologies-Specialist_R0000045521",
+      "category": "Other",
       "source": "Workday (direct)"
     },
     {
@@ -33,12 +113,22 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "GO-2",
-      "location": "India - Maharashtra - Nashik Site",
+      "company": "ICON plc",
+      "title": "Clinical Data Science Programmer",
+      "location": "India, Chennai",
       "posted_on": "Posted Today",
-      "req_id": "446952",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Nashik-Site/GO-2_446952",
+      "req_id": "JR159024",
+      "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Clinical-Data-Science-Programmer_JR159024",
+      "category": "Pharma - Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Manager/Senior Manager - External Supplier Quality – Digitalization & Analytics, GCC",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "439670",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---External-Quality-Supplier-Compliance---GCC_439670",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -49,6 +139,26 @@
       "posted_on": "Posted Today",
       "req_id": "447054",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Technology-Business-Manager_447054",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Associate - Tier 1 HR Services-3",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "446440",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate---Tier-1-HR-Services-3_446440-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Brand Manager- Adult vaccines",
+      "location": "India - Maharashtra - Worli Mumbai",
+      "posted_on": "Posted Today",
+      "req_id": "446685",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Brand-Manager--Adult-vaccines_446685",
       "category": "Other",
       "source": "Workday (direct)"
     },
