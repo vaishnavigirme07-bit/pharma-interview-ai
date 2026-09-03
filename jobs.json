@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T13:19:26.262993+00:00",
-  "total_jobs": 10,
+  "generated_at": "2026-09-03T17:35:49.800028+00:00",
+  "total_jobs": 8,
   "jobs": [
     {
       "company": "IQVIA",
@@ -29,26 +29,6 @@
       "posted_on": "Posted Today",
       "req_id": "R1556437",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Pune-Maharashtra-India/Analyst_R1556437",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Recruiter",
-      "location": "Mumbai, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1563321",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mumbai-India/Recruiter_R1563321",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Parexel",
-      "title": "Associate Digital Health Technologies Manager",
-      "location": "India - Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0000045524",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India---Hyderabad/Associate-Digital-Health-Technologies-Manager_R0000045524",
       "category": "Other",
       "source": "Workday (direct)"
     },
