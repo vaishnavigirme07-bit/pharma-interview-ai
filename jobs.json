@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-09-03T08:38:58.918722+00:00",
+  "generated_at": "2026-09-03T13:19:26.262993+00:00",
   "total_jobs": 10,
   "jobs": [
     {
       "company": "IQVIA",
-      "title": "Primary Market Research Senior Consultant",
+      "title": "Software Devl Mgr",
       "location": "Bangalore, India",
       "posted_on": "Posted Today",
-      "req_id": "R1554110",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Senior-Consultant_R1554110",
+      "req_id": "R1565045",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Devl-Mgr_R1565045",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "SAS Programmer",
+      "location": "Kolkata, West Bengal, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1565476",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kolkata-West-Bengal-India/SAS-Programmer_R1565476",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Analyst",
+      "location": "Pune, Maharashtra, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1556437",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Pune-Maharashtra-India/Analyst_R1556437",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Recruiter",
+      "location": "Mumbai, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1563321",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mumbai-India/Recruiter_R1563321",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -23,22 +53,32 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Parexel",
-      "title": "Senior Digital Health Technologies Specialist",
-      "location": "India - Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0000045521",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India---Hyderabad/Senior-Digital-Health-Technologies-Specialist_R0000045521",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
       "location": "India, Bangalore",
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "JR156050",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Lead - TPF Supply chain analyst",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "445619",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---TPF-Supply-chain-analyst_445619",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Associate - Tier 1 HR Services-3",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "446440",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate---Tier-1-HR-Services-3_446440-1",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -59,46 +99,6 @@
       "posted_on": "Posted Today",
       "req_id": "445111",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Sr-Analyst---SD-Performance_445111",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "xCEL Summer Intern",
-      "location": "India - Maharashtra - Worli Mumbai",
-      "posted_on": "Posted Today",
-      "req_id": "446778",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/xCEL-Summer-Intern_446778",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Manager/Senior Manager - External Supplier Quality – Digitalization & Analytics, GCC",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "439670",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---External-Quality-Supplier-Compliance---GCC_439670",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Technology Business Manager",
-      "location": "India - Maharashtra - Worli Mumbai",
-      "posted_on": "Posted Yesterday",
-      "req_id": "447054",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Technology-Business-Manager_447054",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Brand Manager- Adult vaccines",
-      "location": "India - Maharashtra - Worli Mumbai",
-      "posted_on": "Posted Yesterday",
-      "req_id": "446685",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Brand-Manager--Adult-vaccines_446685",
       "category": "Other",
       "source": "Workday (direct)"
     }
