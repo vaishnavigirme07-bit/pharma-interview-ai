@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T17:35:49.800028+00:00",
-  "total_jobs": 8,
+  "generated_at": "2026-09-03T20:38:35.992746+00:00",
+  "total_jobs": 4,
   "jobs": [
     {
       "company": "IQVIA",
@@ -13,52 +13,12 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "IQVIA",
-      "title": "SAS Programmer",
-      "location": "Kolkata, West Bengal, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1565476",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kolkata-West-Bengal-India/SAS-Programmer_R1565476",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Analyst",
-      "location": "Pune, Maharashtra, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1556437",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Pune-Maharashtra-India/Analyst_R1556437",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
       "location": "India, Bangalore",
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "JR156050",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Lead - TPF Supply chain analyst",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "445619",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---TPF-Supply-chain-analyst_445619",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate - Tier 1 HR Services-3",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "446440",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate---Tier-1-HR-Services-3_446440-1",
       "category": "Other",
       "source": "Workday (direct)"
     },
