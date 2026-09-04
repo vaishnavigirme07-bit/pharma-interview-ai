@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-04T13:13:20.465202+00:00",
-  "total_jobs": 7,
+  "generated_at": "2026-09-04T17:24:56.813810+00:00",
+  "total_jobs": 6,
   "jobs": [
     {
       "company": "IQVIA",
-      "title": "Analyst",
+      "title": "Spark or Pyspark & Scala & Snowflake/ Databrick Developer",
       "location": "Bangalore, India",
       "posted_on": "Posted Today",
-      "req_id": "R1566905",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Analyst_R1566905",
+      "req_id": "R1525899",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Devl-Analyst-2_R1525899",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -30,16 +30,6 @@
       "req_id": "R1562705",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Senior-Managed-Services-Analyst_R1562705",
       "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Clinical Data Management SAS Programmer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1564502",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Clinical-Data-Management-SAS-Programmer_R1564502",
-      "category": "Pharma - Other",
       "source": "Workday (direct)"
     },
     {
