@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T23:01:59.517248+00:00",
-  "total_jobs": 3,
+  "generated_at": "2026-09-04T03:23:21.068437+00:00",
+  "total_jobs": 4,
   "jobs": [
     {
       "company": "ICON plc",
@@ -9,6 +9,16 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "JR156050",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Data Lead, Data Management",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "445697",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Data-Lead--Data-Management_445697",
       "category": "Other",
       "source": "Workday (direct)"
     },
