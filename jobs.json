@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-09-04T17:24:56.813810+00:00",
-  "total_jobs": 6,
+  "generated_at": "2026-09-04T20:24:54.407786+00:00",
+  "total_jobs": 4,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Spark or Pyspark & Scala & Snowflake/ Databrick Developer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1525899",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Devl-Analyst-2_R1525899",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
     {
       "company": "IQVIA",
       "title": "Software Development Engineer",
@@ -19,16 +9,6 @@
       "posted_on": "Posted Today",
       "req_id": "R1561514",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer_R1561514",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Senior Managed Services Analyst",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1562705",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Senior-Managed-Services-Analyst_R1562705",
       "category": "Other",
       "source": "Workday (direct)"
     },
