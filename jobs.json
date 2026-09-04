@@ -1,14 +1,54 @@
 {
-  "generated_at": "2026-09-04T08:33:47.449823+00:00",
-  "total_jobs": 5,
+  "generated_at": "2026-09-04T13:13:20.465202+00:00",
+  "total_jobs": 7,
   "jobs": [
     {
       "company": "IQVIA",
-      "title": "Bigdata Factory (BDF) Support",
+      "title": "Analyst",
       "location": "Bangalore, India",
       "posted_on": "Posted Today",
-      "req_id": "R1561310",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Bigdata-Factory--BDF--Support_R1561310-1",
+      "req_id": "R1566905",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Analyst_R1566905",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Software Development Engineer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1561514",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Development-Engineer_R1561514",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Senior Managed Services Analyst",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1562705",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Senior-Managed-Services-Analyst_R1562705",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Clinical Data Management SAS Programmer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1564502",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Clinical-Data-Management-SAS-Programmer_R1564502",
+      "category": "Pharma - Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Parexel",
+      "title": "Senior eClinical Business Lead, IRT & DHT Design Consultant",
+      "location": "India-Hyderabad-Remote",
+      "posted_on": "Posted Today",
+      "req_id": "R0000045421",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Senior-eClinical-Business-Lead--IRT---DHT-Design-Consultant_R0000045421",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -30,26 +70,6 @@
       "req_id": "446143",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Director-Medical-Writing-Asset-Lead_446143",
       "category": "Pharma - Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Analyst - TPF C&C",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "445628",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---TPF-C-C_445628",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Analyst - TPF C&C",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "445627",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---TPF-C-C_445627",
-      "category": "Other",
       "source": "Workday (direct)"
     }
   ]
