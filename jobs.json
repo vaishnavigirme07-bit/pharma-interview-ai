@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-06T23:34:09.315968+00:00",
-  "total_jobs": 3,
+  "generated_at": "2026-09-07T03:25:15.375853+00:00",
+  "total_jobs": 4,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Clinical Data Management SAS Programmer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1564502",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Clinical-Data-Management-SAS-Programmer_R1564502",
+      "category": "Pharma - Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "Parexel",
       "title": "Senior eClinical Business Lead, IRT & DHT Design Consultant",
