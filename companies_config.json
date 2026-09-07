@@ -22,5 +22,29 @@
     "tenant": "gsk",
     "wd_pod": "wd5",
     "site": "GSKCareers"
+  },
+  {
+    "name": "AstraZeneca",
+    "tenant": "astrazeneca",
+    "wd_pod": "wd3",
+    "site": "Careers"
+  },
+  {
+    "name": "Sanofi",
+    "tenant": "sanofi",
+    "wd_pod": "wd3",
+    "site": "SanofiCareers"
+  },
+  {
+    "name": "Takeda",
+    "tenant": "takeda",
+    "wd_pod": "wd3",
+    "site": "External"
+  },
+  {
+    "name": "Gilead Sciences",
+    "tenant": "gilead",
+    "wd_pod": "wd1",
+    "site": "gileadcareers"
   }
 ]
