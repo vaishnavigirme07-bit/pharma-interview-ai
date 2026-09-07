@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T15:34:06.631166+00:00",
-  "total_jobs": 14,
+  "generated_at": "2026-09-07T19:40:43.474426+00:00",
+  "total_jobs": 55,
   "jobs": [
     {
       "company": "IQVIA",
@@ -63,16 +63,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "IQVIA",
-      "title": "Lead Software Developer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1546267",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Lead-Software-Developer_R1546267-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Parexel",
       "title": "Senior eClinical Business Lead, IRT & DHT Design Consultant",
       "location": "India-Hyderabad-Remote",
@@ -123,22 +113,442 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "Apprentice, India Tier-1 Operations – People Services",
-      "location": "Bengaluru Luxor North Tower",
+      "company": "AstraZeneca",
+      "title": "Full Stack Engineer",
+      "location": "India - Chennai",
       "posted_on": "Posted Today",
-      "req_id": "446848",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Apprentice--India-Tier-1-Operations---People-Services_446848",
+      "req_id": "R-259589",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Full-Stack-Engineer_R-259589",
       "category": "Other",
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "Senior Manager -Finance Risk Management & Controls",
-      "location": "Bengaluru Luxor North Tower",
+      "company": "AstraZeneca",
+      "title": "AWS DevOps & AI Engineer",
+      "location": "India - Chennai",
       "posted_on": "Posted Today",
-      "req_id": "446642",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager--Finance-Risk-Management---Controls_446642",
+      "req_id": "R-259588",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/AWS-DevOps---AI-Engineer_R-259588",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Analyst - Forecasting",
+      "location": "India - Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "R-248695",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Analyst---Forecasting_R-248695-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "International Associate Regulatory Affairs Director I",
+      "location": "India - Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "R-259568",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/International-Associate-Regulatory-Affairs-Director-I_R-259568-1",
+      "category": "Pharma - Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Junior Associate/Associate - AI Prompt & Market Rollout Specialist",
+      "location": "India - Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "R-259567",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Junior-Associate-Associate---AI-Prompt---Market-Rollout-Specialist_R-259567-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Medico Marketing Excellence Executive",
+      "location": "India – Mumbai Commerz",
+      "posted_on": "Posted Today",
+      "req_id": "R-256118",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Medico-Marketing-Excellence-Executive_R-256118",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Associate Web Delivery",
+      "location": "India - Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "R-259548",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Associate-Web-Delivery_R-259548",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Analyst -AVEVA PI Historian",
+      "location": "India - Chennai",
+      "posted_on": "Posted 3 Days Ago",
+      "req_id": "R-258705",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/DevOps-Lead---Tulip---Historian_R-258705",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "AI & Cloud Solutions Engineer",
+      "location": "India - Chennai",
+      "posted_on": "Posted 3 Days Ago",
+      "req_id": "R-259465",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/AI---Cloud-Solutions-Engineer_R-259465",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Analyst - Scientific Communications & Medical Information",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 4 Days Ago",
+      "req_id": "R-254291",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Analyst---Scientific-Communications---Medical-Information_R-254291-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Director - Infrastructure Security Engineering",
+      "location": "India - Chennai",
+      "posted_on": "Posted 4 Days Ago",
+      "req_id": "R-258778",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Director---Infrastructure-Security-Engineering_R-258778-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Manager - Custom Analytics",
+      "location": "India - Chennai",
+      "posted_on": "Posted 4 Days Ago",
+      "req_id": "R-259275",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Manager---Custom-Analytics_R-259275-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Specialist - Decision Scientist",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 4 Days Ago",
+      "req_id": "R-259294",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Specialist---Decision-Scientist_R-259294-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Lead - Diagnostics & Health Innovation Hub",
+      "location": "India – Mumbai Commerz",
+      "posted_on": "Posted 5 Days Ago",
+      "req_id": "R-252218",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Lead---Diagnostics---Health-Innovation-Hub_R-252218-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Scientific Communications & Medical Information Analyst",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 5 Days Ago",
+      "req_id": "R-259295",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Scientific-Communications---Medical-Information-Analyst_R-259295",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Search Experience Lead",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 5 Days Ago",
+      "req_id": "R-259289",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Search-Experience-Lead_R-259289",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Consultant – SAP ABAP HANA",
+      "location": "India - Chennai",
+      "posted_on": "Posted 5 Days Ago",
+      "req_id": "R-257303",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Consultant---SAP-ABAP-HANA_R-257303-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Consultant – SAP ABAP HANA-UI/UX",
+      "location": "India - Chennai",
+      "posted_on": "Posted 5 Days Ago",
+      "req_id": "R-257302",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Consultant---SAP-ABAP-HANA-UI-UX_R-257302-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Software Engineering Lead",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 5 Days Ago",
+      "req_id": "R-247488",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Lead-Consultant---Bespoke-Engineering---AI-Innovation_R-247488-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "IT Senior Business Analyst",
+      "location": "India - Chennai",
+      "posted_on": "Posted 5 Days Ago",
+      "req_id": "R-257487",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Lead Consultant - Snowflake and Cortex AI Engineer",
+      "location": "India - Chennai",
+      "posted_on": "Posted 5 Days Ago",
+      "req_id": "R-259277",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Lead-Consultant---Snowflake-and-Cortex-AI-Engineer_R-259277-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Manager-Operations, GBS Process & Analytics Services",
+      "location": "India - Chennai",
+      "posted_on": "Posted 6 Days Ago",
+      "req_id": "R-258456",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Manager-Operations--GBS-Process---Analytics-Services_R-258456",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Statistical Science Associate Director",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 6 Days Ago",
+      "req_id": "R-257647",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Statistical-Science-Associate-Director_R-257647-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Analyst - Forecasting",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 7 Days Ago",
+      "req_id": "R-259087",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Analyst---Forecasting_R-259087",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Specialist - Forecasting Oncology",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 7 Days Ago",
+      "req_id": "R-258934",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Specialist---Forecasting-Oncology_R-258934",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Statistical Programmer I",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 10 Days Ago",
+      "req_id": "R-258956",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer-I_R-258956-2",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Statistical Programmer II",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 10 Days Ago",
+      "req_id": "R-258957",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer-II_R-258957-2",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Analyst - Forecasting Oncology",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 11 Days Ago",
+      "req_id": "R-258938",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Analyst---Forecasting-Oncology_R-258938",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Specialist - Forecasting Oncology",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 11 Days Ago",
+      "req_id": "R-258935",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Specialist---Forecasting-Oncology_R-258935",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Statistical Programmer",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 12 Days Ago",
+      "req_id": "R-245740",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer_R-245740",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Statistical Programming, Associate Director",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 12 Days Ago",
+      "req_id": "R-255292",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Statistical-Programming--Associate-Director_R-255292-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Director - Data Ops & Data Foundation for Global Operations",
+      "location": "India - Chennai",
+      "posted_on": "Posted 13 Days Ago",
+      "req_id": "R-258803",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Director---Data-Ops---Data-Foundation-for-Global-Operations_R-258803-2",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "International CMC Regulatory Affairs Manager I",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 13 Days Ago",
+      "req_id": "R-258782",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/International-CMC-Regulatory-Affairs-Manager-I_R-258782-2",
+      "category": "Pharma - Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Assistant Manager- Japanese Language Local Case Intake Manager",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 14 Days Ago",
+      "req_id": "R-252405",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Local-Case-Intake-Team-Manager_R-252405-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Platform Engineer – Enterprise Golden Paths & Automated Governance",
+      "location": "India - Chennai",
+      "posted_on": "Posted 17 Days Ago",
+      "req_id": "R-256712",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Platform-Engineer---Enterprise-Golden-Paths---Automated-Governance_R-256712-2",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Statistical Science Director",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 17 Days Ago",
+      "req_id": "R-244641",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Statistical-Science-Director_R-244641-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Director Statistical Programming",
+      "location": "India - Bangalore",
+      "posted_on": "Posted 19 Days Ago",
+      "req_id": "R-257449",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Medical-Director--Patient-Safety-Physician_R-257449-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Analyst – Pharma Analytics – OBU",
+      "location": "India - Chennai",
+      "posted_on": "Posted 20 Days Ago",
+      "req_id": "R-255362",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Analyst---Pharma-Analytics---OBU_R-255362-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Regional Medical Advisor - Oncology",
+      "location": "India - Tamil Nadu",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "R-250500",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Tamil-Nadu/Regional-Medical-Advisor---Oncology_R-250500-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Planning and Performance Lead",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2869803",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Planning-and-Performance-Lead_R2869803",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Access Governance and Compliance Expert",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2868266",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Access-Governance-and-Compliance-Expert_R2868266",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Zonal Market Access Manager",
+      "location": "Mumbai",
+      "posted_on": "Posted Today",
+      "req_id": "R2866958",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Mumbai/Zonal-Market-Access-Manager_R2866958-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "People Services Senior Generalist",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2847491",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/People-Services-Senior-Generalist_R2847491",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Category Buyer SC - Air & Sea Transportation",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2867139",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Category-Buyer-SC---Air---Sea-Transportation_R2867139-1",
       "category": "Other",
       "source": "Workday (direct)"
     }
