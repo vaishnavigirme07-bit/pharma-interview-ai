@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-09-07T03:25:15.375853+00:00",
-  "total_jobs": 4,
+  "generated_at": "2026-09-07T09:02:22.811479+00:00",
+  "total_jobs": 16,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Lead Software Developer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1546267",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Lead-Software-Developer_R1546267-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Assoc Lab Project Svcs Mgr",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1557083",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Assoc-Lab-Project-Svcs-Mgr_R1557083",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Analyst",
+      "location": "Pune, Maharashtra, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1556437",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Pune-Maharashtra-India/Analyst_R1556437",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Sr PHP Developer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1561308",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Sr-PHP-Developer_R1561308-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Analyst",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1566444",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Analyst_R1566444",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Laboratory Network Lead",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1557391",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Laboratory-Network-Lead_R1557391-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Copilot Studio, Power Platform Support",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1543272",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Copilot-Studio--Power-Platform-Support_R1543272-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Bigdata Factory (BDF) Support",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1561310",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Bigdata-Factory--BDF--Support_R1561310-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Primary Market Research Associate Consultant",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1556100",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Associate-Consultant_R1556100-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Clinical Data Management SAS Programmer",
@@ -16,7 +106,7 @@
       "company": "Parexel",
       "title": "Senior eClinical Business Lead, IRT & DHT Design Consultant",
       "location": "India-Hyderabad-Remote",
-      "posted_on": "Posted 2 Days Ago",
+      "posted_on": "Posted 3 Days Ago",
       "req_id": "R0000045421",
       "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Senior-eClinical-Business-Lead--IRT---DHT-Design-Consultant_R0000045421",
       "category": "Other",
@@ -34,12 +124,42 @@
     },
     {
       "company": "GSK",
-      "title": "Director Medical Writing Asset Lead",
+      "title": "xCEL Summer Intern",
+      "location": "India - Maharashtra - Worli Mumbai",
+      "posted_on": "Posted Today",
+      "req_id": "446783",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/xCEL-Summer-Intern_446783",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Associate - Tier 1 HR Services-3",
       "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "446143",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Director-Medical-Writing-Asset-Lead_446143",
-      "category": "Pharma - Other",
+      "posted_on": "Posted Today",
+      "req_id": "446440",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate---Tier-1-HR-Services-3_446440-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Apprentice, India Tier-1 Operations – People Services",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "446848",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Apprentice--India-Tier-1-Operations---People-Services_446848",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Manager -Finance Risk Management & Controls",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "446642",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager--Finance-Risk-Management---Controls_446642",
+      "category": "Other",
       "source": "Workday (direct)"
     }
   ]
