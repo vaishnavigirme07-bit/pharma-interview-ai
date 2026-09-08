@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-08T10:48:49.941340+00:00",
-  "total_jobs": 57,
+  "generated_at": "2026-09-08T14:58:41.745066+00:00",
+  "total_jobs": 54,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Python (Developer &  Support)",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1531562",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Python--Developer----Support-_R1531562",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Medical Sales Rep 1 (Salem Location)",
@@ -9,26 +19,6 @@
       "posted_on": "Posted Today",
       "req_id": "R1566125",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Medical-Sales-Rep-1--Salem-Location-_R1566125",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Payroll Analyst 2",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1541827",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Payroll-Analyst-2_R1541827",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Intern",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1566902",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Intern_R1566902",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -43,12 +33,12 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Parexel",
-      "title": "Senior eClinical Business Lead, IRT & DHT Design Consultant",
-      "location": "India-Hyderabad-Remote",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "R0000045421",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Senior-eClinical-Business-Lead--IRT---DHT-Design-Consultant_R0000045421",
+      "company": "ICON plc",
+      "title": "TMF Specialist (All Levels)",
+      "location": "India, Chennai",
+      "posted_on": "Posted Today",
+      "req_id": "JR142623",
+      "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/TMF-Specialist--All-Levels-_JR142623",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -63,12 +53,12 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "ICON plc",
-      "title": "Accounts Receivable Associate",
-      "location": "India, Trivandrum",
+      "company": "GSK",
+      "title": "Regulatory Associate Manager",
+      "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
-      "req_id": "JR156693",
-      "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Trivandrum/Accounts-Receivable-Associate_JR156693-1",
+      "req_id": "447265",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Regulatory-Associate-Manager_447265",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -79,36 +69,6 @@
       "posted_on": "Posted Today",
       "req_id": "447151",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Manager--Data-Acquisition_447151-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Sr. Analyst - SD Performance",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "445111",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Sr-Analyst---SD-Performance_445111",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Site Engineering Lead",
-      "location": "India - Maharashtra - Nashik Site",
-      "posted_on": "Posted Yesterday",
-      "req_id": "445609",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Nashik-Site/Site-Engineering-Lead_445609",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate - Tier 1 HR Services-3",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "446440",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate---Tier-1-HR-Services-3_446440-1",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -534,6 +494,36 @@
     },
     {
       "company": "Sanofi",
+      "title": "Communications and Engagement Partner, Hyderabad Hub",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2862919",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Hub-Engagement-Partner_R2862919",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Scientific Sales Executive",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "R2859348",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bangalore/Scientific-Sales-Executive_R2859348-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Associate Project Manager Medical Operations",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2870381",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Associate-Project-Manager-Medical-Operations_R2870381-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Group Lead HEVA Communications and Market Access",
       "location": "Hyderabad",
       "posted_on": "Posted Today",
@@ -549,26 +539,6 @@
       "posted_on": "Posted Today",
       "req_id": "R2868845",
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Data-Analytics---Analyst_R2868845",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Planning and Performance Lead",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2869803",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Planning-and-Performance-Lead_R2869803",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Access Governance and Compliance Expert",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2868266",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Access-Governance-and-Compliance-Expert_R2868266",
       "category": "Other",
       "source": "Workday (direct)"
     }
