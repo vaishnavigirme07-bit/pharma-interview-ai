@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-08T00:59:40.138243+00:00",
+  "generated_at": "2026-09-08T05:51:52.635259+00:00",
   "total_jobs": 55,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Intern",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1566902",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Intern_R1566902",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Lab Cent Project Coordinator 1",
@@ -53,16 +63,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "IQVIA",
-      "title": "Analyst",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1567715",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Analyst_R1567715",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Parexel",
       "title": "Senior eClinical Business Lead, IRT & DHT Design Consultant",
       "location": "India-Hyderabad-Remote",
@@ -109,6 +109,26 @@
       "posted_on": "Posted Today",
       "req_id": "446440",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate---Tier-1-HR-Services-3_446440-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Engineer - Fullstack",
+      "location": "India - Chennai",
+      "posted_on": "Posted Today",
+      "req_id": "R-259592",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Engineer---Fullstack_R-259592-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Process Optimisation Senior Analyst",
+      "location": "India - Chennai",
+      "posted_on": "Posted Today",
+      "req_id": "R-259609",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Process-Optimisation-Senior-Analyst_R-259609",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -289,16 +309,6 @@
       "posted_on": "Posted 5 Days Ago",
       "req_id": "R-257302",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Consultant---SAP-ABAP-HANA-UI-UX_R-257302-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Software Engineering Lead",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "R-247488",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Lead-Consultant---Bespoke-Engineering---AI-Innovation_R-247488-1",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -539,16 +549,6 @@
       "posted_on": "Posted Today",
       "req_id": "R2847491",
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/People-Services-Senior-Generalist_R2847491",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Category Buyer SC - Air & Sea Transportation",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2867139",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Category-Buyer-SC---Air---Sea-Transportation_R2867139-1",
       "category": "Other",
       "source": "Workday (direct)"
     }
