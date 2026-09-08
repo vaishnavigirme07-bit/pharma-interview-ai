@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-08T14:58:41.745066+00:00",
-  "total_jobs": 54,
+  "generated_at": "2026-09-08T16:39:00.901443+00:00",
+  "total_jobs": 111,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Spark or Pyspark & Scala & Snowflake/ Databrick Developer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1525899",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Devl-Analyst-2_R1525899",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Python (Developer &  Support)",
@@ -9,16 +19,6 @@
       "posted_on": "Posted Today",
       "req_id": "R1531562",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Python--Developer----Support-_R1531562",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Medical Sales Rep 1 (Salem Location)",
-      "location": "Thane, Maharashtra, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1566125",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Medical-Sales-Rep-1--Salem-Location-_R1566125",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -539,6 +539,576 @@
       "posted_on": "Posted Today",
       "req_id": "R2868845",
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Data-Analytics---Analyst_R2868845",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Sr Programmer Analyst",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "265221",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Sr-Programmer-Analyst--LEDC-_265221",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Senior Manager, Process Compliance Review and Analysis",
+      "location": "Pune",
+      "posted_on": "Posted Today",
+      "req_id": "265191",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Pune/Senior-Manager--Process-Compliance-Review-and-Analysis_265191",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Safety System Manager, Argus SME",
+      "location": "Pune",
+      "posted_on": "Posted Today",
+      "req_id": "265192",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Pune/Safety-System-Manager--Argus-SME_265192",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Senior RFI Manager",
+      "location": "Bangalore",
+      "posted_on": "Posted Yesterday",
+      "req_id": "265140",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Senior-RFI-Manager_265140",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Apprentice IT Product Management (Sales and Marketing)",
+      "location": "Bangalore",
+      "posted_on": "Posted Yesterday",
+      "req_id": "264963",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Apprentice-IT-Product-Management--Sales-and-Marketing-_264963",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Central Monitor Assistant",
+      "location": "Bangalore",
+      "posted_on": "Posted Yesterday",
+      "req_id": "262504",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Central-Monitor-Assistant_262504",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "TMF Classifier I",
+      "location": "Bangalore",
+      "posted_on": "Posted Yesterday",
+      "req_id": "265005",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/TMF-Classifier-I_265005",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Safety & PV Coordinator",
+      "location": "IND-Gurugram",
+      "posted_on": "Posted Today",
+      "req_id": "25112047",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram/Safety---PV-Coordinator_25112047",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Radiation Safety and Scientific Specialist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2630800",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Radiation-Safety-and-Scientific-Specialist_2630800",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Sample Handling Assistant III",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2632059",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Sample-Handling-Assistant-III_2632059",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Manager, Data & Analytics Services",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "268307",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Manager--Data---Analytics-Services_268307-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Global Monitoring Specialist",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2631898",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Global-Monitoring-Specialist_2631898",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Senior Developer, AI - HR Technology",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2630106",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Senior-Developer--AI---HR-Technology_2630106",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Associate Salesforce Developer",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Yesterday",
+      "req_id": "269334",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Associate-Salesforce-Developer_269334",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Assistant Manager Project Management",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Yesterday",
+      "req_id": "2631246",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Assistant-Manager-Project-Management_2631246",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Associate for External Application",
+      "location": "Bengaluru India",
+      "posted_on": "Posted 2 Days Ago",
+      "req_id": "2631266",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Associate-for-External-Application_2631266",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Business Data Enablement Engineer I",
+      "location": "Bengaluru India",
+      "posted_on": "Posted 5 Days Ago",
+      "req_id": "2630962",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Business-Data-Enablement-Engineer-I_2630962",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Sample Handling Assistant II",
+      "location": "Bengaluru India",
+      "posted_on": "Posted 5 Days Ago",
+      "req_id": "2628595",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Sample-Handling-Assistant-II_2628595",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Sample Handling Assistant IIA",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 6 Days Ago",
+      "req_id": "2630715",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Sample-Handling-Assistant-IIA_2630715",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Sample Handling Assistant IIA",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 6 Days Ago",
+      "req_id": "2630870",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Sample-Handling-Assistant-IIA_2630870",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Scientist I (DD)",
+      "location": "Bengaluru India",
+      "posted_on": "Posted 6 Days Ago",
+      "req_id": "2627961",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Scientist-I--DD-_2627961",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I, Toxicology",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 7 Days Ago",
+      "req_id": "2630337",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Toxicology_2630337",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I, Toxicology",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 8 Days Ago",
+      "req_id": "2630341",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Toxicology_2630341",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I, Immunology",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 8 Days Ago",
+      "req_id": "2630339",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Immunology_2630339",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I, Myeloma",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 8 Days Ago",
+      "req_id": "2630345",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Myeloma_2630345",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Phlebotomist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 8 Days Ago",
+      "req_id": "2623244",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2623244",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I, Flow Cytometry",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 11 Days Ago",
+      "req_id": "2630059",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Flow-Cytometry_2630059",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Inventory Management Specialist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 12 Days Ago",
+      "req_id": "2624300",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Inventory-Management-Specialist_2624300-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist 1",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 12 Days Ago",
+      "req_id": "2629876",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-1_2629876",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Phlebotomist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 18 Days Ago",
+      "req_id": "2626945",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2626945",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 22 Days Ago",
+      "req_id": "2628170",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I_2628170",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist l",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 25 Days Ago",
+      "req_id": "2624052",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-l_2624052",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist II",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 26 Days Ago",
+      "req_id": "2626197",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-II--1st-Shift-_2626197",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 26 Days Ago",
+      "req_id": "2626186",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I_2626186",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Contract Associate",
+      "location": "Remote_India",
+      "posted_on": "Posted 26 Days Ago",
+      "req_id": "2626618",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_India/Contract-Associate_2626618",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Phlebotomist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 28 Days Ago",
+      "req_id": "2621723",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2621723",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Manager, Flow Cytometry Laboratory",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 29 Days Ago",
+      "req_id": "2625299",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Manager--Flow-Cytometry-Laboratory_2625299",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Marketing Automation Campaign Specialist",
+      "location": "Bengaluru India",
+      "posted_on": "Posted 28 Days Ago",
+      "req_id": "265970",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Marketing-Automation-Campaign-Specialist_265970",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Phlebotomist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2624031",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2624031",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Quality Auditor - GLP/GCP",
+      "location": "USA - IN - Indianapolis - 8211 Scicor Drive",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2627417",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/Quality-Auditor---GLP-GCP_2627417-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Lead Internal Auditor, GLP/GCP",
+      "location": "USA - IN - Indianapolis - 8211 Scicor Drive",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2625024",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/GLP-GCP-Lead-Internal-Auditor_2625024",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Supervisor, Flow Cytometry",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2626614",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Supervisor--Flow-Cytometry_2626614",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Applications Support Analyst I",
+      "location": "Bengaluru India",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2622941",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Applications-Support-Analyst-I_2622941",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Application Developer",
+      "location": "Mumbai India",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2614508",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Mumbai-India/Application-Developer_2614508",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Director, Customers & Market Insights",
+      "location": "IND - Mumbai - Ground Floor, Unit No. GR 1 - Akruti Softech Park, Road No. 21, Near Passport Office",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2532837",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Mumbai---Ground-Floor-Unit-No-GR-1---Akruti-Softech-Park-Road-No-21-Near-Passport-Office/Director--Customers---Market-Insights_2532837",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Senior Specialist, Platform Analytics AI ( Python and AWS)",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10086856",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Specialist--Platform-Analytics-AI---Python-and-AWS-_REQ-10086856",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "AD, Data Science",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10085696",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/AD--Data-Science_REQ-10085696",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Associate Director - Business Process Excellence",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087123",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director---Business-Process-Excellence_REQ-10087123",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Scientific Computing Engineer - Drug Product Process Modeling & Data Science",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087078",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Specialist--Data-Science---Artificial-Intelligence_REQ-10087078",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Director of Operations, S&O",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087208",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Director-of-Operations--S-O_REQ-10087208",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "TA Lead - Neuroscience",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087225",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/TA-Lead---Neuroscience_REQ-10087225",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Senior Manager - CE compliance & Field Inquiries",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087243",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Manager---CE-compliance---Field-Inquiries_REQ-10087243",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Data Engineer",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10078477",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Data-Engineer_REQ-10078477",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "AI Engineer",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10078476",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/AI-Engineer_REQ-10078476",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Senior Manager – Technical (Legal Technology)",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Yesterday",
+      "req_id": "REQ-10079254",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Manager---Technical--Legal-Technology-_REQ-10079254-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Manager - Supply Chain Management (MAP)",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Yesterday",
+      "req_id": "REQ-10082350",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Manager---Supply-Chain-Management--MAP-_REQ-10082350-2",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Analyst - Supply Chain Management (MAP)",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Yesterday",
+      "req_id": "REQ-10082346",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Analyst---Supply-Chain-Management--MAP-_REQ-10082346-2",
       "category": "Other",
       "source": "Workday (direct)"
     }
