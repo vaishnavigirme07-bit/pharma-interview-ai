@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T21:40:59.130230+00:00",
-  "total_jobs": 111,
+  "generated_at": "2026-09-08T23:56:49.443291+00:00",
+  "total_jobs": 109,
   "jobs": [
     {
       "company": "Parexel",
@@ -1089,26 +1089,6 @@
       "posted_on": "Posted Today",
       "req_id": "REQ-10087243",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Manager---CE-compliance---Field-Inquiries_REQ-10087243",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Data Engineer",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10078477",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Data-Engineer_REQ-10078477",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "AI Engineer",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10078476",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/AI-Engineer_REQ-10078476",
       "category": "Other",
       "source": "Workday (direct)"
     }
