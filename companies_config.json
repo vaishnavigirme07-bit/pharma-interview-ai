@@ -46,5 +46,29 @@
     "tenant": "gilead",
     "wd_pod": "wd1",
     "site": "gileadcareers"
+  },
+  {
+    "name": "Fortrea",
+    "tenant": "fortrea",
+    "wd_pod": "wd1",
+    "site": "Fortrea"
+  },
+  {
+    "name": "Syneos Health",
+    "tenant": "syneoshealth",
+    "wd_pod": "wd12",
+    "site": "Syneos_Health_External_Site"
+  },
+  {
+    "name": "Labcorp",
+    "tenant": "labcorp",
+    "wd_pod": "wd1",
+    "site": "External"
+  },
+  {
+    "name": "Novartis",
+    "tenant": "novartis",
+    "wd_pod": "wd3",
+    "site": "Novartis_Careers"
   }
 ]
