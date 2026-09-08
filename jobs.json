@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T16:39:00.901443+00:00",
-  "total_jobs": 111,
+  "generated_at": "2026-09-08T18:31:36.914918+00:00",
+  "total_jobs": 114,
   "jobs": [
     {
       "company": "IQVIA",
@@ -714,16 +714,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Sample Handling Assistant II",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2628595",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Sample-Handling-Assistant-II_2628595",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Sample Handling Assistant IIA",
       "location": "Indianapolis IN",
       "posted_on": "Posted 6 Days Ago",
@@ -739,16 +729,6 @@
       "posted_on": "Posted 6 Days Ago",
       "req_id": "2630870",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Sample-Handling-Assistant-IIA_2630870",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Scientist I (DD)",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 6 Days Ago",
-      "req_id": "2627961",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Scientist-I--DD-_2627961",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -994,6 +974,86 @@
     },
     {
       "company": "Novartis",
+      "title": "Global Clinical Operations AI Product Director",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10085717",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Global-Clinical-Operations-AI-Product-Director_REQ-10085717-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Global Clinical Operations AI Program Associate Director",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10085720",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Global-Clinical-Operations-AI-Program-Associate-Director_REQ-10085720",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Associate Director, EPRM",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10073887",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director--EPRM_REQ-10073887-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Clinical Scientific Expert-I",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087559",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-I_REQ-10087559",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Clinical Scientific Expert I",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087560",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-I_REQ-10087560",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Clinical Scientific Expert 1",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087557",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-1_REQ-10087557",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Business Process Excellence Lead",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087521",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Business-Process-Excellence-Lead_REQ-10087521",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Clinical Scientific Expert 1",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087555",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-1_REQ-10087555",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Senior Specialist, Platform Analytics AI ( Python and AWS)",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1079,36 +1139,6 @@
       "posted_on": "Posted Today",
       "req_id": "REQ-10078476",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/AI-Engineer_REQ-10078476",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Manager – Technical (Legal Technology)",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10079254",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Manager---Technical--Legal-Technology-_REQ-10079254-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Manager - Supply Chain Management (MAP)",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10082350",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Manager---Supply-Chain-Management--MAP-_REQ-10082350-2",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Analyst - Supply Chain Management (MAP)",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10082346",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Analyst---Supply-Chain-Management--MAP-_REQ-10082346-2",
       "category": "Other",
       "source": "Workday (direct)"
     }
