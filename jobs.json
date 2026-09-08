@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-09-08T18:31:36.914918+00:00",
-  "total_jobs": 114,
+  "generated_at": "2026-09-08T21:40:59.130230+00:00",
+  "total_jobs": 111,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Spark or Pyspark & Scala & Snowflake/ Databrick Developer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1525899",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Devl-Analyst-2_R1525899",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Python (Developer &  Support)",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1531562",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Python--Developer----Support-_R1531562",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
     {
       "company": "Parexel",
       "title": "Associate Clinical Outcomes Assessment",
@@ -49,16 +29,6 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "JR156050",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Regulatory Associate Manager",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447265",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Regulatory-Associate-Manager_447265",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -613,12 +583,12 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Syneos Health",
-      "title": "Safety & PV Coordinator",
-      "location": "IND-Gurugram",
+      "company": "Labcorp",
+      "title": "Quality Auditor - GLP/GCP",
+      "location": "USA - IN - Indianapolis - 8211 Scicor Drive",
       "posted_on": "Posted Today",
-      "req_id": "25112047",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram/Safety---PV-Coordinator_25112047",
+      "req_id": "2632158",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/Quality-Auditor---GLP-GCP_2632158-1",
       "category": "Other",
       "source": "Workday (direct)"
     },
