@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-09T17:41:36.241903+00:00",
-  "total_jobs": 110,
+  "generated_at": "2026-09-09T20:39:43.510562+00:00",
+  "total_jobs": 105,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Senior Metrology and Liquid Chromatography Mass Spectrometry (LCMS) Specialist",
+      "location": "Indianapolis, Indiana, United States of America",
+      "posted_on": "Posted Today",
+      "req_id": "R1566841",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-Indiana-United-States-of-America/Senior-Metrology-and-Liquid-Chromatography-Mass-Spectrometry--LCMS--Specialist_R1566841",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Senior Software Developer",
@@ -9,16 +19,6 @@
       "posted_on": "Posted Today",
       "req_id": "R1564296",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Senior-Software-Developer_R1564296",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Lead - Snowflake & ETL",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1546267",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Lead-Software-Developer_R1546267-1",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -59,36 +59,6 @@
       "posted_on": "Posted Today",
       "req_id": "447110",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager-Global-Quality-PMO---Transformation_447110",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate - Tier 1 HR Services-3",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "446440",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate---Tier-1-HR-Services-3_446440-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Controller    Close & Control Team",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "446138",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Controller----Close---Control-Team_446138",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Financial Oversight Specialist",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "445291",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Financial-Oversight-Specialist_445291",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -574,16 +544,6 @@
     },
     {
       "company": "Fortrea",
-      "title": "Safety Science Coordinator - II",
-      "location": "Bangalore",
-      "posted_on": "Posted Today",
-      "req_id": "265159",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Safety-Science-Coordinator---II_265159",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
       "title": "Sr Programmer Analyst",
       "location": "Bangalore",
       "posted_on": "Posted Yesterday",
@@ -819,16 +779,6 @@
       "posted_on": "Posted 3 Days Ago",
       "req_id": "2631266",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Associate-for-External-Application_2631266",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Business Data Enablement Engineer I",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 6 Days Ago",
-      "req_id": "2630962",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Business-Data-Enablement-Engineer-I_2630962",
       "category": "Other",
       "source": "Workday (direct)"
     },
