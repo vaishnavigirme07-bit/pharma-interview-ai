@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-09-09T13:34:32.562411+00:00",
-  "total_jobs": 117,
+  "generated_at": "2026-09-09T17:41:36.241903+00:00",
+  "total_jobs": 110,
   "jobs": [
     {
       "company": "IQVIA",
-      "title": "Analyst",
-      "location": "Bangalore, India",
+      "title": "Senior Software Developer",
+      "location": "Kochi, India",
       "posted_on": "Posted Today",
-      "req_id": "R1568135",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Analyst_R1568135",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "QA Auditor 2",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1561398",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/QA-Auditor-2_R1561398-1",
+      "req_id": "R1564296",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Senior-Software-Developer_R1564296",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -33,26 +23,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "IQVIA",
-      "title": "Site Solutions Associate",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1557643",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Site-Solutions-Associate_R1557643",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Senior Client Services Lead",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1545606",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Client-Services-Lead_R1545606-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Parexel",
       "title": "Senior Regulatory Affairs Associate",
       "location": "India-Bengaluru-Remote",
@@ -60,16 +30,6 @@
       "req_id": "R0000044936",
       "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Bengaluru-Remote/Senior-Regulatory-Affairs-Associate_R0000044936",
       "category": "Pharma - Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Parexel",
-      "title": "Associate Clinical Outcomes Assessment",
-      "location": "India-Mohali-Remote",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0000044378",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Mohali-Remote/Associate-Clinical-Outcomes-Assessment_R0000044378",
-      "category": "Other",
       "source": "Workday (direct)"
     },
     {
@@ -593,36 +553,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Communications and Engagement Partner, Hyderabad Hub",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2862919",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Hub-Engagement-Partner_R2862919",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Scientific Sales Executive",
-      "location": "Bangalore",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2859348",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bangalore/Scientific-Sales-Executive_R2859348-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Associate Project Manager Medical Operations",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2870381",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Associate-Project-Manager-Medical-Operations_R2870381-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Sr Clinical Data Specialist",
       "location": "Bangalore",
@@ -704,11 +634,91 @@
     },
     {
       "company": "Syneos Health",
+      "title": "Safety & PV Coordinator (Hyderabad Office-based) - Immediate Joiners",
+      "location": "IND-Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "25110936",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad/Safety---PV-Coordinator--Hyderabad-Office-based----Immediate-Joiners_25110936",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Senior Full Stack Software Developer - Hyderabad - Hybrid",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25105893",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Senior-Full-Stack-Software-Developer---Hyderabad---Hybrid_25105893",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
       "title": "Senior Project Associate (3rd Shift - 8 PM to 5 AM IST)",
       "location": "IND-Hyderabad-Hybrid",
       "posted_on": "Posted Today",
       "req_id": "25111186",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Project-Associate_25111186",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Intern - Commercial Finance",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2630594",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Commercial-Finance_2630594",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Affairs Coordinator",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2625968",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Affairs-Coordinator_2625968",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Intern - Core Automated Testing and Immunology",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2632035",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Core-Automated-Testing-and-Immunology_2632035",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Intern - Assay Pricing Strategy",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2632036",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Assay-Pricing-Strategy_2632036-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Intern - Microbiology Lab",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2631977",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Microbiology-Lab_2631977",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Intern - Genomics Lab",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2630755",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Genomics-Lab_2630755",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -1089,86 +1099,6 @@
       "posted_on": "Posted Today",
       "req_id": "REQ-10087630",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/HSE---ES-Intern_REQ-10087630-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Global Clinical Operations AI Product Director",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10085717",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Global-Clinical-Operations-AI-Product-Director_REQ-10085717-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Global Clinical Operations AI Program Associate Director",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10085720",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Global-Clinical-Operations-AI-Program-Associate-Director_REQ-10085720",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Associate Director, EPRM",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10073887",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director--EPRM_REQ-10073887-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Clinical Scientific Expert-I",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087559",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-I_REQ-10087559",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Clinical Scientific Expert I",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087560",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-I_REQ-10087560",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Clinical Scientific Expert 1",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087557",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-1_REQ-10087557",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Business Process Excellence Lead",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087521",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Business-Process-Excellence-Lead_REQ-10087521",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Clinical Scientific Expert 1",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087555",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-1_REQ-10087555",
       "category": "Other",
       "source": "Workday (direct)"
     }
