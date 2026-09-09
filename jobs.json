@@ -1,55 +1,65 @@
 {
-  "generated_at": "2026-09-09T08:48:17.918589+00:00",
-  "total_jobs": 114,
+  "generated_at": "2026-09-09T13:34:32.562411+00:00",
+  "total_jobs": 117,
   "jobs": [
     {
       "company": "IQVIA",
-      "title": "Project Manager",
+      "title": "Analyst",
       "location": "Bangalore, India",
       "posted_on": "Posted Today",
-      "req_id": "R1562143",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Project-Manager_R1562143-1",
+      "req_id": "R1568135",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Analyst_R1568135",
       "category": "Other",
       "source": "Workday (direct)"
     },
     {
       "company": "IQVIA",
-      "title": "Manager Stat Programmer",
+      "title": "QA Auditor 2",
       "location": "Bangalore, India",
       "posted_on": "Posted Today",
-      "req_id": "R1565324",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Manager-Stat-Programmer_R1565324",
+      "req_id": "R1561398",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/QA-Auditor-2_R1561398-1",
       "category": "Other",
       "source": "Workday (direct)"
     },
     {
       "company": "IQVIA",
-      "title": "Senior Statistical Programmer",
-      "location": "Hyderabad, Telangana, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1557057",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Hyderabad-Telangana-India/Senior-Statistical-Programmer_R1557057",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Senior Rave Programmer",
+      "title": "Lead - Snowflake & ETL",
       "location": "Bangalore, India",
       "posted_on": "Posted Today",
-      "req_id": "R1565045",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Devl-Mgr_R1565045",
+      "req_id": "R1546267",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Lead-Software-Developer_R1546267-1",
       "category": "Other",
       "source": "Workday (direct)"
     },
     {
       "company": "IQVIA",
-      "title": "India- Software Devl Analyst 2",
-      "location": "Kolkata, West Bengal, India",
+      "title": "Site Solutions Associate",
+      "location": "Bangalore, India",
       "posted_on": "Posted Today",
-      "req_id": "R1564583",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kolkata-West-Bengal-India/India--Software-Devl-Analyst-2_R1564583",
+      "req_id": "R1557643",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Site-Solutions-Associate_R1557643",
       "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Senior Client Services Lead",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1545606",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Client-Services-Lead_R1545606-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Parexel",
+      "title": "Senior Regulatory Affairs Associate",
+      "location": "India-Bengaluru-Remote",
+      "posted_on": "Posted Today",
+      "req_id": "R0000044936",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Bengaluru-Remote/Senior-Regulatory-Affairs-Associate_R0000044936",
+      "category": "Pharma - Other",
       "source": "Workday (direct)"
     },
     {
@@ -84,6 +94,36 @@
     },
     {
       "company": "GSK",
+      "title": "Senior Manager-Global Quality PMO & Transformation",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "447110",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager-Global-Quality-PMO---Transformation_447110",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Associate - Tier 1 HR Services-3",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "446440",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate---Tier-1-HR-Services-3_446440-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Controller    Close & Control Team",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "446138",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Controller----Close---Control-Team_446138",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
       "title": "Financial Oversight Specialist",
       "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
@@ -93,12 +133,12 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "Manager, Data Acquisition",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "447151",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Manager--Data-Acquisition_447151-1",
+      "company": "AstraZeneca",
+      "title": "Senior Statistician II",
+      "location": "India - Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "R-256066",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistician-II_R-256066-2",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -514,6 +554,16 @@
     },
     {
       "company": "Sanofi",
+      "title": "S2P Solution Associate Specialist",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2867103",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/S2P-Solution-Associate-Specialist_R2867103-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Clinical Data Curator Specialist (CDCS)",
       "location": "Hyderabad",
       "posted_on": "Posted Today",
@@ -573,22 +623,22 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Group Lead HEVA Communications and Market Access",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2870725",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Group-Lead-HEVA-Communications-and-Market-Access_R2870725",
-      "category": "Other",
+      "company": "Fortrea",
+      "title": "Sr Clinical Data Specialist",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "265129",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Sr-Clinical-Data-Specialist_265129",
+      "category": "Pharma - Other",
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Data Analytics - Analyst",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2868845",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Data-Analytics---Analyst_R2868845",
+      "company": "Fortrea",
+      "title": "REGULATORY AND START-UP",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "262931",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/REGULATORY-AND-START-UP_262931",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -653,22 +703,22 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "TMF Classifier I",
-      "location": "Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "265005",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/TMF-Classifier-I_265005",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Syneos Health",
       "title": "Senior Project Associate (3rd Shift - 8 PM to 5 AM IST)",
       "location": "IND-Hyderabad-Hybrid",
       "posted_on": "Posted Today",
       "req_id": "25111186",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Project-Associate_25111186",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Network Engineer II",
+      "location": "IND - Bangalore - MSR Vaishnavi, No 29 Union Street - Off Cubbon Road",
+      "posted_on": "Posted Today",
+      "req_id": "263295",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Bangalore---MSR-Vaishnavi-No-29-Union-Street---Off-Cubbon-Road/Network-Engineer-II_263295",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -1034,6 +1084,16 @@
     },
     {
       "company": "Novartis",
+      "title": "HSE & ES Intern",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087630",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/HSE---ES-Intern_REQ-10087630-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Global Clinical Operations AI Product Director",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1109,36 +1169,6 @@
       "posted_on": "Posted Yesterday",
       "req_id": "REQ-10087555",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-1_REQ-10087555",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Specialist, Platform Analytics AI ( Python and AWS)",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10086856",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Specialist--Platform-Analytics-AI---Python-and-AWS-_REQ-10086856",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "AD, Data Science",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10085696",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/AD--Data-Science_REQ-10085696",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Associate Director - Business Process Excellence",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087123",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director---Business-Process-Excellence_REQ-10087123",
       "category": "Other",
       "source": "Workday (direct)"
     }
