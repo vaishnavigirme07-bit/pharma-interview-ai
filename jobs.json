@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-10T13:24:25.836337+00:00",
-  "total_jobs": 125,
+  "generated_at": "2026-09-10T17:34:05.821922+00:00",
+  "total_jobs": 124,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Inventory Control Associate",
+      "location": "Indianapolis, Indiana, United States of America",
+      "posted_on": "Posted Today",
+      "req_id": "R1559144",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-Indiana-United-States-of-America/Inventory-Control-Associate_R1559144",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Product Sppt Trainee",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1565428",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Product-Sppt-Trainee_R1565428",
+      "category": "Other",
+      "experience_level": "Entry-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Lab Cent Project Coordinator 1",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1556524",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Lab-Cent-Project-Coordinator-1_R1556524",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Global Data Management",
@@ -9,57 +42,8 @@
       "posted_on": "Posted Today",
       "req_id": "R1554421",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Global-Data-Management_R1554421",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "QA Auditor 2",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1561398",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/QA-Auditor-2_R1561398-1",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Associate Consultant - Market Research and Analytics",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1554046",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Analyst_R1554046",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Medical Sales Rep 1 (Lucknow Loc)",
-      "location": "Thane, Maharashtra, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1562796",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Medical-Sales-Rep-1--Lucknow-Loc-_R1562796",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Associate QA Analyst",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1556470",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Associate-QA-Analyst_R1556470",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Associate QA Analyst",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1556137",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Associate-QA-Analyst_R1556137",
-      "category": "Other",
+      "category": "Medical Writing & QA",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -70,16 +54,7 @@
       "req_id": "R0000040635",
       "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Health-Economics-Associate_R0000040635",
       "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Parexel",
-      "title": "Senior Regulatory Affairs Associate",
-      "location": "India-Bengaluru-Remote",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0000044936",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Bengaluru-Remote/Senior-Regulatory-Affairs-Associate_R0000044936",
-      "category": "Pharma - Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -89,7 +64,8 @@
       "posted_on": "Posted 2 Days Ago",
       "req_id": "JR142623",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/TMF-Specialist--All-Levels-_JR142623",
-      "category": "Other",
+      "category": "TMF / Document Mgmt",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -100,6 +76,7 @@
       "req_id": "JR156050",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -110,6 +87,7 @@
       "req_id": "445813",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bangalore/Assistant-Legal-Counsel_445813",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -120,6 +98,7 @@
       "req_id": "447552",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/xCEL-2027-Summer-Internship-Programme_447552",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -130,6 +109,7 @@
       "req_id": "447423",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Supplier-Quality-Auditor_447423-1",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -140,6 +120,7 @@
       "req_id": "446440",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate---Tier-1-HR-Services-3_446440-1",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -149,7 +130,8 @@
       "posted_on": "Posted Today",
       "req_id": "R-254401",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Statistical-Programmer-II_R-254401",
-      "category": "Other",
+      "category": "Medical Writing & QA",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -160,6 +142,7 @@
       "req_id": "R-258456",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Manager-Operations--GBS-Process---Analytics-Services_R-258456",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -170,6 +153,7 @@
       "req_id": "R-258180",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Director---Software-Development--Cell-Therapy-IT_R-258180",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -180,6 +164,7 @@
       "req_id": "R-256066",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistician-II_R-256066-2",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -190,6 +175,7 @@
       "req_id": "R-259703",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Associate---Local-Case-Intake-Advisor--Japanese-Language-_R-259703",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -200,6 +186,7 @@
       "req_id": "R-256648",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Lead-Consultant---Service-Management-Sentinel-_R-256648-1",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -210,6 +197,7 @@
       "req_id": "R-259086",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Site-IT-Technical-Manager_R-259086",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -220,6 +208,7 @@
       "req_id": "R-259592",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Engineer---Fullstack_R-259592-1",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -230,6 +219,7 @@
       "req_id": "R-259609",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Process-Optimisation-Senior-Analyst_R-259609",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -240,6 +230,7 @@
       "req_id": "R-259589",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Full-Stack-Engineer_R-259589",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -249,7 +240,8 @@
       "posted_on": "Posted 3 Days Ago",
       "req_id": "R-259588",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/AWS-DevOps---AI-Engineer_R-259588",
-      "category": "Other",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -260,6 +252,7 @@
       "req_id": "R-248695",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Analyst---Forecasting_R-248695-1",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -270,6 +263,7 @@
       "req_id": "R-259567",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Junior-Associate-Associate---AI-Prompt---Market-Rollout-Specialist_R-259567-1",
       "category": "Other",
+      "experience_level": "Entry-level",
       "source": "Workday (direct)"
     },
     {
@@ -280,6 +274,7 @@
       "req_id": "R-256118",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Medico-Marketing-Excellence-Executive_R-256118",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -290,6 +285,7 @@
       "req_id": "R-259548",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Associate-Web-Delivery_R-259548",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -300,6 +296,7 @@
       "req_id": "R-258705",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/DevOps-Lead---Tulip---Historian_R-258705",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -310,6 +307,7 @@
       "req_id": "R-259465",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/AI---Cloud-Solutions-Engineer_R-259465",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -320,6 +318,7 @@
       "req_id": "R-254291",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Analyst---Scientific-Communications---Medical-Information_R-254291-1",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -330,6 +329,7 @@
       "req_id": "R-258778",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Director---Infrastructure-Security-Engineering_R-258778-1",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -340,6 +340,7 @@
       "req_id": "R-259275",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Manager---Custom-Analytics_R-259275-1",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -350,6 +351,7 @@
       "req_id": "R-259294",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Specialist---Decision-Scientist_R-259294-1",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -360,6 +362,7 @@
       "req_id": "R-252218",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Lead---Diagnostics---Health-Innovation-Hub_R-252218-1",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -370,6 +373,7 @@
       "req_id": "R-259295",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Scientific-Communications---Medical-Information-Analyst_R-259295",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -380,6 +384,7 @@
       "req_id": "R-259289",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Search-Experience-Lead_R-259289",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -390,6 +395,7 @@
       "req_id": "R-257303",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Consultant---SAP-ABAP-HANA_R-257303-1",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -400,6 +406,7 @@
       "req_id": "R-257302",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Consultant---SAP-ABAP-HANA-UI-UX_R-257302-1",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -409,7 +416,8 @@
       "posted_on": "Posted 8 Days Ago",
       "req_id": "R-257487",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/IT-Senior-Business-Analyst_R-257487",
-      "category": "Other",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -420,6 +428,7 @@
       "req_id": "R-259277",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Lead-Consultant---Snowflake-and-Cortex-AI-Engineer_R-259277-1",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -430,6 +439,7 @@
       "req_id": "R-257647",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Statistical-Science-Associate-Director_R-257647-1",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -440,6 +450,7 @@
       "req_id": "R-258934",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Specialist---Forecasting-Oncology_R-258934",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -449,7 +460,8 @@
       "posted_on": "Posted 13 Days Ago",
       "req_id": "R-258956",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer-I_R-258956-2",
-      "category": "Other",
+      "category": "Medical Writing & QA",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -459,7 +471,8 @@
       "posted_on": "Posted 13 Days Ago",
       "req_id": "R-258957",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer-II_R-258957-2",
-      "category": "Other",
+      "category": "Medical Writing & QA",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -470,6 +483,7 @@
       "req_id": "R-258938",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Analyst---Forecasting-Oncology_R-258938",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -480,6 +494,7 @@
       "req_id": "R-258935",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Specialist---Forecasting-Oncology_R-258935",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -489,7 +504,8 @@
       "posted_on": "Posted 15 Days Ago",
       "req_id": "R-245740",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer_R-245740",
-      "category": "Other",
+      "category": "Medical Writing & QA",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -500,6 +516,7 @@
       "req_id": "R-255292",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Statistical-Programming--Associate-Director_R-255292-1",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -510,6 +527,7 @@
       "req_id": "R-258803",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Director---Data-Ops---Data-Foundation-for-Global-Operations_R-258803-2",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -519,7 +537,8 @@
       "posted_on": "Posted 16 Days Ago",
       "req_id": "R-258782",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/International-CMC-Regulatory-Affairs-Manager-I_R-258782-2",
-      "category": "Pharma - Other",
+      "category": "Regulatory Affairs",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -530,6 +549,7 @@
       "req_id": "R-252405",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Local-Case-Intake-Team-Manager_R-252405-1",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -540,6 +560,7 @@
       "req_id": "R-256712",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Platform-Engineer---Enterprise-Golden-Paths---Automated-Governance_R-256712-2",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -550,6 +571,7 @@
       "req_id": "R-244641",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Statistical-Science-Director_R-244641-1",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -560,6 +582,7 @@
       "req_id": "R-257449",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Medical-Director--Patient-Safety-Physician_R-257449-1",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -570,6 +593,7 @@
       "req_id": "R-255362",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Analyst---Pharma-Analytics---OBU_R-255362-1",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -580,6 +604,7 @@
       "req_id": "R-250500",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Tamil-Nadu/Regional-Medical-Advisor---Oncology_R-250500-1",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -590,6 +615,7 @@
       "req_id": "R2867158",
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Project-Specialist---Global-Meetings---Events_R2867158-1",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -599,7 +625,8 @@
       "posted_on": "Posted Today",
       "req_id": "R2870641",
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Mumbai/Head-Regulatory-Affairs_R2870641",
-      "category": "Pharma - Other",
+      "category": "Regulatory Affairs",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -610,6 +637,7 @@
       "req_id": "R2870776",
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Associate-Manager-Managed-Access-Program_R2870776-1",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -620,6 +648,7 @@
       "req_id": "R2870296",
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-Reporting-Solutions_R2870296-1",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -630,6 +659,7 @@
       "req_id": "R2856173",
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Sr-Analyst-Data-Process-Management_R2856173",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -640,6 +670,7 @@
       "req_id": "R2859348",
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bangalore/Scientific-Sales-Executive_R2859348-1",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -650,6 +681,7 @@
       "req_id": "264910",
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Central-Monitoring-Associate-Manager_264910",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -660,6 +692,7 @@
       "req_id": "265214",
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Pune/Team-Manager_265214",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -669,7 +702,8 @@
       "posted_on": "Posted Yesterday",
       "req_id": "265129",
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Sr-Clinical-Data-Specialist_265129",
-      "category": "Pharma - Other",
+      "category": "Medical Writing & QA",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -680,6 +714,18 @@
       "req_id": "262931",
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/REGULATORY-AND-START-UP_262931",
       "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Vendor Assessment Analyst",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25110594",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Vendor-Assessment-Analyst_25110594",
+      "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -689,7 +735,8 @@
       "posted_on": "Posted Today",
       "req_id": "25106369",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Tech-Compliance-Analyst-II_25106369",
-      "category": "Other",
+      "category": "Medical Writing & QA",
+      "experience_level": "Entry-level",
       "source": "Workday (direct)"
     },
     {
@@ -700,6 +747,7 @@
       "req_id": "25104612",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram/Director--Safety---PV--Veeva-Safety-Implementation---Operations-_25104612",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -710,6 +758,7 @@
       "req_id": "25110587",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad/Safety---PV-Coordinator--Hyderabad-Office-based-_25110587",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -720,6 +769,7 @@
       "req_id": "25110936",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad/Safety---PV-Coordinator--Hyderabad-Office-based----Immediate-Joiners_25110936",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -729,17 +779,30 @@
       "posted_on": "Posted Yesterday",
       "req_id": "25105893",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Senior-Full-Stack-Software-Developer---Hyderabad---Hybrid_25105893",
-      "category": "Other",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
-      "company": "Syneos Health",
-      "title": "Senior Project Associate (3rd Shift - 8 PM to 5 AM IST)",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted Yesterday",
-      "req_id": "25111186",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Project-Associate_25111186",
+      "company": "Labcorp",
+      "title": "Phlebotomist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2628383",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2628383",
       "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Specimen Processor",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2621373",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Specimen-Processor_2621373",
+      "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -750,6 +813,7 @@
       "req_id": "2631274",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Process-Excellence-Associate_2631274",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -760,6 +824,7 @@
       "req_id": "2632180",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Validation-Specialist--Immunoassay_2632180-1",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -770,6 +835,7 @@
       "req_id": "2630594",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Commercial-Finance_2630594",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -780,6 +846,7 @@
       "req_id": "2625968",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Affairs-Coordinator_2625968",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -790,6 +857,7 @@
       "req_id": "2632035",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Core-Automated-Testing-and-Immunology_2632035",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -800,6 +868,7 @@
       "req_id": "2632036",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Assay-Pricing-Strategy_2632036-1",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -810,6 +879,7 @@
       "req_id": "2631977",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Microbiology-Lab_2631977",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -820,6 +890,7 @@
       "req_id": "2630755",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Genomics-Lab_2630755",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -829,7 +900,8 @@
       "posted_on": "Posted Yesterday",
       "req_id": "263295",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Bangalore---MSR-Vaishnavi-No-29-Union-Street---Off-Cubbon-Road/Network-Engineer-II_263295",
-      "category": "Other",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -840,6 +912,7 @@
       "req_id": "2632158",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/Quality-Auditor---GLP-GCP_2632158-1",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -850,6 +923,7 @@
       "req_id": "2630800",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Radiation-Safety-and-Scientific-Specialist_2630800",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -860,6 +934,7 @@
       "req_id": "2632059",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Sample-Handling-Assistant-III_2632059",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -870,6 +945,7 @@
       "req_id": "268307",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Manager--Data---Analytics-Services_268307-1",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -880,6 +956,7 @@
       "req_id": "2631898",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Global-Monitoring-Specialist_2631898",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -889,7 +966,8 @@
       "posted_on": "Posted 2 Days Ago",
       "req_id": "2630106",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Senior-Developer--AI---HR-Technology_2630106",
-      "category": "Other",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -899,7 +977,8 @@
       "posted_on": "Posted 3 Days Ago",
       "req_id": "269334",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Associate-Salesforce-Developer_269334",
-      "category": "Other",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -910,6 +989,7 @@
       "req_id": "2631246",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Assistant-Manager-Project-Management_2631246",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -920,6 +1000,7 @@
       "req_id": "2631266",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Associate-for-External-Application_2631266",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -930,6 +1011,7 @@
       "req_id": "2630715",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Sample-Handling-Assistant-IIA_2630715",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -940,6 +1022,7 @@
       "req_id": "2630870",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Sample-Handling-Assistant-IIA_2630870",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -950,6 +1033,7 @@
       "req_id": "2630337",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Toxicology_2630337",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -960,6 +1044,7 @@
       "req_id": "2630341",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Toxicology_2630341",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -970,6 +1055,7 @@
       "req_id": "2630339",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Immunology_2630339",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -980,6 +1066,7 @@
       "req_id": "2630345",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Myeloma_2630345",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -990,6 +1077,7 @@
       "req_id": "2623244",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2623244",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1000,6 +1088,7 @@
       "req_id": "2630059",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Flow-Cytometry_2630059",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1010,6 +1099,7 @@
       "req_id": "2624300",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Inventory-Management-Specialist_2624300-1",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -1020,6 +1110,7 @@
       "req_id": "2629876",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-1_2629876",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1030,6 +1121,7 @@
       "req_id": "2626945",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2626945",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1040,6 +1132,7 @@
       "req_id": "2628170",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I_2628170",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1050,6 +1143,7 @@
       "req_id": "2624052",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-l_2624052",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1060,6 +1154,7 @@
       "req_id": "2626197",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-II--1st-Shift-_2626197",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1070,6 +1165,7 @@
       "req_id": "2626186",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I_2626186",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1080,6 +1176,7 @@
       "req_id": "2626618",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_India/Contract-Associate_2626618",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -1090,6 +1187,7 @@
       "req_id": "2621723",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2621723",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1100,6 +1198,7 @@
       "req_id": "2625299",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Manager--Flow-Cytometry-Laboratory_2625299",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -1110,6 +1209,7 @@
       "req_id": "265970",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Marketing-Automation-Campaign-Specialist_265970",
       "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -1120,6 +1220,7 @@
       "req_id": "2624031",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2624031",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1130,6 +1231,7 @@
       "req_id": "2627417",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/Quality-Auditor---GLP-GCP_2627417-1",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1140,6 +1242,7 @@
       "req_id": "2625024",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/GLP-GCP-Lead-Internal-Auditor_2625024",
       "category": "Other",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -1150,6 +1253,7 @@
       "req_id": "2626614",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Supervisor--Flow-Cytometry_2626614",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1160,6 +1264,7 @@
       "req_id": "2622941",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Applications-Support-Analyst-I_2622941",
       "category": "Other",
+      "experience_level": "Entry-level",
       "source": "Workday (direct)"
     },
     {
@@ -1169,7 +1274,8 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "2614508",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Mumbai-India/Application-Developer_2614508",
-      "category": "Other",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1180,6 +1286,7 @@
       "req_id": "2532837",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Mumbai---Ground-Floor-Unit-No-GR-1---Akruti-Softech-Park-Road-No-21-Near-Passport-Office/Director--Customers---Market-Insights_2532837",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -1190,6 +1297,7 @@
       "req_id": "REQ-10086553",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Study-Grants-Manager_REQ-10086553-2",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -1200,6 +1308,7 @@
       "req_id": "REQ-10087594",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Indianapolis/Maintenance-Shift-Supervisor--Nights-_REQ-10087594-1",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1210,6 +1319,7 @@
       "req_id": "REQ-10087679",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
       "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1220,6 +1330,7 @@
       "req_id": "REQ-10076461",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director-CRM--TA-Access_REQ-10076461",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -1230,6 +1341,7 @@
       "req_id": "REQ-10075602",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Manager_REQ-10075602",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -1240,6 +1352,7 @@
       "req_id": "REQ-10084423",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Manager---Operations-Digital-Finance_REQ-10084423",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -1250,6 +1363,7 @@
       "req_id": "REQ-10085495",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Manager---BR-Global-Initiative_REQ-10085495",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     }
   ]
