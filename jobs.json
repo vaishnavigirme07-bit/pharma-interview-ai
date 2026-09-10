@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:03:19.754699+00:00",
-  "total_jobs": 105,
+  "generated_at": "2026-09-10T03:36:04.845719+00:00",
+  "total_jobs": 102,
   "jobs": [
     {
       "company": "IQVIA",
@@ -503,16 +503,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "SE Asia & India MCO Rare Disease Medical Lead",
-      "location": "Mumbai",
-      "posted_on": "Posted Today",
-      "req_id": "R2861703",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Mumbai/SE-Asia---India-MCO-Rare-Disease-Medical-Lead_R2861703",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Sr Clinical Data Specialist",
       "location": "Bangalore",
@@ -559,26 +549,6 @@
       "posted_on": "Posted Yesterday",
       "req_id": "265192",
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Pune/Safety-System-Manager--Argus-SME_265192",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
-      "title": "Senior RFI Manager",
-      "location": "Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "265140",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Senior-RFI-Manager_265140",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
-      "title": "Central Monitor Assistant",
-      "location": "Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "262504",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Central-Monitor-Assistant_262504",
       "category": "Other",
       "source": "Workday (direct)"
     },
