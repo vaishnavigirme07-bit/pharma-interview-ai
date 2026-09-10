@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-09-10T20:33:54.677567+00:00",
-  "total_jobs": 104,
+  "generated_at": "2026-09-10T23:01:17.747672+00:00",
+  "total_jobs": 103,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Inventory Control Associate",
-      "location": "Indianapolis, Indiana, United States of America",
-      "posted_on": "Posted Today",
-      "req_id": "R1559144",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-Indiana-United-States-of-America/Inventory-Control-Associate_R1559144",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Product Sppt Trainee",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1565428",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Product-Sppt-Trainee_R1565428",
-      "category": "Other",
-      "experience_level": "Entry-level",
-      "source": "Workday (direct)"
-    },
     {
       "company": "Parexel",
       "title": "Health Economics Associate",
@@ -583,6 +561,17 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Senior-Full-Stack-Software-Developer---Hyderabad---Hybrid_25105893",
       "category": "IT / Systems / Analyst",
       "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2632256",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I_2632256",
+      "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
