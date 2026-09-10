@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-09-10T08:46:50.749739+00:00",
-  "total_jobs": 115,
+  "generated_at": "2026-09-10T13:24:25.836337+00:00",
+  "total_jobs": 125,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Global Data Management",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1554421",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Global-Data-Management_R1554421",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "QA Auditor 2",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1561398",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/QA-Auditor-2_R1561398-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Associate Consultant - Market Research and Analytics",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1554046",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Analyst_R1554046",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Medical Sales Rep 1 (Lucknow Loc)",
+      "location": "Thane, Maharashtra, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1562796",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Medical-Sales-Rep-1--Lucknow-Loc-_R1562796",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Associate QA Analyst",
@@ -19,16 +59,6 @@
       "posted_on": "Posted Today",
       "req_id": "R1556137",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Associate-QA-Analyst_R1556137",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Senior Metrology and Liquid Chromatography Mass Spectrometry (LCMS) Specialist",
-      "location": "Indianapolis, Indiana, United States of America",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R1566841",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-Indiana-United-States-of-America/Senior-Metrology-and-Liquid-Chromatography-Mass-Spectrometry--LCMS--Specialist_R1566841",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -74,11 +104,31 @@
     },
     {
       "company": "GSK",
-      "title": "Apprentice, India Tier-1 Operations – People Services",
+      "title": "Assistant Legal Counsel",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "445813",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bangalore/Assistant-Legal-Counsel_445813",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "xCEL 2027 Summer Internship Programme",
       "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
-      "req_id": "446848",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Apprentice--India-Tier-1-Operations---People-Services_446848",
+      "req_id": "447552",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/xCEL-2027-Summer-Internship-Programme_447552",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Supplier Quality Auditor",
+      "location": "India - Maharashtra - Worli Mumbai",
+      "posted_on": "Posted Today",
+      "req_id": "447423",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Supplier-Quality-Auditor_447423-1",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -93,22 +143,32 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "Senior Manager-Global Quality PMO & Transformation",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "447110",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager-Global-Quality-PMO---Transformation_447110",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "AstraZeneca",
       "title": "Statistical Programmer II",
       "location": "India - Bangalore",
       "posted_on": "Posted Today",
       "req_id": "R-254401",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Statistical-Programmer-II_R-254401",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Manager-Operations, GBS Process & Analytics Services",
+      "location": "India - Chennai",
+      "posted_on": "Posted Today",
+      "req_id": "R-258456",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Manager-Operations--GBS-Process---Analytics-Services_R-258456",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Director - Software Development, Cell Therapy IT",
+      "location": "India - Chennai",
+      "posted_on": "Posted Today",
+      "req_id": "R-258180",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Director---Software-Development--Cell-Therapy-IT_R-258180",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -374,16 +434,6 @@
     },
     {
       "company": "AstraZeneca",
-      "title": "Senior Manager-Operations, GBS Process & Analytics Services",
-      "location": "India - Chennai",
-      "posted_on": "Posted 9 Days Ago",
-      "req_id": "R-258456",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Manager-Operations--GBS-Process---Analytics-Services_R-258456",
-      "category": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
       "title": "Specialist - Forecasting Oncology",
       "location": "India - Bangalore",
       "posted_on": "Posted 10 Days Ago",
@@ -534,6 +584,26 @@
     },
     {
       "company": "Sanofi",
+      "title": "Project Specialist - Global Meetings & Events",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2867158",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Project-Specialist---Global-Meetings---Events_R2867158-1",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Head Regulatory Affairs",
+      "location": "Mumbai",
+      "posted_on": "Posted Today",
+      "req_id": "R2870641",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Mumbai/Head-Regulatory-Affairs_R2870641",
+      "category": "Pharma - Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Associate Manager Managed Access Program",
       "location": "Hyderabad",
       "posted_on": "Posted Today",
@@ -574,11 +644,11 @@
     },
     {
       "company": "Fortrea",
-      "title": "Investigator Grants Manager",
+      "title": "Central Monitoring Associate Manager",
       "location": "Bangalore",
       "posted_on": "Posted Today",
-      "req_id": "265189",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Investigator-Grants-Manager_265189",
+      "req_id": "264910",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Central-Monitoring-Associate-Manager_264910",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -613,22 +683,22 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "Sr Programmer Analyst",
-      "location": "Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "265221",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Sr-Programmer-Analyst--LEDC-_265221",
+      "company": "Syneos Health",
+      "title": "Tech Compliance Analyst II",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25106369",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Tech-Compliance-Analyst-II_25106369",
       "category": "Other",
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "Senior Manager, Process Compliance Review and Analysis",
-      "location": "Pune",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "265191",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Pune/Senior-Manager--Process-Compliance-Review-and-Analysis_265191",
+      "company": "Syneos Health",
+      "title": "Director, Safety & PV (Veeva Safety Implementation & Operations)",
+      "location": "IND-Gurugram",
+      "posted_on": "Posted Today",
+      "req_id": "25104612",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram/Director--Safety---PV--Veeva-Safety-Implementation---Operations-_25104612",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -669,6 +739,16 @@
       "posted_on": "Posted Yesterday",
       "req_id": "25111186",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Project-Associate_25111186",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Intern - Process Excellence Associate",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2631274",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Process-Excellence-Associate_2631274",
       "category": "Other",
       "source": "Workday (direct)"
     },
@@ -1099,6 +1179,26 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "2532837",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Mumbai---Ground-Floor-Unit-No-GR-1---Akruti-Softech-Park-Road-No-21-Near-Passport-Office/Director--Customers---Market-Insights_2532837",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Study Grants Manager",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10086553",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Study-Grants-Manager_REQ-10086553-2",
+      "category": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Maintenance Shift Supervisor (Nights)",
+      "location": "Indianapolis",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087594",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Indianapolis/Maintenance-Shift-Supervisor--Nights-_REQ-10087594-1",
       "category": "Other",
       "source": "Workday (direct)"
     },
