@@ -39,26 +39,93 @@ INDIA_KEYWORDS = [
 # Very simple, transparent keyword rules to tell PV roles apart from
 # other pharma/clinical roles. Extend freely.
 PV_KEYWORDS = [
-    "pharmacovigilance", "drug safety", "case processing", "signal detection",
-    "signal management", "aggregate report", "psur", "pbrer", "icsr",
+    "pharmacovigilance", "drug safety", "case processing",
+    "aggregate report", "psur", "pbrer", "icsr",
     "safety database", "argus safety", "medical safety review",
     "adverse event", "safety physician", "safety scientist"
 ]
 
-OTHER_PHARMA_KEYWORDS = [
-    "regulatory affairs", "clinical research associate", "cra ",
-    "quality assurance", "medical writer", "medical writing",
-    "biostatistic", "clinical data", "clinical trial", "regulatory affairs"
+SIGNAL_KEYWORDS = [
+    "signal detection", "signal management", "signal analyst",
+    "signal evaluation", "signal review"
 ]
+
+RISK_MANAGEMENT_KEYWORDS = [
+    "risk management", "rmp", "risk minimization", "rems"
+]
+
+REGULATORY_KEYWORDS = [
+    "regulatory affairs", "regulatory scientist", "regulatory submission",
+    "labeling", "regulatory strategy", "regulatory operations"
+]
+
+CLINICAL_KEYWORDS = [
+    "clinical research associate", "cra ", "clinical operations",
+    "clinical trial manager", "clinical monitor", "site management",
+    "clinical project manager", "clinical trial associate"
+]
+
+TMF_KEYWORDS = [
+    "tmf", "trial master file", "document specialist",
+    "records management", "document management"
+]
+
+MEDWRITING_QA_KEYWORDS = [
+    "medical writer", "medical writing", "regulatory writer",
+    "quality assurance", "gcp auditor", "qa specialist", "compliance"
+]
+
+BIOSTATS_KEYWORDS = [
+    "biostatistic", "clinical data", "data management",
+    "statistical programmer", "sas programmer"
+]
+
+IT_SYSTEMS_KEYWORDS = [
+    "business analyst", "systems analyst", "it support", "software engineer",
+    "data engineer", "application developer", "system administrator",
+    "network engineer", "it analyst", "developer", "devops"
+]
+
+LEADERSHIP_KEYWORDS = ["manager", "director", "head of", "vice president", " vp ", "avp"]
+SENIOR_KEYWORDS = ["senior", "sr.", "sr ", "lead", "principal"]
+ENTRY_KEYWORDS = ["associate i", "analyst i", "junior", "trainee", "entry level", "graduate"]
+MID_KEYWORDS = ["specialist", "officer", "associate ii", "analyst ii", "associate", "analyst"]
 
 
 def classify_job(title: str) -> str:
     t = title.lower()
+    if any(k in t for k in TMF_KEYWORDS):
+        return "TMF / Document Mgmt"
+    if any(k in t for k in SIGNAL_KEYWORDS):
+        return "Signal Detection"
+    if any(k in t for k in RISK_MANAGEMENT_KEYWORDS):
+        return "Risk Management"
     if any(k in t for k in PV_KEYWORDS):
-        return "PV"
-    if any(k in t for k in OTHER_PHARMA_KEYWORDS):
-        return "Pharma - Other"
+        return "Pharmacovigilance"
+    if any(k in t for k in REGULATORY_KEYWORDS):
+        return "Regulatory Affairs"
+    if any(k in t for k in CLINICAL_KEYWORDS):
+        return "Clinical Operations"
+    if any(k in t for k in MEDWRITING_QA_KEYWORDS):
+        return "Medical Writing & QA"
+    if any(k in t for k in BIOSTATS_KEYWORDS):
+        return "Medical Writing & QA"
+    if any(k in t for k in IT_SYSTEMS_KEYWORDS):
+        return "IT / Systems / Analyst"
     return "Other"
+
+
+def classify_experience_level(title: str) -> str:
+    t = title.lower()
+    if any(k in t for k in LEADERSHIP_KEYWORDS):
+        return "Leadership (Manager+)"
+    if any(k in t for k in SENIOR_KEYWORDS):
+        return "Senior"
+    if any(k in t for k in ENTRY_KEYWORDS):
+        return "Entry-level"
+    if any(k in t for k in MID_KEYWORDS):
+        return "Mid-level"
+    return "Not specified"
 
 
 def is_india_job(location_text: str) -> bool:
@@ -117,6 +184,7 @@ def fetch_company_jobs(company: dict, all_locations: bool = False) -> list:
                 "req_id": req_id,
                 "apply_url": apply_url,
                 "category": classify_job(title),
+                "experience_level": classify_experience_level(title),
                 "source": "Workday (direct)",
             })
 
