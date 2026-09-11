@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:50:00.081972+00:00",
-  "total_jobs": 106,
+  "generated_at": "2026-09-11T14:54:28.529579+00:00",
+  "total_jobs": 108,
   "jobs": [
     {
       "company": "IQVIA",
@@ -11,17 +11,6 @@
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Client-Services-Lead_R1545606-1",
       "category": "Other",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Lab Data Mgmt Trainee",
-      "location": "Mumbai, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1565100",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mumbai-India/Lab-Data-Mgmt-Trainee_R1565100",
-      "category": "Other",
-      "experience_level": "Entry-level",
       "source": "Workday (direct)"
     },
     {
@@ -48,33 +37,44 @@
     },
     {
       "company": "GSK",
-      "title": "Material Scheduler India CMO Sites",
-      "location": "India - Maharashtra - Worli Mumbai",
-      "posted_on": "Posted Today",
-      "req_id": "444272",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Material-Scheduler-India-CMO-Sites_444272-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Analyst, Data Acquisition",
+      "title": "Senior Regulatory Specialist",
       "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
-      "req_id": "446852",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446852",
+      "req_id": "446621",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Regulatory-Specialist_446621",
       "category": "Other",
       "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
       "company": "GSK",
-      "title": "Supplier Quality Auditor",
-      "location": "India - Maharashtra - Worli Mumbai",
-      "posted_on": "Posted Yesterday",
-      "req_id": "447423",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Supplier-Quality-Auditor_447423-1",
+      "title": "Associate Director Publications Lead",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "446786",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director-Publications-Lead_446786-1",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Regulatory Associate Manager",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "447265",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Regulatory-Associate-Manager_447265",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "xCEL 2027 Summer Internship Programme",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "447552",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/xCEL-2027-Summer-Internship-Programme_447552",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
@@ -444,6 +444,39 @@
     },
     {
       "company": "Sanofi",
+      "title": "Senior Analyst Market Research",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2870881",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-Market-Research_R2870881",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Principal Scientific Writer",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2847542",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Principal-Scientific-Writer_R2847542-2",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Team Lead – Scientific Writing",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2849141",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Team-Lead---Scientific-Writing_R2849141-1",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Workday Operations Specialist",
       "location": "Hyderabad",
       "posted_on": "Posted Today",
@@ -498,28 +531,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Project Specialist - Global Meetings & Events",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2867158",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Project-Specialist---Global-Meetings---Events_R2867158-1",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Head Regulatory Affairs",
-      "location": "Mumbai",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2870641",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Mumbai/Head-Regulatory-Affairs_R2870641",
-      "category": "Regulatory Affairs",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Central Monitoring Associate Manager",
       "location": "Bangalore",
@@ -565,6 +576,28 @@
     },
     {
       "company": "Syneos Health",
+      "title": "Travel Ops Sourcing Associate",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25110721",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sourcing-Associate_25110721",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Senior Project Associate (3rd Shift - 8 PM to 5 AM IST)",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111186",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Project-Associate_25111186",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
       "title": "Data Engineer II",
       "location": "IND-Hyderabad-Hybrid",
       "posted_on": "Posted Today",
@@ -575,25 +608,25 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Syneos Health",
-      "title": "Vendor Assessment Analyst",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted Yesterday",
-      "req_id": "25110594",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Vendor-Assessment-Analyst_25110594",
+      "company": "Labcorp",
+      "title": "Route Driver",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2628651",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Route-Driver_2628651",
       "category": "Other",
-      "experience_level": "Mid-level",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
-      "company": "Syneos Health",
-      "title": "Tech Compliance Analyst II",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted Yesterday",
-      "req_id": "25106369",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Tech-Compliance-Analyst-II_25106369",
-      "category": "Medical Writing & QA",
-      "experience_level": "Entry-level",
+      "company": "Labcorp",
+      "title": "Executive Director, Global Client Delivery Biotech",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2632110",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Executive-Director--Global-Client-Delivery-Biotech_2632110-1",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -845,17 +878,6 @@
       "posted_on": "Posted 9 Days Ago",
       "req_id": "2630715",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Sample-Handling-Assistant-IIA_2630715",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Sample Handling Assistant IIA",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 9 Days Ago",
-      "req_id": "2630870",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Sample-Handling-Assistant-IIA_2630870",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
