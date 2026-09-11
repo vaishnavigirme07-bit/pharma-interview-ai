@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-11T00:58:28.998398+00:00",
-  "total_jobs": 103,
+  "generated_at": "2026-09-11T05:44:40.322625+00:00",
+  "total_jobs": 105,
   "jobs": [
+    {
+      "company": "Parexel",
+      "title": "Data Surveillance Analyst",
+      "location": "India-Hyderabad-Remote",
+      "posted_on": "Posted Today",
+      "req_id": "R0000045688",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Data-Surveillance-Analyst_R0000045688",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "source": "Workday (direct)"
+    },
     {
       "company": "Parexel",
       "title": "Health Economics Associate",
@@ -31,6 +42,39 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "JR156050",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "ICON plc",
+      "title": "PK Medical Writer",
+      "location": "India, Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "JR158740",
+      "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/PK-Medical-Writer_JR158740-1",
+      "category": "Medical Writing & QA",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Principal ERP Service Management – Global ERP Operations",
+      "location": "India - Karnataka - Bengaluru",
+      "posted_on": "Posted Today",
+      "req_id": "446421",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Karnataka---Bengaluru/Senior-Principal-ERP-Service-Management---Global-ERP-Operations_446421-1",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Analyst, Data Acquisition",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "446852",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446852",
       "category": "Other",
       "experience_level": "Senior",
       "source": "Workday (direct)"
@@ -411,6 +455,28 @@
     },
     {
       "company": "Sanofi",
+      "title": "Learning Program Manager",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2869398",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Learning-Program-Manager_R2869398",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "People Services Senior Generalist",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2867962",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/People-Services-Senior-Generalist_R2867962",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Project Specialist - Global Meetings & Events",
       "location": "Hyderabad",
       "posted_on": "Posted Today",
@@ -428,50 +494,6 @@
       "req_id": "R2870641",
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Mumbai/Head-Regulatory-Affairs_R2870641",
       "category": "Regulatory Affairs",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Associate Manager Managed Access Program",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2870776",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Associate-Manager-Managed-Access-Program_R2870776-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Senior Analyst Reporting Solutions",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2870296",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-Reporting-Solutions_R2870296-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Sr Analyst Data Process Management",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2856173",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Sr-Analyst-Data-Process-Management_R2856173",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Scientific Sales Executive",
-      "location": "Bangalore",
-      "posted_on": "Posted Today",
-      "req_id": "R2859348",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bangalore/Scientific-Sales-Executive_R2859348-1",
-      "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
@@ -553,13 +575,13 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Syneos Health",
-      "title": "Senior Full Stack Software Developer - Hyderabad - Hybrid",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted Yesterday",
-      "req_id": "25105893",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Senior-Full-Stack-Software-Developer---Hyderabad---Hybrid_25105893",
-      "category": "IT / Systems / Analyst",
+      "company": "Labcorp",
+      "title": "Senior Process Lead",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2632444",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Senior-Process-Lead_2632444",
+      "category": "Other",
       "experience_level": "Senior",
       "source": "Workday (direct)"
     },
