@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T18:16:01.155912+00:00",
-  "total_jobs": 108,
+  "generated_at": "2026-09-11T21:36:13.583295+00:00",
+  "total_jobs": 101,
   "jobs": [
     {
       "company": "IQVIA",
@@ -59,33 +59,11 @@
     },
     {
       "company": "GSK",
-      "title": "Senior Regulatory Specialist",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "446621",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Regulatory-Specialist_446621",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
       "title": "Associate Director Publications Lead",
       "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
       "req_id": "446786",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director-Publications-Lead_446786-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Regulatory Associate Manager",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447265",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Regulatory-Associate-Manager_447265",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
@@ -465,50 +443,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Principal Scientific Writer",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2847542",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Principal-Scientific-Writer_R2847542-2",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Team Lead – Scientific Writing",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2849141",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Team-Lead---Scientific-Writing_R2849141-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Workday Operations Specialist",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2868076",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Workday-Operations-Specialist_R2868076",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Senior Analyst Business Analytics",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2870935",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-Business-Analytics_R2870935-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Central Monitoring Associate Manager",
       "location": "Bangalore",
@@ -572,6 +506,17 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-Engineer-II_25109850",
       "category": "IT / Systems / Analyst",
       "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Associate Medical Technologist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2632738",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Associate-Medical-Technologist_2632738",
+      "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -671,17 +616,6 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Senior-Process-Lead_2632444",
       "category": "Other",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Medical Technologist I",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted Yesterday",
-      "req_id": "2632256",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I_2632256",
-      "category": "Other",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -1177,17 +1111,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Analyst---Forecasting_REQ-10077336",
       "category": "Other",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Sales Rep- Institutional (Territory Business Executive), CRM",
-      "location": "Mumbai (Head Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10084508",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Mumbai-Head-Office/Sales-Rep--Institutional--Territory-Business-Executive-_REQ-10084508-1",
-      "category": "Other",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     }
   ]
