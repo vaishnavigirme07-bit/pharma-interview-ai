@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-11T14:54:28.529579+00:00",
+  "generated_at": "2026-09-11T18:16:01.155912+00:00",
   "total_jobs": 108,
   "jobs": [
     {
       "company": "IQVIA",
-      "title": "Senior Client Services Lead",
-      "location": "Bangalore, India",
+      "title": "Inventory Control Associate",
+      "location": "Indianapolis, Indiana, United States of America",
       "posted_on": "Posted Today",
-      "req_id": "R1545606",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Client-Services-Lead_R1545606-1",
+      "req_id": "R1559144",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-Indiana-United-States-of-America/Inventory-Control-Associate_R1559144",
       "category": "Other",
-      "experience_level": "Senior",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -33,6 +33,28 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "xCEL 2027 Summer Internship Programme",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "447552",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/xCEL-2027-Summer-Internship-Programme_447552",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "xCEL 2027 Summer Internship Programme",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "447705",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/xCEL-2027-Summer-Internship-Programme_447705",
+      "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -66,17 +88,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Regulatory-Associate-Manager_447265",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "xCEL 2027 Summer Internship Programme",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447552",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/xCEL-2027-Summer-Internship-Programme_447552",
-      "category": "Other",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -498,39 +509,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Data Project Management Lead",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2870510",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Data-Project-Management-Lead_R2870510",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Learning Program Manager",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2869398",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Learning-Program-Manager_R2869398",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "People Services Senior Generalist",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2867962",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/People-Services-Senior-Generalist_R2867962",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Central Monitoring Associate Manager",
       "location": "Bangalore",
@@ -564,17 +542,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "REGULATORY AND START-UP",
-      "location": "Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "262931",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/REGULATORY-AND-START-UP_262931",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Syneos Health",
       "title": "Travel Ops Sourcing Associate",
       "location": "IND-Hyderabad-Hybrid",
@@ -604,6 +571,50 @@
       "req_id": "25109850",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-Engineer-II_25109850",
       "category": "IT / Systems / Analyst",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Intern - Core Automated Testing and Immunology",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2632035",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Core-Automated-Testing-and-Immunology_2632035",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I, NGS",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2632596",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--NGS_2632596",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Route Driver",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2628656",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Route-Driver_2628656",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Route Driver",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2628653",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Route-Driver_2628653",
+      "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
@@ -746,17 +757,6 @@
       "posted_on": "Posted 2 Days Ago",
       "req_id": "2625968",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Affairs-Coordinator_2625968",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Intern - Core Automated Testing and Immunology",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "2632035",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Core-Automated-Testing-and-Immunology_2632035",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
