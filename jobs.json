@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-09-14T00:57:00.012001+00:00",
-  "total_jobs": 90,
+  "generated_at": "2026-09-14T05:56:15.832798+00:00",
+  "total_jobs": 89,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Inventory Control Associate",
-      "location": "Indianapolis, Indiana, United States of America",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R1559144",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-Indiana-United-States-of-America/Inventory-Control-Associate_R1559144",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
     {
       "company": "Parexel",
       "title": "Data Surveillance Analyst",
@@ -31,6 +20,28 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "JR156050",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Analyst- Skills and learning operation",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "444869",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Assistant-Manager--Skills-and-learning-operation_444869",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Analyst, Data Acquisition",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "446851",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446851",
       "category": "Other",
       "experience_level": "Senior",
       "source": "Workday (direct)"
@@ -377,17 +388,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Senior Analyst Market Research",
-      "location": "Hyderabad",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R2870881",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-Market-Research_R2870881",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Central Monitoring Associate Manager",
       "location": "Bangalore",
@@ -603,17 +603,6 @@
       "posted_on": "Posted 4 Days Ago",
       "req_id": "2630594",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Commercial-Finance_2630594",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Medical Affairs Coordinator",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "2625968",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Affairs-Coordinator_2625968",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
