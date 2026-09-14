@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-14T18:26:45.912112+00:00",
-  "total_jobs": 97,
+  "generated_at": "2026-09-14T22:21:29.300122+00:00",
+  "total_jobs": 93,
   "jobs": [
     {
-      "company": "IQVIA",
-      "title": "Sr Test Engineer",
-      "location": "Bangalore, India",
+      "company": "Parexel",
+      "title": "Senior Solution Consultant",
+      "location": "India-Mohali-Remote",
       "posted_on": "Posted Today",
-      "req_id": "R1564871",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Sr-Test-Engineer_R1564871",
+      "req_id": "R0000044646",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Mohali-Remote/Senior-Solution-Consultant_R0000044646",
       "category": "Other",
       "experience_level": "Senior",
       "source": "Workday (direct)"
@@ -37,33 +37,11 @@
     },
     {
       "company": "GSK",
-      "title": "Senior Regulatory Specialist",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "446621",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Regulatory-Specialist_446621",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
       "title": "Senior Analyst- Skills and learning operation",
       "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
       "req_id": "444869",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Assistant-Manager--Skills-and-learning-operation_444869",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Analyst, Data Acquisition",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "446851",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446851",
       "category": "Other",
       "experience_level": "Senior",
       "source": "Workday (direct)"
@@ -462,17 +440,6 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sourcing-Associate_25110721",
       "category": "Other",
       "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Senior Project Associate (3rd Shift - 8 PM to 5 AM IST)",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25111186",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Project-Associate_25111186",
-      "category": "Other",
-      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -1056,17 +1023,6 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Mumbai---Ground-Floor-Unit-No-GR-1---Akruti-Softech-Park-Road-No-21-Near-Passport-Office/Director--Customers---Market-Insights_2532837",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Intern Data Science",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10087679",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
-      "category": "Other",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     }
   ]
