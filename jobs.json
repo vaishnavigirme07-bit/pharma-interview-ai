@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:08:03.658904+00:00",
+  "generated_at": "2026-09-14T18:26:45.912112+00:00",
   "total_jobs": 97,
   "jobs": [
     {
@@ -11,17 +11,6 @@
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Sr-Test-Engineer_R1564871",
       "category": "Other",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Contracts Coord",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1566228",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Contracts-Coord_R1566228",
-      "category": "Other",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -455,6 +444,17 @@
     },
     {
       "company": "Syneos Health",
+      "title": "Safety & PV Specialist I - Literature Case processing",
+      "location": "IND-Gurugram",
+      "posted_on": "Posted Today",
+      "req_id": "25111538",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram/Safety---PV-Specialist-I---Literature-Case-processing_25111538",
+      "category": "Pharmacovigilance",
+      "experience_level": "Mid-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
       "title": "Travel Ops Sourcing Associate",
       "location": "IND-Hyderabad-Hybrid",
       "posted_on": "Posted 3 Days Ago",
@@ -476,13 +476,13 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Syneos Health",
-      "title": "Data Engineer II",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25109850",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-Engineer-II_25109850",
-      "category": "IT / Systems / Analyst",
+      "company": "Labcorp",
+      "title": "Sample Handling Assistant I",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2622732",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Sample-Handling-Assistant-I_2622732",
+      "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
@@ -1060,13 +1060,13 @@
     },
     {
       "company": "Novartis",
-      "title": "Senior Financial Analyst",
+      "title": "Intern Data Science",
       "location": "Hyderabad (Office)",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "REQ-10085501",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Financial-Analyst_REQ-10085501-1",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087679",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
       "category": "Other",
-      "experience_level": "Senior",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     }
   ]
