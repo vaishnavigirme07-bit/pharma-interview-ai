@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T22:21:29.300122+00:00",
-  "total_jobs": 93,
+  "generated_at": "2026-09-15T01:16:48.189972+00:00",
+  "total_jobs": 91,
   "jobs": [
     {
       "company": "Parexel",
@@ -11,17 +11,6 @@
       "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Mohali-Remote/Senior-Solution-Consultant_R0000044646",
       "category": "Other",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Parexel",
-      "title": "Data Surveillance Analyst",
-      "location": "India-Hyderabad-Remote",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "R0000045688",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Data-Surveillance-Analyst_R0000045688",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -428,17 +417,6 @@
       "req_id": "25111538",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram/Safety---PV-Specialist-I---Literature-Case-processing_25111538",
       "category": "Pharmacovigilance",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Travel Ops Sourcing Associate",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25110721",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sourcing-Associate_25110721",
-      "category": "Other",
       "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
