@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T18:02:37.652071+00:00",
-  "total_jobs": 100,
+  "generated_at": "2026-09-15T21:16:29.749994+00:00",
+  "total_jobs": 97,
   "jobs": [
     {
       "company": "IQVIA",
@@ -113,17 +113,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "Assistant Manager - Enterprise and Access Support",
-      "location": "India - Maharashtra - Worli Mumbai",
-      "posted_on": "Posted Today",
-      "req_id": "447495",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Assistant-Manager---Enterprise-Access---Support_447495-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "AstraZeneca",
       "title": "Senior Manager - Custom Analytics(FullStack)",
       "location": "India - Chennai",
@@ -132,17 +121,6 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Manager---Custom-Analytics_R-259275-1",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Analyst - Brand Analytics",
-      "location": "India - Bangalore",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R-259728",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Analyst---Brand-Analytics_R-259728-1",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -209,17 +187,6 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Director---Software-Development--Cell-Therapy-IT_R-258180",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Senior Statistician II",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 6 Days Ago",
-      "req_id": "R-256066",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistician-II_R-256066-2",
-      "category": "Other",
-      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -697,17 +664,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Network Engineer II",
-      "location": "IND - Bangalore - MSR Vaishnavi, No 29 Union Street - Off Cubbon Road",
-      "posted_on": "Posted 6 Days Ago",
-      "req_id": "263295",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Bangalore---MSR-Vaishnavi-No-29-Union-Street---Off-Cubbon-Road/Network-Engineer-II_263295",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Radiation Safety and Scientific Specialist",
       "location": "Indianapolis IN",
       "posted_on": "Posted 7 Days Ago",
@@ -990,6 +946,17 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Mumbai---Ground-Floor-Unit-No-GR-1---Akruti-Softech-Park-Road-No-21-Near-Passport-Office/Director--Customers---Market-Insights_2532837",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Senior Data Engineer – Data & AI Platforms",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087165",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Data-Engineer---Data---AI-Platforms_REQ-10087165",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
