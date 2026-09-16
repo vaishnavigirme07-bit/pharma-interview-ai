@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T19:27:52.402144+00:00",
-  "total_jobs": 89,
+  "generated_at": "2026-09-16T22:44:35.757965+00:00",
+  "total_jobs": 86,
   "jobs": [
     {
       "company": "ICON plc",
@@ -378,6 +378,17 @@
     },
     {
       "company": "Labcorp",
+      "title": "Regional Study Coordinator - Central Labs Services - Clinical Research",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2633292",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Regional-Study-Coordinator---Central-Labs-Services---Clinical-Research_2633292",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
       "title": "Laboratory Assistant I",
       "location": "Indianapolis IN",
       "posted_on": "Posted Today",
@@ -493,39 +504,6 @@
       "posted_on": "Posted 5 Days Ago",
       "req_id": "2632596",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--NGS_2632596",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Medical Route Driver",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2628656",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Route-Driver_2628656",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Route Driver",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2628653",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Route-Driver_2628653",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Route Driver",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2628651",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Route-Driver_2628651",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
@@ -968,17 +946,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Data-Engineer---Data---AI-Platforms_REQ-10087165",
       "category": "IT / Systems / Analyst",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Clinical Scientific Expert I",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087727",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-I_REQ-10087727-1",
-      "category": "Other",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     }
   ]
