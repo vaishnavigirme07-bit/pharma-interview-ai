@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-16T00:04:32.199714+00:00",
-  "total_jobs": 96,
+  "generated_at": "2026-09-16T05:45:13.025187+00:00",
+  "total_jobs": 91,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Clinical Data Specalist / Senior clinical Data Coordinator",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1569000",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Clinical-Data-Specalist---Senior-clinical-Data-Coordinator_R1569000",
+      "category": "Medical Writing & QA",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Sr Data Team Lead",
@@ -36,50 +47,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "IQVIA",
-      "title": "Safety Aggreg Report Coord Trainee - Fresher",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1568959",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Safety-Aggreg-Report-Coord-Trainee---Fresher_R1568959",
-      "category": "Other",
-      "experience_level": "Entry-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Software Development Engineer",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1560900",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Software-Development-Engineer_R1560900",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "63607 Client Services Rep 1",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1564306",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/XMLNAME-63607-Client-Services-Rep-1_R1564306",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "63607 Client Services Rep 1",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1564301",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/XMLNAME-63607-Client-Services-Rep-1_R1564301",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Parexel",
       "title": "Senior Solution Consultant",
       "location": "India-Mohali-Remote",
@@ -102,14 +69,14 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "Associate Director - Global Study Lead",
-      "location": "Bengaluru Luxor North Tower",
+      "company": "AstraZeneca",
+      "title": "Analyst - PowerBI Developer",
+      "location": "India - Chennai",
       "posted_on": "Posted Today",
-      "req_id": "447353",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Global-Study-Lead_447353-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
+      "req_id": "R-259697",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Analyst---PowerBI-Developer_R-259697-2",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -356,13 +323,13 @@
     },
     {
       "company": "Sanofi",
-      "title": "Senior Analyst Technical Customer Facing Effectiveness",
+      "title": "DOM Specialist",
       "location": "Hyderabad",
       "posted_on": "Posted Today",
-      "req_id": "R2866821",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-Technical-Customer-Facing-Effectiveness_R2866821",
+      "req_id": "R2871649",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/DOM-Specialist_R2871649",
       "category": "Other",
-      "experience_level": "Senior",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -373,17 +340,6 @@
       "req_id": "264551",
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/med-data-review-specialist-II_264551",
       "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Safety & PV Specialist I - Literature Case processing",
-      "location": "IND-Gurugram",
-      "posted_on": "Posted Yesterday",
-      "req_id": "25111538",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram/Safety---PV-Specialist-I---Literature-Case-processing_25111538",
-      "category": "Pharmacovigilance",
       "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
@@ -1043,17 +999,6 @@
       "posted_on": "Posted Today",
       "req_id": "REQ-10087112",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Trial-Supply-Manager_REQ-10087112",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Manager, BPA Finance",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10087281",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Manager--BPA-Finance_REQ-10087281",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
