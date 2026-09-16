@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-09-16T15:26:58.058235+00:00",
-  "total_jobs": 101,
+  "generated_at": "2026-09-16T19:27:52.402144+00:00",
+  "total_jobs": 89,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Snowflake + ETL Developer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1546631",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Snowflake---ETL-Developer_R1546631",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Clinical Data Specialist/Assoc Clin Data Coordinator",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1557054",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Clinical-Data-Specialist-Assoc-Clin-Data-Coordinator_R1557054",
-      "category": "Medical Writing & QA",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Lead - Snowflake & ETL",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1546267",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Lead-Software-Developer_R1546267-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
     {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
@@ -42,17 +9,6 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "JR156050",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Principal ERP Service Management – Global ERP Operations",
-      "location": "India - Karnataka - Bengaluru",
-      "posted_on": "Posted Today",
-      "req_id": "446421",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Karnataka---Bengaluru/Senior-Principal-ERP-Service-Management---Global-ERP-Operations_446421-1",
       "category": "Other",
       "experience_level": "Senior",
       "source": "Workday (direct)"
@@ -88,17 +44,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Area-Medical-Advisor--Specialty--Hepatology_447959",
       "category": "Other",
       "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate Director - Global Study Lead",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "447353",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Global-Study-Lead_447353-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -410,28 +355,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Events Platform Manager",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2869831",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Events-Platform-Manager_R2869831",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
-      "title": "Med Data Review Assoc Mgr",
-      "location": "Bangalore",
-      "posted_on": "Posted Today",
-      "req_id": "262943",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Med-Data-Review-Assoc-Mgr_262943-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Centralized Study Specialist I",
       "location": "Bangalore",
@@ -620,17 +543,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Sample Handling Assistant I",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2631888",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Sample-Handling-Assistant-I_2631888",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Assistant Paid Social Media Manager",
       "location": "Bengaluru India",
       "posted_on": "Posted 5 Days Ago",
@@ -638,17 +550,6 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Assistant-Paid-Social-Media-Manager_2631285",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Senior Process Lead",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2632444",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Senior-Process-Lead_2632444",
-      "category": "Other",
-      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -1076,39 +977,6 @@
       "posted_on": "Posted Yesterday",
       "req_id": "REQ-10087727",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-I_REQ-10087727-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Clinical Scientific Expert-I",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087736",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-I_REQ-10087736-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Clinical Scientific Expert I",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087718",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-I_REQ-10087718",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Clinical Scientific Expert",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087726",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert_REQ-10087726",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
