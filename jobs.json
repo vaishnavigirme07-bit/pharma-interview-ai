@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-16T22:44:35.757965+00:00",
-  "total_jobs": 86,
+  "generated_at": "2026-09-17T01:09:53.919437+00:00",
+  "total_jobs": 87,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Senior Scientist, Large Molecule Bioanalytical",
+      "location": "Indianapolis, IN, United States of America",
+      "posted_on": "Posted Today",
+      "req_id": "R1565330",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-IN-United-States-of-America/Senior-Scientist--Large-Molecule-Bioanalytical_R1565330",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
     {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
