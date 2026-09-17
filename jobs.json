@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T18:01:29.469827+00:00",
-  "total_jobs": 116,
+  "generated_at": "2026-09-17T21:17:49.455066+00:00",
+  "total_jobs": 109,
   "jobs": [
     {
       "company": "Parexel",
@@ -55,39 +55,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Assistant-Manager--Skills-and-learning-operation_444869",
       "category": "Other",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "GO-2",
-      "location": "India - Maharashtra - Nashik Site",
-      "posted_on": "Posted Today",
-      "req_id": "446952",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Nashik-Site/GO-2_446952",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Manager-Global Quality PMO & Transformation",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447110",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager-Global-Quality-PMO---Transformation_447110",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Apprentice – Digital & Tech (Cybersecurity / AI / Product / DevOps)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "448059",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Apprentice---Digital---Tech--Cybersecurity---AI---Product---DevOps-_448059",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -323,17 +290,6 @@
     },
     {
       "company": "AstraZeneca",
-      "title": "Search Experience Lead",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 15 Days Ago",
-      "req_id": "R-259289",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Search-Experience-Lead_R-259289",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
       "title": "Statistical Science Associate Director",
       "location": "India - Bangalore",
       "posted_on": "Posted 16 Days Ago",
@@ -372,17 +328,6 @@
       "posted_on": "Posted 27 Days Ago",
       "req_id": "R-244641",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Statistical-Science-Director_R-244641-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Director Statistical Programming",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 29 Days Ago",
-      "req_id": "R-257449",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Medical-Director--Patient-Safety-Physician_R-257449-1",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
@@ -917,17 +862,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Associate for External Application",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 11 Days Ago",
-      "req_id": "2631266",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Associate-for-External-Application_2631266",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Sample Handling Assistant IIA",
       "location": "Indianapolis IN",
       "posted_on": "Posted 15 Days Ago",
@@ -1170,6 +1104,17 @@
     },
     {
       "company": "Novartis",
+      "title": "AI Engineer - Data42",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10088083",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/AI-Engineer---Data42_REQ-10088083",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Sr. Operations Manager",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1177,17 +1122,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-Operations-Manager_REQ-10087262",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Scientist - Critical Reagent Management",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10087716",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Scientist---Critical-Reagent-Management_REQ-10087716",
-      "category": "Other",
-      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
@@ -1263,17 +1197,6 @@
       "posted_on": "Posted Today",
       "req_id": "REQ-10087761",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Expert--Science---Technology_REQ-10087761",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Scientist 1, Toxicology",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10087686",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Scientist-1--Toxicology_REQ-10087686",
       "category": "Other",
       "experience_level": "Senior",
       "source": "Workday (direct)"
