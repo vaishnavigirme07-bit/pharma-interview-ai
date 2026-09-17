@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-09-17T13:10:20.827160+00:00",
-  "total_jobs": 112,
+  "generated_at": "2026-09-17T18:01:29.469827+00:00",
+  "total_jobs": 116,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Global Data Management",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1554421",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Global-Data-Management_R1554421",
-      "category": "Medical Writing & QA",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Clin DB Validation",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1553313",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Clin-DB-Validation_R1553313",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
     {
       "company": "Parexel",
       "title": "Clinical Data Analyst I",
@@ -44,6 +22,17 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Manager, Data Acquisition",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "447151",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Manager--Data-Acquisition_447151-1",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -422,6 +411,17 @@
     },
     {
       "company": "Sanofi",
+      "title": "Lead Solutions Engineer  Full Stack",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2871594",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Lead-Solutions-Engineer--Full-Stack_R2871594-1",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Safety Data Sheets Expert",
       "location": "Hyderabad",
       "posted_on": "Posted Today",
@@ -576,6 +576,17 @@
     },
     {
       "company": "Syneos Health",
+      "title": "Principal Product Ops Analyst- Veeva Vault Clinical",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25103316",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
       "title": "HR Specialist",
       "location": "IND-Gurugram",
       "posted_on": "Posted Today",
@@ -594,6 +605,28 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Manager--Clinical-Operations_25111049",
       "category": "Clinical Operations",
       "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Laboratory Scientist II, Microbiology",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2632931",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Laboratory-Scientist-II--Microbiology_2632931",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Data Management Associate II",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2633226",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Data-Management-Associate-II_2633226",
+      "category": "Medical Writing & QA",
+      "experience_level": "Entry-level",
       "source": "Workday (direct)"
     },
     {
@@ -626,6 +659,17 @@
       "req_id": "2633292",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Regional-Study-Coordinator---Central-Labs-Services---Clinical-Research_2633292",
       "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Data Management Assoc I",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2631897",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Data-Management-Assoc-I_2631897",
+      "category": "Medical Writing & QA",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
@@ -1126,6 +1170,50 @@
     },
     {
       "company": "Novartis",
+      "title": "Sr. Operations Manager",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087262",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-Operations-Manager_REQ-10087262",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Senior Scientist - Critical Reagent Management",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087716",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Scientist---Critical-Reagent-Management_REQ-10087716",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Senior Clinical Operations Manager",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087854",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Clinical-Operations-Manager_REQ-10087854",
+      "category": "Clinical Operations",
+      "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Sr. Specialist DDIT IES CHS AI Infra. Engineering",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10085140",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-Spec-DDIT-IES-cloud-Engineering_REQ-10085140",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Clinical Operations Manager",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1188,50 +1276,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Scientist-1--Toxicology_REQ-10087686",
       "category": "Other",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Associate Director DDIT ISC SecOps Access&Auth.",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10087977",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director-DDIT-ISC-SecOps-Access-Auth_REQ-10087977",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Sr. Spec. DDIT IES CHS AWS Engg",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10086975",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-Spec-DDIT-IES-CHS-AWS-Engg_REQ-10086975",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Data Engineering Manager",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10087663",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Data-Engineering-Manager_REQ-10087663",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Associate Director – Reporting Transformation & AI Enablement",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10073036",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director---Reporting-Transformation---AI-Enablement_REQ-10073036",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     }
   ]
