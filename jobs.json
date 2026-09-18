@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-18T14:12:51.401867+00:00",
-  "total_jobs": 115,
+  "generated_at": "2026-09-18T18:11:14.557342+00:00",
+  "total_jobs": 117,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Inventory Control Associate",
+      "location": "Indianapolis, Indiana, United States of America",
+      "posted_on": "Posted Today",
+      "req_id": "R1559144",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-Indiana-United-States-of-America/Inventory-Control-Associate_R1559144",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Bigdata Factory (BDF) Support",
@@ -9,50 +20,6 @@
       "posted_on": "Posted Today",
       "req_id": "R1561310",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Bigdata-Factory--BDF--Support_R1561310-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Business Analyst - Automation",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1548011",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Business-Analyst---Automation_R1548011",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Clin Data Spec",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1562632",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Clin-Data-Spec_R1562632",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Data Engineer – Snowflake & FHIR.",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1565372",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Data-Engineer---Snowflake---FHIR_R1565372",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "63607 Client Services Rep 1",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1564303",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/XMLNAME-63607-Client-Services-Rep-1_R1564303",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
@@ -433,6 +400,17 @@
     },
     {
       "company": "Sanofi",
+      "title": "Global Candidate Engagement Lead Talent Services",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2871094",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Global-Candidate-Engagement-Lead-Talent-Services_R2871094-1",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Lead Solutions Engineer  Full Stack",
       "location": "Hyderabad",
       "posted_on": "Posted Yesterday",
@@ -440,6 +418,17 @@
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Lead-Solutions-Engineer--Full-Stack_R2871594-1",
       "category": "Other",
       "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Central Monitor I",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "265447",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Central-Monitor-I_265447",
+      "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -510,6 +499,61 @@
     },
     {
       "company": "Syneos Health",
+      "title": "Sr Systems Analyst (Contract to Cash)- Hyderabad (Hybrid)- Second Shift",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111101",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Contract-to-Cash---Hyderabad--Hybrid---Second-Shift_25111101",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Sr Systems Analyst (Oracle Fusion experience)- Hyderabad- Hybrid (2nd shift)",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111098",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Oracle-Fusion-experience---Hyderabad--Hybrid--2nd-shift-_25111098",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Systems Analyst: Functional Payables (Oracle Fusion)- Hyderabad (Hybrid)- Second Shift",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111100",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Systems-Analyst--Functional-Payables--Oracle-Fusion---Hyderabad--Hybrid---Second-Shift_25111100",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Mid-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Site Grant Analyst I",
+      "location": "IND-Gurugram-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25112197",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram-Hybrid/Site-Grant-Analyst-I_25112197",
+      "category": "Other",
+      "experience_level": "Entry-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "IMS GSS Specialist I",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111780",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/IMS-GSS-Specialist-I_25111780",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
       "title": "Data Analyst I",
       "location": "IND-Hyderabad-Hybrid",
       "posted_on": "Posted Today",
@@ -572,6 +616,17 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Manager--Clinical-Operations_25111049",
       "category": "Clinical Operations",
       "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Associate Medical Technologist, Immunology",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2633420",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Associate-Medical-Technologist--Immunology_2633420",
+      "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -1231,39 +1286,6 @@
       "req_id": "REQ-10086722",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Director--Global-Program-Safety-Lead_REQ-10086722",
       "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "AI Engineer - Data42",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10088083",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/AI-Engineer---Data42_REQ-10088083",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Sr. Operations Manager",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087262",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-Operations-Manager_REQ-10087262",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Clinical Operations Manager",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087854",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Clinical-Operations-Manager_REQ-10087854",
-      "category": "Clinical Operations",
       "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     }
