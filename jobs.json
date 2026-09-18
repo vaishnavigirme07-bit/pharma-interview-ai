@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T18:11:14.557342+00:00",
-  "total_jobs": 117,
+  "generated_at": "2026-09-18T21:30:22.725085+00:00",
+  "total_jobs": 110,
   "jobs": [
     {
       "company": "IQVIA",
@@ -11,17 +11,6 @@
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-Indiana-United-States-of-America/Inventory-Control-Associate_R1559144",
       "category": "Other",
       "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Bigdata Factory (BDF) Support",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1561310",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Bigdata-Factory--BDF--Support_R1561310-1",
-      "category": "Other",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -36,17 +25,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Parexel",
-      "title": "Clinical Data Analyst I",
-      "location": "India - Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0000045318",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India---Hyderabad/Clinical-Data-Analyst-I_R0000045318",
-      "category": "Medical Writing & QA",
-      "experience_level": "Entry-level",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
       "location": "India, Bangalore",
@@ -55,17 +33,6 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Controller    Close & Control Team",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "446138",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Controller----Close---Control-Team_446138",
-      "category": "Other",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -208,17 +175,6 @@
       "req_id": "R-259275",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Manager---Custom-Analytics_R-259275-1",
       "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "International CMC Regulatory Affairs Manager I",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 7 Days Ago",
-      "req_id": "R-258782",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/International-CMC-Regulatory-Affairs-Manager-I_R-258782-2",
-      "category": "Regulatory Affairs",
       "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
@@ -410,17 +366,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Lead Solutions Engineer  Full Stack",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2871594",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Lead-Solutions-Engineer--Full-Stack_R2871594-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Central Monitor I",
       "location": "Bangalore",
@@ -484,17 +429,6 @@
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Senior-Safety-System-Specialist_265202",
       "category": "Other",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
-      "title": "Centralized Study Specialist I",
-      "location": "Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "265228",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Centralized-Study-Specialist-I_265228",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -616,6 +550,17 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Manager--Clinical-Operations_25111049",
       "category": "Clinical Operations",
       "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Intern - IT Operations",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2631321",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---IT-Operations_2631321",
+      "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -867,17 +812,6 @@
       "posted_on": "Posted 4 Days Ago",
       "req_id": "2632624",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/QA-Engineer---Salesforce---Enterprise-Applications_2632624-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Sample Handling Assistant I",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "2622732",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Sample-Handling-Assistant-I_2622732",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
@@ -1274,17 +1208,6 @@
       "posted_on": "Posted Today",
       "req_id": "REQ-10087333",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Mumbai-Head-Office/Technical-Manager--External-Supply-Operations_REQ-10087333-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Director, Global Program Safety Lead",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10086722",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Director--Global-Program-Safety-Lead_REQ-10086722",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
