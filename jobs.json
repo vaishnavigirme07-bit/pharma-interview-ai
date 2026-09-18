@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-18T09:28:41.407485+00:00",
-  "total_jobs": 119,
+  "generated_at": "2026-09-18T14:12:51.401867+00:00",
+  "total_jobs": 115,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Bigdata Factory (BDF) Support",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1561310",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Bigdata-Factory--BDF--Support_R1561310-1",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Business Analyst - Automation",
@@ -26,17 +37,6 @@
     },
     {
       "company": "IQVIA",
-      "title": "Payroll Analyst 2",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1541827",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Payroll-Analyst-2_R1541827",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
       "title": "Data Engineer – Snowflake & FHIR.",
       "location": "Bangalore, India",
       "posted_on": "Posted Today",
@@ -55,6 +55,17 @@
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/XMLNAME-63607-Client-Services-Rep-1_R1564303",
       "category": "Other",
       "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Parexel",
+      "title": "Compliance Analyst I",
+      "location": "India - Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R0000045668",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India---Hyderabad/Compliance-Analyst-I_R0000045668-1",
+      "category": "Medical Writing & QA",
+      "experience_level": "Entry-level",
       "source": "Workday (direct)"
     },
     {
@@ -102,14 +113,14 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "Manager, Data Acquisition",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "447151",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Manager--Data-Acquisition_447151-1",
+      "company": "AstraZeneca",
+      "title": "Digital HR Product Analyst",
+      "location": "India - Chennai",
+      "posted_on": "Posted Today",
+      "req_id": "R-260250",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Analyst--Digital-HR-Product_R-260250",
       "category": "Other",
-      "experience_level": "Leadership (Manager+)",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -422,17 +433,6 @@
     },
     {
       "company": "Sanofi",
-      "title": "Global Candidate Engagement Lead Talent Services",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2871094",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Global-Candidate-Engagement-Lead-Talent-Services_R2871094-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
       "title": "Lead Solutions Engineer  Full Stack",
       "location": "Hyderabad",
       "posted_on": "Posted Yesterday",
@@ -443,89 +443,12 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Safety Data Sheets Expert",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2871185",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Safety-Data-Sheets-Expert_R2871185",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Head Regulatory Diabetes and Rare Disease",
-      "location": "Mumbai",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2870641",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Mumbai/Head-Regulatory-Affairs_R2870641",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Internal Control Global Testing COE Team Lead IT Controls",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2871351",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Internal-Control-Global-Testing-COE-Team-Lead-IT-Controls_R2871351",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Senior Analyst for IT Application and General Controls",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2870140",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-for-IT-Application-and-General-Controls_R2870140-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Senior Specialist for IT Applications and General controls",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2870141",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Specialist-for-IT-Applications-and-General-controls_R2870141",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Category Buyer SC - Air & Sea Transportation",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2867139",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Category-Buyer-SC---Air---Sea-Transportation_R2867139-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Specialist for IT Applications and General Controls",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2870142",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Specialist-for-IT-Applications-and-General-Controls_R2870142",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "People Data Modeling and Visualization Expert",
-      "location": "Hyderabad",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2868946",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/People-Data-Modeling-and-Visualization-Expert_R2868946-1",
+      "company": "Fortrea",
+      "title": "Safety Science Coordinator - II",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "265158",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Safety-Science-Coordinator---II_265158-1",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
@@ -586,14 +509,36 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "TMF Reviewer II",
-      "location": "Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "265045",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/TMF-Reviewer-II_265045",
-      "category": "TMF / Document Mgmt",
-      "experience_level": "Not specified",
+      "company": "Syneos Health",
+      "title": "Data Analyst I",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111783",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-Analyst-I_25111783",
+      "category": "Other",
+      "experience_level": "Entry-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Principal AI Solution Engineer / AI Architect",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25109571",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Senior-Engineer_25109571",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Payment Support Specialist",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111784",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Payment-Support-Specialist_25111784",
+      "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -626,6 +571,28 @@
       "req_id": "25111049",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Manager--Clinical-Operations_25111049",
       "category": "Clinical Operations",
+      "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Quality and Compliance Assistant",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2633009",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Quality-and-Compliance-Assistant_2633009",
+      "category": "Medical Writing & QA",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Executive Director, Global Client Delivery Biotech",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2632110",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Executive-Director--Global-Client-Delivery-Biotech_2632110-1",
+      "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
@@ -880,17 +847,6 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--NGS_2632596",
       "category": "Other",
       "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Executive Director, Global Client Delivery Biotech",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 7 Days Ago",
-      "req_id": "2632110",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Executive-Director--Global-Client-Delivery-Biotech_2632110-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -1236,6 +1192,39 @@
     },
     {
       "company": "Novartis",
+      "title": "Scientific Computing Engineer - Drug Product Process Modeling & Data Science",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087078",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Specialist--Data-Science---Artificial-Intelligence_REQ-10087078",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Maintenance Planner and Scheduler",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087028",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Maintenance-Planner-and-Scheduler_REQ-10087028-1",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Technical Manager, External Supply Operations",
+      "location": "Mumbai (Head Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087333",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Mumbai-Head-Office/Technical-Manager--External-Supply-Operations_REQ-10087333-1",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Director, Global Program Safety Lead",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1276,39 +1265,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Clinical-Operations-Manager_REQ-10087854",
       "category": "Clinical Operations",
       "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Sr. Specialist DDIT IES CHS AI Infra. Engineering",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10085140",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-Spec-DDIT-IES-cloud-Engineering_REQ-10085140",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Clinical Operations Manager",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087855",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Operations-Manager_REQ-10087855",
-      "category": "Clinical Operations",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Expert Science & Technology",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087763",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Expert-Science---Technology_REQ-10087763",
-      "category": "Other",
-      "experience_level": "Senior",
       "source": "Workday (direct)"
     }
   ]
