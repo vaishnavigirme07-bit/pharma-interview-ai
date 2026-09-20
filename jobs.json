@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-20T18:06:12.285926+00:00",
-  "total_jobs": 113,
+  "generated_at": "2026-09-20T21:16:08.866625+00:00",
+  "total_jobs": 110,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Assoc Mgr, Central Monitoring",
+      "location": "Thane, Maharashtra, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1561671",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Assoc-Mgr--Central-Monitoring_R1561671",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Software Development Engineer",
@@ -224,17 +235,6 @@
     },
     {
       "company": "AstraZeneca",
-      "title": "Senior Manager-Operations, GBS Process & Analytics Services",
-      "location": "India - Chennai",
-      "posted_on": "Posted 10 Days Ago",
-      "req_id": "R-258456",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Manager-Operations--GBS-Process---Analytics-Services_R-258456",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
       "title": "Director - Software Development, Cell Therapy IT",
       "location": "India - Chennai",
       "posted_on": "Posted 10 Days Ago",
@@ -268,17 +268,6 @@
     },
     {
       "company": "AstraZeneca",
-      "title": "AWS DevOps & AI Engineer",
-      "location": "India - Chennai",
-      "posted_on": "Posted 13 Days Ago",
-      "req_id": "R-259588",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/AWS-DevOps---AI-Engineer_R-259588",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
       "title": "Junior Associate/Associate - AI Prompt & Market Rollout Specialist",
       "location": "India - Bangalore",
       "posted_on": "Posted 13 Days Ago",
@@ -286,28 +275,6 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Junior-Associate-Associate---AI-Prompt---Market-Rollout-Specialist_R-259567-1",
       "category": "Other",
       "experience_level": "Entry-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Associate Web Delivery",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 13 Days Ago",
-      "req_id": "R-259548",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Associate-Web-Delivery_R-259548",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Scientific Communications & Medical Information Analyst",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 18 Days Ago",
-      "req_id": "R-259295",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Scientific-Communications---Medical-Information-Analyst_R-259295",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -400,17 +367,6 @@
     },
     {
       "company": "Fortrea",
-      "title": "Safety Science Coordinator - II",
-      "location": "Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "265158",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Safety-Science-Coordinator---II_265158-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
       "title": "Safety System Manager, Argus SME",
       "location": "Pune",
       "posted_on": "Posted 2 Days Ago",
@@ -451,6 +407,17 @@
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Senior-Safety-System-Specialist_265202",
       "category": "Other",
       "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Centralized Study Specialist I",
+      "location": "Bangalore",
+      "posted_on": "Posted 4 Days Ago",
+      "req_id": "265228",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Centralized-Study-Specialist-I_265228",
+      "category": "Other",
+      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
