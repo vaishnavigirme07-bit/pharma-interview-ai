@@ -1,16 +1,38 @@
 {
-  "generated_at": "2026-09-20T14:36:42.174750+00:00",
-  "total_jobs": 111,
+  "generated_at": "2026-09-20T18:06:12.285926+00:00",
+  "total_jobs": 113,
   "jobs": [
     {
       "company": "IQVIA",
-      "title": "Inventory Control Associate",
-      "location": "Indianapolis, Indiana, United States of America",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R1559144",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-Indiana-United-States-of-America/Inventory-Control-Associate_R1559144",
+      "title": "Software Development Engineer",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1560900",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Software-Development-Engineer_R1560900",
       "category": "Other",
-      "experience_level": "Mid-level",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "63607 Client Services Rep 1",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1564306",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/XMLNAME-63607-Client-Services-Rep-1_R1564306",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "63607 Client Services Rep 1",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1564301",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/XMLNAME-63607-Client-Services-Rep-1_R1564301",
+      "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
