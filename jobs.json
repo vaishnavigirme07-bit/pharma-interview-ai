@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T20:53:41.366765+00:00",
-  "total_jobs": 102,
+  "generated_at": "2026-09-21T23:56:29.873727+00:00",
+  "total_jobs": 98,
   "jobs": [
     {
       "company": "IQVIA",
@@ -355,17 +355,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Global Executive Assistant Capability Support Specialist",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2872043",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Global-Executive-Assistant-Capability-Support-Specialist_R2872043",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Centralized Study Spec II",
       "location": "Bangalore",
@@ -432,17 +421,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "Lead Safety Systems Specialist",
-      "location": "Bangalore",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "265203",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Lead-Safety-Systems-Specialist_265203",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Syneos Health",
       "title": "Sr Systems Analyst (Contract to Cash)- Hyderabad (Hybrid)- Second Shift",
       "location": "IND-Hyderabad-Hybrid",
@@ -451,28 +429,6 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Contract-to-Cash---Hyderabad--Hybrid---Second-Shift_25111101",
       "category": "IT / Systems / Analyst",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Sr Systems Analyst (Oracle Fusion experience)- Hyderabad- Hybrid (2nd shift)",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25111098",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Oracle-Fusion-experience---Hyderabad--Hybrid--2nd-shift-_25111098",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Systems Analyst: Functional Payables (Oracle Fusion)- Hyderabad (Hybrid)- Second Shift",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25111100",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Systems-Analyst--Functional-Payables--Oracle-Fusion---Hyderabad--Hybrid---Second-Shift_25111100",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
