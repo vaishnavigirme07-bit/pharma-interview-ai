@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T16:20:17.851051+00:00",
-  "total_jobs": 114,
+  "generated_at": "2026-09-21T20:53:41.366765+00:00",
+  "total_jobs": 102,
   "jobs": [
     {
       "company": "IQVIA",
@@ -10,17 +10,6 @@
       "req_id": "R1561588",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Sr--Stat-Programmer_R1561588",
       "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Clinical Data Specalist / Senior clinical Data Coordinator",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1569000",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Clinical-Data-Specalist---Senior-clinical-Data-Coordinator_R1569000",
-      "category": "Medical Writing & QA",
       "experience_level": "Senior",
       "source": "Workday (direct)"
     },
@@ -69,17 +58,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "Lead Key Account Manager- Hematology",
-      "location": "India - New Delhi Jai Singh",
-      "posted_on": "Posted Today",
-      "req_id": "447724",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---New-Delhi-Jai-Singh/Lead-Key-Account-Manager--Hematology_447724",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "AstraZeneca",
       "title": "Specialist / Senior Specialist - SAP Analytics Cloud, DataSphere",
       "location": "India - Bangalore",
@@ -99,17 +77,6 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Analyst--Digital-HR-Product_R-260250",
       "category": "Other",
       "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Regulatory Affair Manager",
-      "location": "India – Mumbai Commerz",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "R-260251",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Regulatory-Affair-Manager_R-260251-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -422,17 +389,6 @@
     },
     {
       "company": "Fortrea",
-      "title": "Clinical Data Sepcialist",
-      "location": "Bangalore",
-      "posted_on": "Posted Today",
-      "req_id": "264762",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Clinical-Data-Sepcialist_264762",
-      "category": "Medical Writing & QA",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
       "title": "Safety Science Coordinator - II",
       "location": "Bangalore",
       "posted_on": "Posted Today",
@@ -487,17 +443,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "Senior Safety System Specialist",
-      "location": "Bangalore",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "265202",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Senior-Safety-System-Specialist_265202",
-      "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Syneos Health",
       "title": "Sr Systems Analyst (Contract to Cash)- Hyderabad (Hybrid)- Second Shift",
       "location": "IND-Hyderabad-Hybrid",
@@ -527,28 +472,6 @@
       "req_id": "25111100",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Systems-Analyst--Functional-Payables--Oracle-Fusion---Hyderabad--Hybrid---Second-Shift_25111100",
       "category": "IT / Systems / Analyst",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Site Grant Analyst I",
-      "location": "IND-Gurugram-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25112197",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram-Hybrid/Site-Grant-Analyst-I_25112197",
-      "category": "Other",
-      "experience_level": "Entry-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "IMS GSS Specialist I",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25111780",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/IMS-GSS-Specialist-I_25111780",
-      "category": "Other",
       "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
@@ -735,28 +658,6 @@
       "posted_on": "Posted 5 Days Ago",
       "req_id": "2633292",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Regional-Study-Coordinator---Central-Labs-Services---Clinical-Research_2633292",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Data Information Services Associate I",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2631695",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Data-Information-Services-Associate-I_2631695",
-      "category": "Other",
-      "experience_level": "Entry-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Scientist I (DD)",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 6 Days Ago",
-      "req_id": "2627961",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Scientist-I--DD-_2627961",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
@@ -955,17 +856,6 @@
       "posted_on": "Posted 21 Days Ago",
       "req_id": "2630341",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Toxicology_2630341",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Medical Technologist I, Immunology",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 21 Days Ago",
-      "req_id": "2630339",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Immunology_2630339",
       "category": "Other",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
@@ -1232,28 +1122,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Specialist--Data-Science---Artificial-Intelligence_REQ-10087413",
       "category": "Other",
       "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Assoc Director- Platform & Data Engineer",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "REQ-10087538",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Assoc-Director--Platform---Data-Engineer_REQ-10087538",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Associate Director - Data & Platform Architecture",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "REQ-10088074",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Assoc-Dir-Data---Platform-Architecture_REQ-10088074",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     }
   ]
