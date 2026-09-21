@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T23:57:23.527609+00:00",
-  "total_jobs": 110,
+  "generated_at": "2026-09-21T03:53:02.980914+00:00",
+  "total_jobs": 108,
   "jobs": [
     {
       "company": "IQVIA",
@@ -410,17 +410,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "Centralized Study Specialist I",
-      "location": "Bangalore",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "265228",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Centralized-Study-Specialist-I_265228",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Syneos Health",
       "title": "Sr Systems Analyst (Contract to Cash)- Hyderabad (Hybrid)- Second Shift",
       "location": "IND-Hyderabad-Hybrid",
@@ -517,17 +506,6 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
       "category": "Other",
       "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "HR Specialist",
-      "location": "IND-Gurugram",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25111881",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram/HR-Specialist_25111881",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
