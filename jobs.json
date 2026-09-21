@@ -1,104 +1,38 @@
 {
-  "generated_at": "2026-09-21T09:46:22.674363+00:00",
-  "total_jobs": 123,
+  "generated_at": "2026-09-21T16:20:17.851051+00:00",
+  "total_jobs": 114,
   "jobs": [
     {
       "company": "IQVIA",
-      "title": "Lead - Snowflake & ETL",
+      "title": "Sr.  Stat Programmer",
       "location": "Bangalore, India",
       "posted_on": "Posted Today",
-      "req_id": "R1546267",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Lead-Software-Developer_R1546267-1",
+      "req_id": "R1561588",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Sr--Stat-Programmer_R1561588",
       "category": "Other",
       "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
       "company": "IQVIA",
-      "title": "Primary Market Research Consultant",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1554106",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Consultant_R1554106",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Primary Market Research Associate Consultant",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1554086",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Primary-Market-Research-Associate-Consultant_R1554086",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Analyst",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1554096",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Analyst_R1554096",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Global Data Management",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1554421",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Global-Data-Management_R1554421",
-      "category": "Medical Writing & QA",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Associate Medical Data Review Manager",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1550388",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Associate-Medical-Data-Review-Manager_R1550388",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Software Development Engineer",
+      "title": "Clinical Data Specalist / Senior clinical Data Coordinator",
       "location": "Kochi, India",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R1560900",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Software-Development-Engineer_R1560900",
-      "category": "Other",
-      "experience_level": "Not specified",
+      "posted_on": "Posted Today",
+      "req_id": "R1569000",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Clinical-Data-Specalist---Senior-clinical-Data-Coordinator_R1569000",
+      "category": "Medical Writing & QA",
+      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
-      "company": "IQVIA",
-      "title": "63607 Client Services Rep 1",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R1564306",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/XMLNAME-63607-Client-Services-Rep-1_R1564306",
+      "company": "Parexel",
+      "title": "Patient Safety Associate I",
+      "location": "India-Mohali",
+      "posted_on": "Posted Today",
+      "req_id": "R0000044453",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Mohali/Patient-Safety-Associate-I_R0000044453",
       "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "63607 Client Services Rep 1",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R1564301",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/XMLNAME-63607-Client-Services-Rep-1_R1564301",
-      "category": "Other",
-      "experience_level": "Not specified",
+      "experience_level": "Entry-level",
       "source": "Workday (direct)"
     },
     {
@@ -411,6 +345,17 @@
     },
     {
       "company": "Sanofi",
+      "title": "Scientific Sales Executive",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "R2867486",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bangalore/Scientific-Sales-Executive_R2867486",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Associate Manager SRC Governance",
       "location": "Hyderabad",
       "posted_on": "Posted Today",
@@ -451,6 +396,39 @@
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Global-Executive-Assistant-Capability-Support-Specialist_R2872043",
       "category": "Other",
       "experience_level": "Mid-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Centralized Study Spec II",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "265197",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Centralized-Study-Spec-II_265197",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Senior Technical Designer",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "265481",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Senior-Technical-Designer_265481",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Clinical Data Sepcialist",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "264762",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Clinical-Data-Sepcialist_264762",
+      "category": "Medical Writing & QA",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -575,47 +553,25 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Syneos Health",
-      "title": "Data Analyst I",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25111783",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-Analyst-I_25111783",
+      "company": "Labcorp",
+      "title": "Sample Handling Assistant IA, LPS",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2633300",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Sample-Handling-Assistant-IA--LPS_2633300",
       "category": "Other",
-      "experience_level": "Entry-level",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
-      "company": "Syneos Health",
-      "title": "Principal AI Solution Engineer / AI Architect",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25109571",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Senior-Engineer_25109571",
+      "company": "Labcorp",
+      "title": "Manager, Business Operations",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2628724",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Manager--Business-Operations_2628724-1",
       "category": "Other",
-      "experience_level": "Senior",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Payment Support Specialist",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25111784",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Payment-Support-Specialist_25111784",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Principal Product Ops Analyst- Veeva Vault Clinical",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "25103316",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Principal-Product-Ops-Analyst_25103316",
-      "category": "Other",
-      "experience_level": "Senior",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
@@ -752,17 +708,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Data Management Associate II",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "2633226",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Data-Management-Associate-II_2633226",
-      "category": "Medical Writing & QA",
-      "experience_level": "Entry-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Supervisor I",
       "location": "Bengaluru India",
       "posted_on": "Posted 4 Days Ago",
@@ -796,17 +741,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Laboratory Assistant I",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2633085",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Laboratory-Assistant-I_2633085",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Data Information Services Associate I",
       "location": "Bengaluru India",
       "posted_on": "Posted 5 Days Ago",
@@ -814,17 +748,6 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Data-Information-Services-Associate-I_2631695",
       "category": "Other",
       "experience_level": "Entry-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Resource Management Associate",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 6 Days Ago",
-      "req_id": "2631833",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Resource-Management-Associate_2631833",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "source": "Workday (direct)"
     },
     {
@@ -1082,17 +1005,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Inventory Management Specialist",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 25 Days Ago",
-      "req_id": "2624300",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Inventory-Management-Specialist_2624300-1",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Medical Technologist 1",
       "location": "Indianapolis IN",
       "posted_on": "Posted 25 Days Ago",
@@ -1247,6 +1159,17 @@
     },
     {
       "company": "Novartis",
+      "title": "Product Specialist",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10088244",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Product-Specialist_REQ-10088244",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Manager",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1331,28 +1254,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Assoc-Dir-Data---Platform-Architecture_REQ-10088074",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Scientific Computing Engineer - Drug Product Process Modeling & Data Science",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "REQ-10087078",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Specialist--Data-Science---Artificial-Intelligence_REQ-10087078",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Maintenance Planner and Scheduler",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "REQ-10087028",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Maintenance-Planner-and-Scheduler_REQ-10087028-1",
-      "category": "Other",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     }
   ]
