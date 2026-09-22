@@ -185,6 +185,7 @@ def fetch_company_jobs(company: dict, all_locations: bool = False) -> list:
                 "apply_url": apply_url,
                 "category": classify_job(title),
                 "experience_level": classify_experience_level(title),
+                "type": company.get("type", "Other"),
                 "source": "Workday (direct)",
             })
 
