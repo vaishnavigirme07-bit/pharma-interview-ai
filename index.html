@@ -14,14 +14,6 @@
     --teal:#0f766e;
     --teal-deep:#0b4f49;
     --teal-soft:#e6f4f2;
-    --amber:#b45309;
-    --amber-soft:#fdf1e0;
-    --violet:#5b4bb8;
-    --violet-soft:#eeecfb;
-    --rose:#a13a5c;
-    --rose-soft:#fbecf1;
-    --slate:#475569;
-    --slate-soft:#eef1f5;
   }
   *{box-sizing:border-box;}
   body{
@@ -64,15 +56,11 @@
   .grid{display:grid; gap:12px;}
 
   .card{
-    background:var(--card); border:1px solid var(--line); border-left:4px solid var(--slate);
+    background:var(--card); border:1px solid var(--line); border-left:4px solid var(--ink-soft);
     border-radius:10px; padding:16px 18px; display:flex; flex-direction:column; gap:8px;
     transition:box-shadow .15s ease, transform .15s ease;
   }
   .card:hover{box-shadow:0 6px 18px rgba(15,40,35,.08); transform:translateY(-1px);}
-
-  .card[data-cat="PV"]{border-left-color:var(--teal);}
-  .card[data-cat="Pharma - Other"]{border-left-color:var(--amber);}
-  .card[data-cat="Other"]{border-left-color:var(--slate);}
 
   .card-top{display:flex; justify-content:space-between; align-items:flex-start; gap:10px; flex-wrap:wrap;}
   .title{font-size:1.05rem; font-weight:600; margin:0;}
@@ -80,13 +68,13 @@
   .meta{display:flex; flex-wrap:wrap; gap:12px; font-size:.82rem; color:var(--ink-soft);}
   .meta span{display:inline-flex; align-items:center; gap:4px;}
 
+  .tags{display:flex; gap:6px; flex-wrap:wrap; align-items:flex-start;}
   .tag{
     padding:3px 11px; border-radius:999px; font-size:.72rem; font-weight:700;
     text-transform:uppercase; letter-spacing:.02em; white-space:nowrap;
   }
-  .tag-pv{background:var(--teal-soft); color:var(--teal-deep);}
-  .tag-other{background:var(--amber-soft); color:var(--amber);}
-  .tag-general{background:var(--slate-soft); color:var(--slate);}
+  .tag-exp{background:#eef1f5; color:var(--ink-soft); font-weight:600;}
+  .tag-type{background:#f1f5f9; color:#334155; font-weight:600;}
 
   .apply{
     align-self:flex-start; margin-top:4px; text-decoration:none;
@@ -123,10 +111,27 @@
   <div class="filters">
     <input type="text" id="searchBox" placeholder="Search title or company...">
     <select id="categoryFilter">
-      <option value="">All categories</option>
-      <option value="PV">PV core</option>
-      <option value="Pharma - Other">Pharma - Other</option>
+      <option value="">All departments</option>
+      <option value="Pharmacovigilance">Pharmacovigilance</option>
+      <option value="Signal Detection">Signal Detection</option>
+      <option value="Risk Management">Risk Management</option>
+      <option value="Regulatory Affairs">Regulatory Affairs</option>
+      <option value="Clinical Operations">Clinical Operations</option>
+      <option value="TMF / Document Mgmt">TMF / Document Mgmt</option>
+      <option value="Medical Writing & QA">Medical Writing &amp; QA</option>
+      <option value="IT / Systems / Analyst">IT / Systems / Analyst</option>
       <option value="Other">Other</option>
+    </select>
+    <select id="experienceFilter">
+      <option value="">All experience levels</option>
+      <option value="Entry-level">Entry-level</option>
+      <option value="Mid-level">Mid-level</option>
+      <option value="Senior">Senior</option>
+      <option value="Leadership (Manager+)">Leadership (Manager+)</option>
+      <option value="Not specified">Not specified</option>
+    </select>
+    <select id="typeFilter">
+      <option value="">All company types</option>
     </select>
     <select id="companyFilter">
       <option value="">All companies</option>
@@ -142,6 +147,23 @@
 
 <script>
 let allJobs = [];
+
+// One color per department — used for the card's left-edge stripe and the tag pill.
+const CATEGORY_STYLES = {
+  "Pharmacovigilance":      { border:"#0f766e", bg:"#e6f4f2", fg:"#0b4f49" },
+  "Signal Detection":       { border:"#5b4bb8", bg:"#eeecfb", fg:"#3f3486" },
+  "Risk Management":        { border:"#a13a5c", bg:"#fbecf1", fg:"#7a2c46" },
+  "Regulatory Affairs":     { border:"#b45309", bg:"#fdf1e0", fg:"#8a3f05" },
+  "Clinical Operations":    { border:"#1d4ed8", bg:"#e8edfc", fg:"#1e3a8a" },
+  "TMF / Document Mgmt":    { border:"#475569", bg:"#eef1f5", fg:"#334155" },
+  "Medical Writing & QA":   { border:"#15803d", bg:"#e7f5ea", fg:"#14532d" },
+  "IT / Systems / Analyst": { border:"#6b7280", bg:"#f1f2f4", fg:"#374151" },
+  "Other":                  { border:"#94a3b8", bg:"#f1f5f9", fg:"#475569" }
+};
+
+function styleFor(cat){
+  return CATEGORY_STYLES[cat] || CATEGORY_STYLES["Other"];
+}
 
 async function loadJobs(){
   try{
@@ -161,6 +183,7 @@ async function loadJobs(){
 function populateFilterOptions(){
   const companies = [...new Set(allJobs.map(j => j.company))].sort();
   const locations = [...new Set(allJobs.map(j => j.location).filter(Boolean))].sort();
+  const types = [...new Set(allJobs.map(j => j.type).filter(Boolean))].sort();
 
   const companySelect = document.getElementById('companyFilter');
   companies.forEach(c => {
@@ -175,22 +198,27 @@ function populateFilterOptions(){
     opt.value = l; opt.textContent = l;
     locationSelect.appendChild(opt);
   });
-}
 
-function tagClass(cat){
-  if(cat === 'PV') return 'tag-pv';
-  if(cat === 'Pharma - Other') return 'tag-other';
-  return 'tag-general';
+  const typeSelect = document.getElementById('typeFilter');
+  types.forEach(t => {
+    const opt = document.createElement('option');
+    opt.value = t; opt.textContent = t;
+    typeSelect.appendChild(opt);
+  });
 }
 
 function render(){
   const search = document.getElementById('searchBox').value.toLowerCase();
   const category = document.getElementById('categoryFilter').value;
+  const experience = document.getElementById('experienceFilter').value;
+  const type = document.getElementById('typeFilter').value;
   const company = document.getElementById('companyFilter').value;
   const location = document.getElementById('locationFilter').value;
 
   let filtered = allJobs.filter(j => {
     if(category && j.category !== category) return false;
+    if(experience && j.experience_level !== experience) return false;
+    if(type && j.type !== type) return false;
     if(company && j.company !== company) return false;
     if(location && j.location !== location) return false;
     if(search && !(j.title.toLowerCase().includes(search) || j.company.toLowerCase().includes(search))) return false;
@@ -209,14 +237,20 @@ function render(){
     return;
   }
 
-  grid.innerHTML = filtered.map(j => `
-    <div class="card" data-cat="${j.category}">
+  grid.innerHTML = filtered.map(j => {
+    const s = styleFor(j.category);
+    return `
+    <div class="card" style="border-left-color:${s.border};">
       <div class="card-top">
         <div>
           <div class="company">${j.company}</div>
           <h3 class="title">${j.title}</h3>
         </div>
-        <span class="tag ${tagClass(j.category)}">${j.category}</span>
+        <div class="tags">
+          <span class="tag" style="background:${s.bg}; color:${s.fg};">${j.category}</span>
+          ${j.experience_level ? `<span class="tag tag-exp">${j.experience_level}</span>` : ''}
+          ${j.type ? `<span class="tag tag-type">${j.type}</span>` : ''}
+        </div>
       </div>
       <div class="meta">
         <span>📍 ${j.location || 'Location not specified'}</span>
@@ -225,11 +259,14 @@ function render(){
       </div>
       <a class="apply" href="${j.apply_url}" target="_blank" rel="noopener">Apply on company site →</a>
     </div>
-  `).join('');
+  `;
+  }).join('');
 }
 
 document.getElementById('searchBox').addEventListener('input', render);
 document.getElementById('categoryFilter').addEventListener('change', render);
+document.getElementById('experienceFilter').addEventListener('change', render);
+document.getElementById('typeFilter').addEventListener('change', render);
 document.getElementById('companyFilter').addEventListener('change', render);
 document.getElementById('locationFilter').addEventListener('change', render);
 
