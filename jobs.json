@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-09-22T09:10:27.748227+00:00",
-  "total_jobs": 98,
+  "generated_at": "2026-09-22T14:28:23.367531+00:00",
+  "total_jobs": 106,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Financial Analyst 2",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1568111",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Financial-Analyst-2_R1568111",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Senior Statistical Programmer",
+      "location": "Hyderabad, Telangana, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1557057",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Hyderabad-Telangana-India/Senior-Statistical-Programmer_R1557057",
+      "category": "Medical Writing & QA",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Recruiter",
+      "location": "Mumbai, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1563321",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mumbai-India/Recruiter_R1563321",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "SAS Programmer",
+      "location": "Kolkata, West Bengal, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1566481",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kolkata-West-Bengal-India/SAS-Programmer_R1566481",
+      "category": "Medical Writing & QA",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Clin DB Validation",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1553313",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Clin-DB-Validation_R1553313",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Project Manager",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1562143",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Project-Manager_R1562143-1",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Product Sppt Trainee",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1565428",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Product-Sppt-Trainee_R1565428",
+      "category": "Other",
+      "experience_level": "Entry-level",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Database Management Specialist (Rave)",
@@ -11,39 +88,6 @@
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Database-Management-Specialist--Rave-_R1569969",
       "category": "Other",
       "experience_level": "Mid-level",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Medical Sales Rep 1 (Job Loc: Bilaspur)",
-      "location": "Thane, Maharashtra, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1566124",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Medical-Sales-Rep-1--Job-Loc--Bilaspur-_R1566124",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Bigdata Factory (BDF) Support",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1561310",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Bigdata-Factory--BDF--Support_R1561310-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Intern",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1566902",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Intern_R1566902",
-      "category": "Other",
-      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -202,17 +246,6 @@
     },
     {
       "company": "AstraZeneca",
-      "title": "Regional Medical Advisor",
-      "location": "India - Mumbai",
-      "posted_on": "Posted 6 Days Ago",
-      "req_id": "R-260018",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Mumbai/Regional-Medical-Advisor_R-260018-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
       "title": "HR Data Solutions Specialist",
       "location": "India - Chennai",
       "posted_on": "Posted 6 Days Ago",
@@ -242,6 +275,17 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer-II_R-258957-2",
       "category": "Medical Writing & QA",
       "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Regional Medical Advisor",
+      "location": "India - Mumbai",
+      "posted_on": "Posted 6 Days Ago",
+      "req_id": "R-260018",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Mumbai/Regional-Medical-Advisor_R-260018-1",
+      "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -378,12 +422,56 @@
     },
     {
       "company": "Sanofi",
-      "title": "Scientific Sales Executive",
-      "location": "Bangalore",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R2867486",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bangalore/Scientific-Sales-Executive_R2867486",
+      "title": "Head of Manufacturing and Supply Services Hyderabad Hub",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2872204",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Head-of-Manufacturing-and-Supply-Services-Hyderabad-Hub_R2872204",
       "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Senior Scientific Writer HEVA",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2868665",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Scientific-Writer-HEVA_R2868665",
+      "category": "Other",
+      "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Head Project Management",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2871444",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Head-Project-Management_R2871444",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Veeva Programmer",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "265475",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Veeva-Programmer_265475",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "TMF Reviewer II",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "265045",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/TMF-Reviewer-II_265045",
+      "category": "TMF / Document Mgmt",
       "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
@@ -443,25 +531,14 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "Safety System Manager, Argus SME",
-      "location": "Pune",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "265192",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Pune/Safety-System-Manager--Argus-SME_265192",
+      "company": "Syneos Health",
+      "title": "Safety & PV Coordinator (Hyderabad Office-based) - Immediate Joiners",
+      "location": "IND-Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "25110936",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad/Safety---PV-Coordinator--Hyderabad-Office-based----Immediate-Joiners_25110936",
       "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
-      "title": "Senior Manager, Process Compliance Review and Analysis",
-      "location": "Pune",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "265191",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Pune/Senior-Manager--Process-Compliance-Review-and-Analysis_265191",
-      "category": "Medical Writing & QA",
-      "experience_level": "Leadership (Manager+)",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -473,6 +550,17 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Statistical-Programmer-with-SDTM---Metadata-management-specialization_25112252",
       "category": "Medical Writing & QA",
       "experience_level": "Senior",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Coordinator Support I",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2629334",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Coordinator-Support-I_2629334",
+      "category": "Other",
+      "experience_level": "Not specified",
       "source": "Workday (direct)"
     },
     {
@@ -939,17 +1027,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Medical Technologist II",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2626197",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-II--1st-Shift-_2626197",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Medical Technologist I",
       "location": "Indianapolis IN",
       "posted_on": "Posted 30+ Days Ago",
@@ -1060,22 +1137,33 @@
     },
     {
       "company": "Novartis",
-      "title": "Product Specialist",
+      "title": "Senior Manager, BPA Finance",
       "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10088244",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Product-Specialist_REQ-10088244",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087281",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Manager--BPA-Finance_REQ-10087281",
       "category": "Other",
-      "experience_level": "Mid-level",
+      "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
     },
     {
       "company": "Novartis",
-      "title": "Manager",
+      "title": "Associate External Operations Manager",
       "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087383",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Manager_REQ-10087383",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10085680",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-External-Operations-Manager_REQ-10085680",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Associate Director, Internal Audit, Operational Excellence & Quality",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10076987",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director--Internal-Audit--Quality_REQ-10076987-1",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "source": "Workday (direct)"
