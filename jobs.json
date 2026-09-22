@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T23:56:29.873727+00:00",
-  "total_jobs": 98,
+  "generated_at": "2026-09-22T03:50:12.396163+00:00",
+  "total_jobs": 96,
   "jobs": [
     {
       "company": "IQVIA",
@@ -344,17 +344,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Data Classification, Standards and Definitions Partner - Job Architecture & Skills",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2866943",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Data-Classification--Standards-and-Definitions-Partner---Job-Architecture---Skills_R2866943",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Centralized Study Spec II",
       "location": "Bangalore",
@@ -418,17 +407,6 @@
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Pune/Senior-Manager--Process-Compliance-Review-and-Analysis_265191",
       "category": "Medical Writing & QA",
       "experience_level": "Leadership (Manager+)",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Sr Systems Analyst (Contract to Cash)- Hyderabad (Hybrid)- Second Shift",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25111101",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Systems-Analyst--Contract-to-Cash---Hyderabad--Hybrid---Second-Shift_25111101",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
       "source": "Workday (direct)"
     },
     {
