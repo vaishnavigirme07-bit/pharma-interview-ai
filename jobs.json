@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-23T11:00:36.411897+00:00",
-  "total_jobs": 101,
+  "generated_at": "2026-09-23T15:27:23.474931+00:00",
+  "total_jobs": 103,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Intern",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1566902",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Intern_R1566902",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Manager Stat Programmer",
@@ -71,18 +83,6 @@
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Clin-DB-Validation_R1553313",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Assoc Scientist, Lab Operations",
-      "location": "Indianapolis, IN, United States of America",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R1568620",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-IN-United-States-of-America/Assoc-Scientist--Lab-Operations_R1568620",
-      "category": "Other",
-      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -400,6 +400,18 @@
     },
     {
       "company": "Sanofi",
+      "title": "Data Analytics - Analyst",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2868845",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Data-Analytics---Analyst_R2868845",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Analyst Tender Data Management",
       "location": "Hyderabad",
       "posted_on": "Posted Today",
@@ -407,6 +419,18 @@
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Analyst-Tender-Data-Management_R2871076",
       "category": "Medical Writing & QA",
       "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Fortrea",
+      "title": "Hosting Engineer I",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "265528",
+      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Hosting-Engineer-I_265528",
+      "category": "Other",
+      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -459,26 +483,26 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "Senior Technical Designer",
-      "location": "Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "265481",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Senior-Technical-Designer_265481",
+      "company": "Syneos Health",
+      "title": "Sr Technical Analyst",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111062",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Technical-Analyst_25111062",
       "category": "Other",
       "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "Safety Science Coordinator - II",
-      "location": "Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "265158",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Safety-Science-Coordinator---II_265158-1",
+      "company": "Labcorp",
+      "title": "Senior Analyst, Digital Analytics Implementation and Tagging",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2633766",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Senior-Analyst--Digital-Analytics-Implementation-and-Tagging_2633766",
       "category": "Other",
-      "experience_level": "Not specified",
+      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1120,6 +1144,18 @@
     },
     {
       "company": "Novartis",
+      "title": "Senior Scientist - Critical Reagent Management",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087716",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Scientist---Critical-Reagent-Management_REQ-10087716",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Life Cycle Manager",
       "location": "Mumbai (Head Office)",
       "posted_on": "Posted Today",
@@ -1197,18 +1233,6 @@
       "posted_on": "Posted Today",
       "req_id": "REQ-10086460",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/PKS-Integration-Operations-Manager_REQ-10086460",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Manager, BPA Finance",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087281",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Manager--BPA-Finance_REQ-10087281",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "type": "Other",
