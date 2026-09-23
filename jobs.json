@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-23T00:08:05.881653+00:00",
-  "total_jobs": 90,
+  "generated_at": "2026-09-23T05:37:56.486109+00:00",
+  "total_jobs": 92,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Medical Sales Rep 1 (Patna Loc)",
+      "location": "Thane, Maharashtra, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1565992",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Medical-Sales-Rep-1--Patna-Loc-_R1565992",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Associate clinical DB Validation Manager",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1553313",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Clin-DB-Validation_R1553313",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Assoc Scientist, Lab Operations",
@@ -35,6 +59,18 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Regional Medical Advisor",
+      "location": "India - Karnataka",
+      "posted_on": "Posted Today",
+      "req_id": "R-260024",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Karnataka/Regional-Medical-Advisor_R-260024-1",
+      "category": "Other",
+      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -411,18 +447,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "Central Monitor I",
-      "location": "Bangalore",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "265447",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Central-Monitor-I_265447",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Syneos Health",
       "title": "Safety & PV Coordinator (Hyderabad Office-based) - Immediate Joiners",
       "location": "IND-Hyderabad",
@@ -431,18 +455,6 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad/Safety---PV-Coordinator--Hyderabad-Office-based----Immediate-Joiners_25110936",
       "category": "Other",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Sr. Statistical Programmer with SDTM / Metadata management specialization",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted Today",
-      "req_id": "25112252",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Statistical-Programmer-with-SDTM---Metadata-management-specialization_25112252",
-      "category": "Medical Writing & QA",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1053,6 +1065,18 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "2532837",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Mumbai---Unit-No-201-2nd-Floor-Akruti-Softech-Park---Road-C-Cross-Road-MIDC-Marol-Andheri-East/Director--Customers---Market-Insights_2532837",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "PKS Integration Operations Manager",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10086460",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/PKS-Integration-Operations-Manager_REQ-10086460",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "type": "Other",
