@@ -1,55 +1,7 @@
 {
-  "generated_at": "2026-09-24T13:23:22.276875+00:00",
-  "total_jobs": 113,
+  "generated_at": "2026-09-24T18:20:32.839767+00:00",
+  "total_jobs": 111,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Project Manager",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1562143",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Project-Manager_R1562143-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "QA Auditor 2",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1561398",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/QA-Auditor-2_R1561398-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Associate Clinical Data coordinator",
-      "location": "Thane, Maharashtra, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1555608",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Associate-Clinical-Data-coordinator_R1555608",
-      "category": "Medical Writing & QA",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Manager, Software Devl (DM SAS/Rave CF)",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1569750",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Manager--Software-Devl--DM-SAS-Rave-CF-_R1569750",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
     {
       "company": "Parexel",
       "title": "Manager, Data Management",
@@ -99,14 +51,14 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "Assistant Legal Counsel",
-      "location": "Bangalore",
+      "company": "AstraZeneca",
+      "title": "Regulatory Affair Manager",
+      "location": "India – Mumbai Commerz",
       "posted_on": "Posted Today",
-      "req_id": "445813",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bangalore/Assistant-Legal-Counsel_445813",
+      "req_id": "R-260251",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Regulatory-Affair-Manager_R-260251-1",
       "category": "Other",
-      "experience_level": "Not specified",
+      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -447,42 +399,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Source-to-Pay Strategic Support Associate",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2872514",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Source-to-Pay-Strategic-Support-Associate_R2872514-1",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Accounting Analyst- Closing & Reporting- A2R",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2871521",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Accounting-Analyst--Closing---Reporting--A2R_R2871521",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Lead Solutions Engineer",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2871594",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Lead-Solutions-Engineer--Full-Stack_R2871594-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Senior Validation Analyst",
       "location": "Bangalore",
@@ -515,6 +431,54 @@
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Veeva-Programmer_265475",
       "category": "Other",
       "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Vendor/Tech/Life Sciences Counsel I",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25110655",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Vendor-Tech-Life-Sciences-Counsel-I_25110655",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Sr Product Manager - Sales Products",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111063",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Product-Manager---Sales-Products_25111063",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Marketing Product Manager (Salesforce)",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111272",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Marketing-Product-Manager--Salesforce-_25111272",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Associate Director (Deal management products- Salesforce/Oracle APEX)",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25111271",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Associate-Director--Deal-management-products--Salesforce-Oracle-APEX-_25111271",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -563,6 +527,18 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Technical-Analyst_25111062",
       "category": "Other",
       "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Phlebotomist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2614072",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2614072",
+      "category": "Other",
+      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1276,6 +1252,18 @@
     },
     {
       "company": "Novartis",
+      "title": "Associate Director – Reporting Transformation & AI Enablement",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10073036",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director---Reporting-Transformation---AI-Enablement_REQ-10073036",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Group Head - Int Finance CoE",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1341,18 +1329,6 @@
       "posted_on": "Posted Today",
       "req_id": "REQ-10086404",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Mumbai-Head-Office/Senior-Manager-Marketing_REQ-10086404",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Production Head, Isotope Manufacturing (Associate Director)",
-      "location": "Indianapolis",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10088274",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Indianapolis/Production-Head--Isotope-Manufacturing--Associate-Director-_REQ-10088274",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "type": "Other",
