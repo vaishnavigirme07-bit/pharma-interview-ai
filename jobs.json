@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-09-25T18:20:10.548135+00:00",
-  "total_jobs": 118,
+  "generated_at": "2026-09-25T22:04:34.592323+00:00",
+  "total_jobs": 115,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Data Engineer – Snowflake & FHIR.",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1565372",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Data-Engineer---Snowflake---FHIR_R1565372",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Clinical Data Specalist / Senior clinical Data Coordinator",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1569000",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Clinical-Data-Specalist---Senior-clinical-Data-Coordinator_R1569000",
-      "category": "Medical Writing & QA",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
     {
       "company": "Parexel",
       "title": "Project Leader",
@@ -47,30 +23,6 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Assistant Legal Counsel",
-      "location": "Bangalore",
-      "posted_on": "Posted Today",
-      "req_id": "445813",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bangalore/Assistant-Legal-Counsel_445813",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate Director - Global Study Lead",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447353",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Global-Study-Lead_447353-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -575,18 +527,6 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Associate-Director--Deal-management-products--Salesforce-Oracle-APEX-_25111271",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Senior Publishing Consultant",
-      "location": "IND-Gurugram",
-      "posted_on": "Posted Yesterday",
-      "req_id": "25112837",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram/Senior-Publishing-Consultant_25112837",
-      "category": "Other",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1348,6 +1288,18 @@
     },
     {
       "company": "Novartis",
+      "title": "Associate Director - CRM Innovation Labs",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087151",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director---CRM-Innovation-Labs_REQ-10087151",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Senior Clinical Data Scientist",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1367,6 +1319,18 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Expert-Clinical-Data-Scientist_REQ-10088225",
       "category": "Medical Writing & QA",
       "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "External Vigilance Engagements Lead",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10088191",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/External-Vigilance-Engagements-Lead_REQ-10088191",
+      "category": "Other",
+      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
