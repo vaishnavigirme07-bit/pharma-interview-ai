@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T07:45:41.371614+00:00",
-  "total_jobs": 113,
+  "generated_at": "2026-09-27T13:38:27.877433+00:00",
+  "total_jobs": 114,
   "jobs": [
     {
       "company": "Parexel",
@@ -11,6 +11,18 @@
       "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Project-Leader_R0000045266",
       "category": "Other",
       "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "ICON plc",
+      "title": "TMF Specialist (All Levels)",
+      "location": "India, Chennai",
+      "posted_on": "Posted Today",
+      "req_id": "JR142623",
+      "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/TMF-Specialist--All-Levels-_JR142623",
+      "category": "TMF / Document Mgmt",
+      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
