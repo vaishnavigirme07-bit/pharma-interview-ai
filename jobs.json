@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-27T18:07:33.145682+00:00",
-  "total_jobs": 114,
+  "generated_at": "2026-09-27T21:55:22.128461+00:00",
+  "total_jobs": 115,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Lead Automation Tester",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1540481",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Lead-Automation-Tester_R1540481-1",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Sr Product Sppt Tech Advisor",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1540483",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Sr-Product-Sppt-Tech-Advisor_R1540483",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "Parexel",
       "title": "Project Leader",
@@ -23,6 +47,42 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Associate Director - Buying Channel Content",
+      "location": "India - Karnataka - Bengaluru",
+      "posted_on": "Posted Today",
+      "req_id": "448394",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Karnataka---Bengaluru/Associate-Director---Buying-Channel-Content_448394",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Associate Director Capital Reporting and Performance",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "448542",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director-Capital-Reporting-and-Performance_448542",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Director- Digital, Data and Analytics - WREF",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "448546",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Director--Digital--Data-and-Analytics---WREF_448546",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -202,30 +262,6 @@
       "req_id": "R-259853",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer-II_R-259853-1",
       "category": "Medical Writing & QA",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Associate - Local Case Intake Advisor (Japanese Language)",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 18 Days Ago",
-      "req_id": "R-259703",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Associate---Local-Case-Intake-Advisor--Japanese-Language-_R-259703",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Process Optimisation Senior Analyst",
-      "location": "India - Chennai",
-      "posted_on": "Posted 19 Days Ago",
-      "req_id": "R-259609",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Process-Optimisation-Senior-Analyst_R-259609",
-      "category": "Other",
       "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
@@ -743,30 +779,6 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Associate-Manager--Global-Operations-Support_2633650",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Coordinator Support I",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2629334",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Coordinator-Support-I_2629334",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Data Specialist III",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2633218",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Data-Specialist-III_2633218",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
