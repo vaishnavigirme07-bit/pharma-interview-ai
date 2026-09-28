@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T00:23:40.652540+00:00",
-  "total_jobs": 114,
+  "generated_at": "2026-09-28T06:26:13.271495+00:00",
+  "total_jobs": 116,
   "jobs": [
     {
       "company": "IQVIA",
@@ -52,6 +52,30 @@
     },
     {
       "company": "GSK",
+      "title": "Principal Medical Writer - Content Quality Review",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "448266",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal-Medical-Writer---Content-Quality-Review_448266",
+      "category": "Medical Writing & QA",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Medical Writer - Content Quality Review",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "448265",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Medical-Writer---Content-Quality-Review_448265",
+      "category": "Medical Writing & QA",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
       "title": "Associate Director - Buying Channel Content",
       "location": "India - Karnataka - Bengaluru",
       "posted_on": "Posted Today",
@@ -83,6 +107,18 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Director--Digital--Data-and-Analytics---WREF_448546",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Senior Statistical Programmer I",
+      "location": "India - Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "R-258957",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Statistical-Programmer-II_R-258957-2",
+      "category": "Medical Writing & QA",
+      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -328,6 +364,18 @@
     },
     {
       "company": "Sanofi",
+      "title": "Expert Scientific Writer",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2855600",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Expert-Scientific-Writer_R2855600-2",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Senior Stats Programmer (VAX)",
       "location": "Hyderabad",
       "posted_on": "Posted 2 Days Ago",
@@ -435,30 +483,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Principal Statistical Programmer",
-      "location": "Hyderabad",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R2864194",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Principal-Statistical-Programmer_R2864194",
-      "category": "Medical Writing & QA",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Senior Statistical Programmer",
-      "location": "Hyderabad",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R2864183",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Statistical-Programmer_R2864183",
-      "category": "Medical Writing & QA",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Fortrea",
       "title": "Safety Science Coordinator - II",
       "location": "Bangalore",
@@ -551,18 +575,6 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-Analyst-I_25111783",
       "category": "Other",
       "experience_level": "Entry-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Vendor/Tech/Life Sciences Counsel I",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "25110655",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Vendor-Tech-Life-Sciences-Counsel-I_25110655",
-      "category": "Other",
-      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1281,6 +1293,18 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "2532837",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Mumbai---Unit-No-201-2nd-Floor-Akruti-Softech-Park---Road-C-Cross-Road-MIDC-Marol-Andheri-East/Director--Customers---Market-Insights_2532837",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Associate Director DDIT ISC Access Management & Authentication",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10087977",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director-DDIT-ISC-SecOps-Access-Auth_REQ-10087977",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "type": "Other",
