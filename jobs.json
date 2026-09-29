@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T19:53:35.557806+00:00",
-  "total_jobs": 96,
+  "generated_at": "2026-09-29T23:33:38.601257+00:00",
+  "total_jobs": 92,
   "jobs": [
     {
       "company": "Parexel",
@@ -11,18 +11,6 @@
       "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Senior-Power-Apps-Developer_R0000036984",
       "category": "IT / Systems / Analyst",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Parexel",
-      "title": "Manager, Data Aggregation & Distribution L2 Support",
-      "location": "India-Hyderabad-Remote",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0000046091",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Manager--Data-Aggregation---Distribution-L2-Support_R0000046091",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -431,18 +419,6 @@
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Product-Owner-Platforms-Configurations-and-Data-Mgmt_R2871930",
       "category": "Other",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Accounting Analyst",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2872275",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Accounting-Analyst_R2872275",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1126,30 +1102,6 @@
       "req_id": "REQ-10087654",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Mumbai-Head-Office/Manager--Quality-Assurance_REQ-10087654",
       "category": "Medical Writing & QA",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Area Manager / Regional Business Manager (Dermatology Specialty Sales)",
-      "location": "Bangalore (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10086743",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Bangalore-Office/Area-Manager---Regional-Business-Manager_REQ-10086743",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Area Manager / Regional Business Manager (Dermatology Specialty Sales)",
-      "location": "Delhi (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10086744",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Delhi-Office/Area-Manager---Regional-Business-Manager_REQ-10086744",
-      "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
