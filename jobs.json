@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T21:40:42.600517+00:00",
-  "total_jobs": 113,
+  "generated_at": "2026-09-29T01:34:59.030768+00:00",
+  "total_jobs": 115,
   "jobs": [
     {
       "company": "IQVIA",
@@ -83,6 +83,30 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Associate Director - Buying Channel Content",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "448394",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Buying-Channel-Content_448394",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Associate Director - Source-to-Contract Global Process Owner",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "448397",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Source-to-Contract-Global-Process-Owner_448397",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
