@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-09-29T23:33:38.601257+00:00",
-  "total_jobs": 92,
+  "generated_at": "2026-09-30T04:32:31.274592+00:00",
+  "total_jobs": 90,
   "jobs": [
-    {
-      "company": "Parexel",
-      "title": "Senior Power Apps Developer",
-      "location": "India-Hyderabad-Remote",
-      "posted_on": "Posted Today",
-      "req_id": "R0000036984",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Senior-Power-Apps-Developer_R0000036984",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
     {
       "company": "ICON plc",
       "title": "TMF Specialist (All Levels)",
@@ -407,6 +395,18 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Tamil-Nadu/Regional-Medical-Advisor---Oncology_R-250500-1",
       "category": "Other",
       "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Project Manager Medical Communications",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2858003",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Project-Manager-Medical-Communications_R2858003",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1078,30 +1078,6 @@
       "req_id": "REQ-10087977",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director-DDIT-ISC-SecOps-Access-Auth_REQ-10087977",
       "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Associate Director - Creative Direction",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10077333",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director---Creative-Direction_REQ-10077333",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Manager, Quality Assurance",
-      "location": "Mumbai (Head Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10087654",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Mumbai-Head-Office/Manager--Quality-Assurance_REQ-10087654",
-      "category": "Medical Writing & QA",
       "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
