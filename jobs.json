@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T21:19:31.978663+00:00",
-  "total_jobs": 121,
+  "generated_at": "2026-10-01T01:10:12.428546+00:00",
+  "total_jobs": 118,
   "jobs": [
     {
       "company": "ICON plc",
@@ -23,30 +23,6 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate Director - Sourcing - Global Process Owner",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "448397",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Source-to-Contract-Global-Process-Owner_448397",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Manager - Tax & Stat Compliance Delivery",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447945",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---Tax---Stat-Compliance-Delivery_447945",
-      "category": "Medical Writing & QA",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -671,18 +647,6 @@
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Automation-Engineer_R2872349",
       "category": "Other",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "ESR Associate Specialist",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2872735",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/ESR-Associate-Specialist_R2872735",
-      "category": "Other",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
