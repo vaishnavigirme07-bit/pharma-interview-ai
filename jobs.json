@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T08:05:46.686666+00:00",
-  "total_jobs": 106,
+  "generated_at": "2026-10-02T15:31:24.356854+00:00",
+  "total_jobs": 100,
   "jobs": [
     {
       "company": "ICON plc",
@@ -16,37 +16,13 @@
     },
     {
       "company": "GSK",
-      "title": "Test -- Senior Manager - Planning & Forecasting Lead",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "449027",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Test----Senior-Manager---Planning---Forecasting-Lead_449027",
+      "title": "Assistant Legal Counsel",
+      "location": "Bangalore",
+      "posted_on": "Posted Today",
+      "req_id": "445813",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bangalore/Assistant-Legal-Counsel_445813",
       "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Manager - Indirect Tax",
-      "location": "India - Maharashtra - Worli Mumbai",
-      "posted_on": "Posted Yesterday",
-      "req_id": "447955",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Senior-Lead-Lead--Senior-Analyst---Indirect-Tax_447955-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Manager - Tax & Stat Compliance Delivery",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "447945",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---Tax---Stat-Compliance-Delivery_447945",
-      "category": "Medical Writing & QA",
-      "experience_level": "Leadership (Manager+)",
+      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -580,6 +556,18 @@
     },
     {
       "company": "Sanofi",
+      "title": "Senior GRA Labeling Specialist",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2869259",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-GRA-Labeling-Specialist_R2869259",
+      "category": "Regulatory Affairs",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "GRA Labelling Specialist",
       "location": "Hyderabad",
       "posted_on": "Posted Today",
@@ -611,42 +599,6 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sourcing-Associate_25110721",
       "category": "Other",
       "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Regulatory Publishing Specialist",
-      "location": "IND-Gurugram",
-      "posted_on": "Posted Yesterday",
-      "req_id": "25112836",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Gurugram/Regulatory-Publishing-Specialist_25112836",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Senior Clinical Programmer (DM SAS)",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted Yesterday",
-      "req_id": "25112400",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Senior-Clinical-Programmer--DM-SAS-_25112400",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Syneos Health",
-      "title": "Senior Clinical Programmer (Rave)",
-      "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted Yesterday",
-      "req_id": "25112398",
-      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Senior-Clinical-Programmer--Rave-_25112398",
-      "category": "Other",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1247,30 +1199,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-I_REQ-10087727-1",
       "category": "Other",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Analyst - RWE Acceleration",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10075473",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Analyst---RWE-Acceleration_REQ-10075473",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Director CDD",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10082644",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Director-CDD_REQ-10082644-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     }
