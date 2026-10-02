@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T15:31:24.356854+00:00",
-  "total_jobs": 100,
+  "generated_at": "2026-10-02T20:27:58.138782+00:00",
+  "total_jobs": 87,
   "jobs": [
     {
       "company": "ICON plc",
@@ -280,30 +280,6 @@
     },
     {
       "company": "AstraZeneca",
-      "title": "Regional Medical Advisor",
-      "location": "India - Karnataka",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "R-260024",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Karnataka/Regional-Medical-Advisor_R-260024-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Specialist / Senior Specialist - Decision Scientist",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "R-259294",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Specialist---Decision-Scientist_R-259294-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
       "title": "Associate - Local Case Intake Advisor (Japanese Language)",
       "location": "India - Bangalore",
       "posted_on": "Posted 4 Days Ago",
@@ -383,18 +359,6 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/International-CMC-Regulatory-Affairs-Manager-I_R-258782-2",
       "category": "Regulatory Affairs",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Regional Medical Advisor",
-      "location": "India - Mumbai",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "R-260018",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Mumbai/Regional-Medical-Advisor_R-260018-1",
-      "category": "Other",
-      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -567,18 +531,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "GRA Labelling Specialist",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2869261",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/GRA-Labeling-Specialist_R2869261",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Syneos Health",
       "title": "Vendor Assessment Analyst",
       "location": "IND-Hyderabad-Hybrid",
@@ -599,6 +551,18 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sourcing-Associate_25110721",
       "category": "Other",
       "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Principal Reliability Engineer-Indianapolis",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2635494",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Principal-Reliability-Engineer-Indianapolis_2635494",
+      "category": "Other",
+      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1055,126 +1019,6 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Microbiology-Lab_2631977",
       "category": "Other",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Radiation Safety and Scientific Specialist",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 24 Days Ago",
-      "req_id": "2630800",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Radiation-Safety-and-Scientific-Specialist_2630800",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Medical Technologist I, Toxicology",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2630341",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Toxicology_2630341",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Medical Technologist I, Flow Cytometry",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2630059",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Flow-Cytometry_2630059",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Medical Technologist 1",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2629876",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-1_2629876",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Contract Associate",
-      "location": "Remote_India",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2626618",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_India/Contract-Associate_2626618",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Manager, Flow Cytometry Laboratory",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2625299",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Manager--Flow-Cytometry-Laboratory_2625299",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Phlebotomist",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2624031",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2624031",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Supervisor, Flow Cytometry",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2626614",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Supervisor--Flow-Cytometry_2626614",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Applications Support Analyst I",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2622941",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Applications-Support-Analyst-I_2622941",
-      "category": "Other",
-      "experience_level": "Entry-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Director, Customers & Market Insights",
-      "location": "IND - Mumbai - Unit No. 201, 2nd Floor, Akruti Softech Park - Road C, Cross Road, MIDC, Marol, Andheri East",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2532837",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Mumbai---Unit-No-201-2nd-Floor-Akruti-Softech-Park---Road-C-Cross-Road-MIDC-Marol-Andheri-East/Director--Customers---Market-Insights_2532837",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
