@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T20:27:58.138782+00:00",
-  "total_jobs": 87,
+  "generated_at": "2026-10-03T00:15:24.888960+00:00",
+  "total_jobs": 96,
   "jobs": [
     {
       "company": "ICON plc",
@@ -1023,6 +1023,126 @@
       "source": "Workday (direct)"
     },
     {
+      "company": "Labcorp",
+      "title": "Radiation Safety and Scientific Specialist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 24 Days Ago",
+      "req_id": "2630800",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Radiation-Safety-and-Scientific-Specialist_2630800",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I, Toxicology",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2630341",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Toxicology_2630341",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I, Flow Cytometry",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2630059",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Flow-Cytometry_2630059",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist 1",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2629876",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-1_2629876",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Contract Associate",
+      "location": "Remote_India",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2626618",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_India/Contract-Associate_2626618",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Manager, Flow Cytometry Laboratory",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2625299",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Manager--Flow-Cytometry-Laboratory_2625299",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Phlebotomist",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2624031",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2624031",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Supervisor, Flow Cytometry",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2626614",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Supervisor--Flow-Cytometry_2626614",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Applications Support Analyst I",
+      "location": "Bengaluru India",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2622941",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Applications-Support-Analyst-I_2622941",
+      "category": "Other",
+      "experience_level": "Entry-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Director, Customers & Market Insights",
+      "location": "IND - Mumbai - Unit No. 201, 2nd Floor, Akruti Softech Park - Road C, Cross Road, MIDC, Marol, Andheri East",
+      "posted_on": "Posted 30+ Days Ago",
+      "req_id": "2532837",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Mumbai---Unit-No-201-2nd-Floor-Akruti-Softech-Park---Road-C-Cross-Road-MIDC-Marol-Andheri-East/Director--Customers---Market-Insights_2532837",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
       "company": "Novartis",
       "title": "Director, Technology & Engineering for Software and Workflows",
       "location": "Hyderabad (Office)",
@@ -1031,18 +1151,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Director--Technology---Engineering-for-Software-and-Workflows_REQ-10088115",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Clinical Development Scientist",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087727",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Clinical-Scientific-Expert-I_REQ-10087727-1",
-      "category": "Other",
-      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     }
