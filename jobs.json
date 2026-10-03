@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-03T17:04:13.311581+00:00",
-  "total_jobs": 95,
+  "generated_at": "2026-10-03T20:44:46.391287+00:00",
+  "total_jobs": 96,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "CRA 1/2",
+      "location": "Thane, Maharashtra, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1557317",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/CRA-1-2_R1557317",
+      "category": "Clinical Operations",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
@@ -23,6 +35,18 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bangalore/Assistant-Legal-Counsel_445813",
       "category": "Other",
       "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "AstraZeneca",
+      "title": "Risk Assessment Lead",
+      "location": "India – Mumbai Commerz",
+      "posted_on": "Posted Today",
+      "req_id": "R-261126",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Risk-Assessment-Lead_R-261126-1",
+      "category": "Other",
+      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -238,18 +262,6 @@
       "req_id": "R-258180",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Director---Software-Development--Cell-Therapy-IT_R-258180",
       "category": "IT / Systems / Analyst",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Insights Manager",
-      "location": "India – Mumbai Commerz",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "R-260748",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Insights-manager_R-260748-1",
-      "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
