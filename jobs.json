@@ -1,15 +1,63 @@
 {
-  "generated_at": "2026-10-07T00:27:48.680894+00:00",
-  "total_jobs": 106,
+  "generated_at": "2026-10-07T06:57:54.811798+00:00",
+  "total_jobs": 113,
   "jobs": [
     {
+      "company": "IQVIA",
+      "title": "Python Developer",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1562733",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Python-Developer_R1562733-1",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
       "company": "Parexel",
-      "title": "Senior Medical Writer",
+      "title": "Manager, Data Management",
+      "location": "India-Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R0000045270",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad/Manager--Data-Management_R0000045270",
+      "category": "Medical Writing & QA",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Parexel",
+      "title": "Senior Health Economics Associate",
+      "location": "India-Hyderabad-Remote",
+      "posted_on": "Posted Today",
+      "req_id": "R0000044811",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Senior-Health-Economics-Associate_R0000044811",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Parexel",
+      "title": "Health Economics Associate",
+      "location": "India-Hyderabad-Remote",
+      "posted_on": "Posted Today",
+      "req_id": "R0000040635",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Health-Economics-Associate_R0000040635",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Parexel",
+      "title": "Senior Regulatory Affairs Associate- Clinical Trial Application",
       "location": "India-Bengaluru-Remote",
       "posted_on": "Posted Today",
-      "req_id": "R0000046124",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Bengaluru-Remote/Senior-Medical-Writer_R0000046124",
-      "category": "Medical Writing & QA",
+      "req_id": "R0000044936",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Bengaluru-Remote/Senior-Regulatory-Affairs-Associate_R0000044936",
+      "category": "Regulatory Affairs",
       "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
@@ -23,6 +71,30 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "ICON plc",
+      "title": "TMF Specialist (all levels)",
+      "location": "India, Chennai",
+      "posted_on": "Posted Today",
+      "req_id": "JR158186",
+      "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Senior-TMF-Specialist_JR158186",
+      "category": "TMF / Document Mgmt",
+      "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Global Safety Apprenticeship",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "449409",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Global-Safety-Apprenticeship_449409",
+      "category": "Other",
+      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -71,18 +143,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--DA-DS-M-Data-Acquisition_448771",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate Director - Enterprise Transformation Office (Merger, Acquisition and Divesture)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "448763",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Enterprise-Transformation-Office--Merger--Acquisition-and-Divesture-_448763",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -520,6 +580,54 @@
     },
     {
       "company": "Sanofi",
+      "title": "Manager - HEVA (Evidence Synthesis)",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2873951",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Manager---HEVA--Evidence-Synthesis-_R2873951",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Team Lead – Scientific Writing",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2872600",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Team-Lead---Scientific-Writing_R2872600",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Senior Analyst Technical Customer Facing Effectiveness",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2866821",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-Technical-Customer-Facing-Effectiveness_R2866821",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Analyst Data Process Management",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2856169",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Analyst-Data-Process-Management_R2856169",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
       "title": "Patient Solutions Coordinator",
       "location": "Mumbai",
       "posted_on": "Posted Today",
@@ -551,18 +659,6 @@
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Manager--EDS--External-Data-Specialist-_265779",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
-      "title": "Safety Science Coordinator I",
-      "location": "Pune",
-      "posted_on": "Posted Today",
-      "req_id": "265646",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Pune/Safety-Science-Coordinator-I_265646",
-      "category": "Other",
-      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1216,6 +1312,18 @@
     },
     {
       "company": "Novartis",
+      "title": "Business Intern- Consulting & Program Management",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10088676",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Business-Intern--Consulting---Program-Management_REQ-10088676",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Manager, Business Analyst, MarTech Product Management",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1247,30 +1355,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Mumbai-Head-Office/MS-T-Technical-Manager_REQ-10087797-1",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Product Expert - Web CMS - Drupal",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10089318",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Product-Expert---Web-CMS---Drupal_REQ-10089318",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Sr. Specialist DDIT PO&CF Data Science & AI",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10079677",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-Specialist-DDIT-PO-CF-Data-Science---AI_REQ-10079677-1",
-      "category": "Other",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     }
