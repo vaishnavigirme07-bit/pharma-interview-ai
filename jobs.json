@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T18:18:16.250139+00:00",
-  "total_jobs": 105,
+  "generated_at": "2026-10-10T22:19:14.732756+00:00",
+  "total_jobs": 103,
   "jobs": [
     {
       "company": "ICON plc",
@@ -11,30 +11,6 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Management Accounting Associate Director",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447690",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Management-Accounting-Associate-Director_447690",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate Director - Global Study Management Team Leader",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "449476",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Global-Study-Management-Team-Leader_449476",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -371,18 +347,6 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Lead-Consultant---SAP-S-4HANA---IT-Product-Expert---Asset-Maintenance_R-260702-1",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "International CMC Regulatory Affairs Manager I",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 12 Days Ago",
-      "req_id": "R-258782",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/International-CMC-Regulatory-Affairs-Manager-I_R-258782-2",
-      "category": "Regulatory Affairs",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1216,11 +1180,23 @@
     },
     {
       "company": "Novartis",
-      "title": "Director of Operations, S&O",
+      "title": "Global Regulatory Manager, GRSS&C",
       "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087208",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Director-of-Operations--S-O_REQ-10087208",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10089484",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Global-Regulatory-Manager--GRSS-C_REQ-10089484",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Associate Global Regulatory Manager, GRSS&C",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10089481",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Global-Regulatory-Manager--GRSS-C_REQ-10089481",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
       "type": "Other",
