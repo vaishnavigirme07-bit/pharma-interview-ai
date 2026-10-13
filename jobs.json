@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T21:39:19.109343+00:00",
-  "total_jobs": 147,
+  "generated_at": "2026-10-13T02:55:25.486292+00:00",
+  "total_jobs": 141,
   "jobs": [
     {
       "company": "IQVIA",
@@ -71,42 +71,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---Data-Acquisition_448279",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Manager - Business System Owner",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "449440",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---Business-System-Owner_449440",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate Director - BSO - IAI - Responsible AI",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "449146",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Quality-System-Owner-and-AI-Compliance_449146-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Specialist - Tech Development",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Yesterday",
-      "req_id": "449427",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Specialist---Tech-Development_449427",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -647,18 +611,6 @@
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Project-Manager-Medical-Communications_R2858003",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "RDDO Data Capability and Strategy Lead",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2813807",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/RDDO-Data-Capability-and-Strategy-Lead_R2813807-1",
-      "category": "Other",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1396,18 +1348,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Laboratory Assistant II",
-      "location": "USA - IN - Indianapolis - 8211 Scicor Drive",
-      "posted_on": "Posted 13 Days Ago",
-      "req_id": "2633525",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/USA---IN---Indianapolis---8211-Scicor-Drive/Laboratory-Assistant-II_2633525",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "DA Lead Data Engineer",
       "location": "Bengaluru India",
       "posted_on": "Posted 17 Days Ago",
@@ -1751,18 +1691,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-Spec-DDIT-IES-cloud-Engineering_REQ-10085140",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Global Regulatory Manager, GRSS&C",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10089484",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Global-Regulatory-Manager--GRSS-C_REQ-10089484",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     }
