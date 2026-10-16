@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T00:18:51.071741+00:00",
-  "total_jobs": 104,
+  "generated_at": "2026-10-16T05:36:01.950114+00:00",
+  "total_jobs": 105,
   "jobs": [
     {
       "company": "IQVIA",
@@ -47,18 +47,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Assistant-Legal-Counsel_448836",
       "category": "Other",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Sr. Analyst - SD Performance",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "445111",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Sr-Analyst---SD-Performance_445111",
-      "category": "Other",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -387,6 +375,54 @@
       "source": "Workday (direct)"
     },
     {
+      "company": "Sanofi",
+      "title": "Senior Analyst Customer Facing Incentive",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2845026",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst-Customer-Facing-Incentive_R2845026",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Haemophilia Area Commercial Lead",
+      "location": "New Delhi",
+      "posted_on": "Posted Today",
+      "req_id": "R2868311",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/New-Delhi/Haemophilia-Area-Commercial-Lead_R2868311",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Expert Quality Services (Product Complaints)",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2872731",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Expert-Quality-Services--Product-Complaints-_R2872731",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Project Specialist Learning",
+      "location": "Hyderabad",
+      "posted_on": "Posted Today",
+      "req_id": "R2872785",
+      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Project-Specialist-Learning_R2872785-1",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
       "company": "Fortrea",
       "title": "Senior Manager, Process Compliance Review and Analysis",
       "location": "Pune",
@@ -399,14 +435,14 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Fortrea",
-      "title": "Safety System Manager, Argus SME",
-      "location": "Pune",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "265192",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Pune/Safety-System-Manager--Argus-SME_265192",
+      "company": "Syneos Health",
+      "title": "Senior Salesforce Engineer / Technical Lead- Hyderabad (Hybrid- Shift 2)",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25109288",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Senior-Salesforce-Engineer---Technical-Lead--Belgrade-or-Hyderabad--Hybrid-_25109288",
       "category": "Other",
-      "experience_level": "Leadership (Manager+)",
+      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1132,6 +1168,18 @@
     },
     {
       "company": "Novartis",
+      "title": "Business Analyst - AI Content Engine",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10090076",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10090076",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
       "title": "Associate Director, Advanced Analytics & Modeling",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1211,42 +1259,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Director--Analytics-Excellence---Governance_REQ-10089509-1",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Intern - I&A",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10090083",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern---I-A_REQ-10090083-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Analyst - Brand Analytics",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10086236",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Analyst---Brand-Analytics_REQ-10086236-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Specialist, Quality Operations",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10088961",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Specialist--Quality-Operations_REQ-10088961",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     }
