@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:17:04.716146+00:00",
+  "generated_at": "2026-10-21T01:25:18.136484+00:00",
   "total_jobs": 104,
   "jobs": [
     {
@@ -35,18 +35,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Finance-Controlling---Entity_447924",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Analyst, Data Acquisition",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "446851",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst--Data-Acquisition_446851",
-      "category": "Other",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -431,6 +419,18 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-ops-Technical-Specialist_25113011-1",
       "category": "Other",
       "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Warehouse Associate I, Picking & Receiving",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2636564",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Warehouse-Associate-I--Picking---Receiving_2636564",
+      "category": "Other",
+      "experience_level": "Entry-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
