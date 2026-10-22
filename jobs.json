@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-22T18:25:46.156743+00:00",
-  "total_jobs": 141,
+  "generated_at": "2026-10-22T22:13:30.804125+00:00",
+  "total_jobs": 130,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Scientist, Lab Operations",
+      "location": "Indianapolis, IN, United States of America",
+      "posted_on": "Posted Today",
+      "req_id": "R1572685",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-IN-United-States-of-America/Scientist--Lab-Operations_R1572685",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Associate Software Engineer",
@@ -22,18 +34,6 @@
       "req_id": "R1562927",
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Java-Developer_R1562927-1",
       "category": "IT / Systems / Analyst",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Data Scientist - Clinical & Operational Analytics",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1553248",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Data-Scientist---Clinical---Operational-Analytics_R1553248",
-      "category": "Other",
       "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
@@ -123,26 +123,14 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "GSK",
-      "title": "Senior Principal - P&C Platform Engineer",
-      "location": "Bengaluru Luxor North Tower",
+      "company": "AstraZeneca",
+      "title": "Senior Consultant - SAP PaPM",
+      "location": "India - Chennai",
       "posted_on": "Posted Today",
-      "req_id": "449219",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Principal---P-C-Platform-Engineer_449219",
+      "req_id": "R-262434",
+      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Consultant---SAP-PaPM_R-262434-2",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Manager - Business System Owner",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "449440",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---Business-System-Owner_449440",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -274,30 +262,6 @@
       "req_id": "R-262061",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Senior-Business-Analyst_R-262061",
       "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Lead - Diagnostics & Health Innovation Hub",
-      "location": "India – Mumbai Commerz",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "R-260025",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Lead---Diagnostics---Health-Innovation-Hub_R-260025-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Risk Assessment Lead",
-      "location": "India – Mumbai Commerz",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "R-261126",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Risk-Assessment-Lead_R-261126-1",
-      "category": "Other",
       "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
@@ -448,18 +412,6 @@
     },
     {
       "company": "AstraZeneca",
-      "title": "Director- Finance Controller",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 15 Days Ago",
-      "req_id": "R-260484",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Director--Finance-Controller_R-260484-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
       "title": "Statistical Science Associate Director",
       "location": "India - Bangalore",
       "posted_on": "Posted 16 Days Ago",
@@ -479,18 +431,6 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Lead-Consultant---S-4HANA-Indirect-Procurement-IT-Business-Analyst_R-261208-2",
       "category": "IT / Systems / Analyst",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Medical Director, Patient Safety Physician",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 17 Days Ago",
-      "req_id": "R-261149",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Medical-Director--Patient-Safety-Physician_R-261149-1",
-      "category": "Pharmacovigilance",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -599,18 +539,6 @@
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/People-Services-Senior-Generalist_R2867962",
       "category": "Other",
       "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Transition Manager M&S",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2875587",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Transition-Manager-M-S_R2875587-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1144,30 +1072,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Clinical Data Analyst II",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "2636687",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Clinical-Data-Analyst-II_2636687",
-      "category": "Medical Writing & QA",
-      "experience_level": "Entry-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Clinical Data Analyst I",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "2636676",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Clinical-Data-Analyst-I-_2636676",
-      "category": "Medical Writing & QA",
-      "experience_level": "Entry-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Clinical Trails Monitor II (Remote)",
       "location": "Bengaluru India",
       "posted_on": "Posted 6 Days Ago",
@@ -1281,30 +1185,6 @@
       "posted_on": "Posted 10 Days Ago",
       "req_id": "2636510",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Flow-Cytometry-Analyst-I_2636510",
-      "category": "Other",
-      "experience_level": "Entry-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Quality and Compliance Assistant",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 10 Days Ago",
-      "req_id": "2633009",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Quality-and-Compliance-Assistant_2633009",
-      "category": "Medical Writing & QA",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Sample Handling Associate I",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 10 Days Ago",
-      "req_id": "2636021",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Sample-Handling-Associate-I_2636021",
       "category": "Other",
       "experience_level": "Entry-level",
       "type": "Other",
@@ -1509,18 +1389,6 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "2631274",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Intern---Process-Excellence-Associate_2631274",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Radiation Safety and Scientific Specialist",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2630800",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Radiation-Safety-and-Scientific-Specialist_2630800",
       "category": "Other",
       "experience_level": "Mid-level",
       "type": "Other",
