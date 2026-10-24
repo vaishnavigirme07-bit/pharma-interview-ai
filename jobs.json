@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:21:31.689863+00:00",
+  "generated_at": "2026-10-24T17:58:11.121713+00:00",
   "total_jobs": 134,
   "jobs": [
     {
@@ -575,6 +575,18 @@
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Safety-Systems-Associate-Manager_265812",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Sr. Architect, AI Enablement & Automation (GenAI, Agentic AI, RAG, LLMOps, Azure/AWS)",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Today",
+      "req_id": "25109804",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Sr-Architect_25109804",
+      "category": "Other",
+      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1595,18 +1607,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Delhi-Territory/Sales-Representative--Territory-Business-Executive-_REQ-10090565",
       "category": "Other",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Director DDIT IES CHS AWS Engineering",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10087036",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Director-DDIT-IES-CHS-AWS-Engineering_REQ-10087036",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     }
