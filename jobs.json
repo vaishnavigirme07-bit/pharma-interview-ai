@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-25T14:57:10.063744+00:00",
-  "total_jobs": 125,
+  "generated_at": "2026-10-25T18:16:24.713792+00:00",
+  "total_jobs": 126,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Business Systems Analyst",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1568059",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Business-Systems-Analyst_R1568059",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
