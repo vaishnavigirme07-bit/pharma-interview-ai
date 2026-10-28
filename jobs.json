@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T23:38:33.227931+00:00",
-  "total_jobs": 130,
+  "generated_at": "2026-10-28T04:35:35.840930+00:00",
+  "total_jobs": 129,
   "jobs": [
     {
       "company": "ICON plc",
@@ -9,6 +9,18 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "JR156050",
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Principal - EUC / MDM Platform Engineer",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "449005",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal---EUC---MDM-Platform-Engineer_449005",
       "category": "Other",
       "experience_level": "Senior",
       "type": "Other",
@@ -238,30 +250,6 @@
       "req_id": "449729",
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal-Data-Engineer_449729",
       "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Principal - Platform Engineer Segmentation",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "449172",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal---Platform-Engineer-Segmentation_449172-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Principal - Platform Architect Segmentation",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "449171",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Principal---Platform-Architect-Segmentation_449171",
-      "category": "Other",
       "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
