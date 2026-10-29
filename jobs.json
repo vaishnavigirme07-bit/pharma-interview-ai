@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T22:32:15.835487+00:00",
-  "total_jobs": 118,
+  "generated_at": "2026-10-29T02:14:06.154233+00:00",
+  "total_jobs": 116,
   "jobs": [
     {
       "company": "IQVIA",
@@ -15,18 +15,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "IQVIA",
-      "title": "Senior Python Developer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1553979",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Sr-Developer_R1553979-1",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
       "location": "India, Bangalore",
@@ -35,6 +23,18 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "SNOW - Data Intelligence Product Owner",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "448647",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/SNOW---Data-Intelligence-Product-Owner_448647",
+      "category": "Other",
+      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -155,30 +155,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Director---Solution-Architect_450688",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Principal Process Pulse Engineer",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "449280",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal-Process-Pulse-Engineer_449280",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Principal Manufacturing Systems Analyst",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "448979",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal-Manufacturing-Systems-Analyst_448979",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
