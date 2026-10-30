@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T21:39:39.549628+00:00",
-  "total_jobs": 103,
+  "generated_at": "2026-10-30T01:41:41.154306+00:00",
+  "total_jobs": 101,
   "jobs": [
     {
       "company": "ICON plc",
@@ -1211,30 +1211,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Mumbai-Head-Office/Commercial-Manager---Gene-Therapy_REQ-10089399",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Sr Specialist Network Security Engineering",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10085150",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-Specialist-Network-Security-Engineering_REQ-10085150",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Technical Steward - Devices",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10088939",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Technical-Steward---Devices_REQ-10088939-1",
-      "category": "Other",
-      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     }
