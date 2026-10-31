@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T20:32:06.553054+00:00",
-  "total_jobs": 108,
+  "generated_at": "2026-10-31T00:33:09.110997+00:00",
+  "total_jobs": 105,
   "jobs": [
     {
       "company": "ICON plc",
@@ -1180,18 +1180,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Supervisor, Flow Cytometry",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2626614",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Supervisor--Flow-Cytometry_2626614",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Director, Customers & Market Insights",
       "location": "IND - Mumbai - Unit No. 201, 2nd Floor, Akruti Softech Park - Road C, Cross Road, MIDC, Marol, Andheri East",
       "posted_on": "Posted 30+ Days Ago",
@@ -1271,30 +1259,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director--Validation-Lead---Data---Digital_REQ-10090949",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Sales Representative / Territory Account Specialist",
-      "location": "Delhi Territory",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10089585",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Delhi-Territory/Sales-Representative---Territory-Account-Specialist_REQ-10089585",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Product Specialist",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10088244",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Product-Specialist_REQ-10088244",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     }
