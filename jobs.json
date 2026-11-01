@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-01T15:54:51.654434+00:00",
-  "total_jobs": 103,
+  "generated_at": "2026-11-01T20:21:01.468337+00:00",
+  "total_jobs": 104,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "SQL Database, T-SQL Developer",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1567511",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/SQL-Database--T-SQL-Developer_R1567511",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
@@ -472,6 +484,18 @@
     },
     {
       "company": "Labcorp",
+      "title": "Clinical Data Analyst II",
+      "location": "Bengaluru India",
+      "posted_on": "Posted Today",
+      "req_id": "2636687",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Clinical-Data-Analyst-II_2636687",
+      "category": "Medical Writing & QA",
+      "experience_level": "Entry-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
       "title": "Marketing Automation Campaign Specialist",
       "location": "Bengaluru India",
       "posted_on": "Posted Yesterday",
@@ -755,18 +779,6 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Specimen-Processor_2631621",
       "category": "Other",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Manager, Enterprise Systems",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2637108",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Manager--Enterprise-Systems_2637108-1",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
