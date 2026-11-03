@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T17:59:56.570767+00:00",
-  "total_jobs": 114,
+  "generated_at": "2026-11-03T00:48:56.063503+00:00",
+  "total_jobs": 103,
   "jobs": [
     {
       "company": "Parexel",
@@ -75,42 +75,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "ICON plc",
-      "title": "Medical Data Reviewer",
-      "location": "India, Bangalore",
-      "posted_on": "Posted Today",
-      "req_id": "JR156093",
-      "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Medical-Data-Reviewer_JR156093",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Manager, Market / Entity Financial Controllers (APAC)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447792",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager--Market---Entity-Financial-Controllers--APAC-_447792",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate Director - Procurement - External Manufacturing Drug Product",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "449580",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Procurement---External-Manufacturing-Drug-Product_449580",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "GSK",
       "title": "Senior Principal - Business Operations Manager",
       "location": "Bengaluru Luxor North Tower",
@@ -160,18 +124,6 @@
     },
     {
       "company": "GSK",
-      "title": "PROGRAMMING MANAGER",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "449474",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/PROGRAMMING-MANAGER_449474",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
       "title": "Lead - Management Accounting",
       "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
@@ -208,61 +160,13 @@
     },
     {
       "company": "GSK",
-      "title": "Senior Manager, Market / Entity Financial Controllers (APAC)",
+      "title": "Manager, Data Acquisition",
       "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
-      "req_id": "447791",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager--Market---Entity-Financial-Controllers--APAC-_447791",
+      "req_id": "448279",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Analyst---Data-Acquisition_448279",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Reporting Specialists (Global)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447877",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Reporting-Specialists--Global-_447877",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Reporting Specialists (Global)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447872",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Reporting-Specialists--Global-_447872",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Reporting Specialists (Global)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447868",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Reporting-Specialists--Global-_447868",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Reporting Specialists (Global)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447864",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Reporting-Specialists--Global-_447864",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -519,30 +423,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "Project Specialist- Learning",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2874366",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Project-Specialist--Learning_R2874366",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
-      "title": "Assoc I PSS",
-      "location": "Bangalore",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "265915",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Assoc-I-PSS_265915",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Syneos Health",
       "title": "Senior Cybersecurity Engineer – Security Engineering",
       "location": "IND-Hyderabad-Hybrid",
@@ -575,6 +455,18 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Senior-Project-Delivery-Support-Specialist--Sr-PDSS-_25114060",
       "category": "Other",
       "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist I",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2639241",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I_2639241",
+      "category": "Other",
+      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1096,18 +988,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Phlebotomist",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 12 Days Ago",
-      "req_id": "2634368",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Phlebotomist_2634368",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Senior Analyst, Digital Analytics",
       "location": "Bengaluru India",
       "posted_on": "Posted 12 Days Ago",
@@ -1293,18 +1173,6 @@
       "posted_on": "Posted 30+ Days Ago",
       "req_id": "2630059",
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I--Flow-Cytometry_2630059",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Medical Technologist 1",
-      "location": "Indianapolis IN",
-      "posted_on": "Posted 30+ Days Ago",
-      "req_id": "2629876",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-1_2629876",
       "category": "Other",
       "experience_level": "Not specified",
       "type": "Other",
