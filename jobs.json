@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T16:59:00.325207+00:00",
-  "total_jobs": 145,
+  "generated_at": "2026-11-04T22:31:56.540435+00:00",
+  "total_jobs": 122,
   "jobs": [
     {
       "company": "IQVIA",
@@ -39,90 +39,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "IQVIA",
-      "title": "Application Support Engineer(Oracle PL/SQL)",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1575374",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Application-Support-Engineer_R1575374",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Senior Software Development Engineer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1566241",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Software-Development-Engineer_R1566241",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Software Engineer - REACT Lead",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1566219",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-Engineer---REACT-Lead_R1566219",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Senior Mobile Developer",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1565959",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Mobile-Developer_R1565959",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "SQL Database, T-SQL Developer",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1567511",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/SQL-Database--T-SQL-Developer_R1567511",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "India - QA Analyst",
-      "location": "Bangalore, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1528688",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/India---QA-Analyst_R1528688",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "IQVIA",
-      "title": "Project Finance Analyst",
-      "location": "Thane, Maharashtra, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1563462",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Project-Finance-Analyst_R1563462",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Parexel",
       "title": "Accounts Payable Specialist",
       "location": "India - Hyderabad",
@@ -147,30 +63,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Parexel",
-      "title": "Specialist, Central Accounting Support",
-      "location": "India - Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R0000047187",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India---Hyderabad/Specialist--Central-Accounting-Support_R0000047187",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Parexel",
-      "title": "AR Cash Application Specialist",
-      "location": "India - Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R0000047192",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India---Hyderabad/AR-Cash-Application-Specialist_R0000047192",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
       "location": "India, Bangalore",
@@ -183,14 +75,62 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "ICON plc",
-      "title": "Senior Internal Auditor",
-      "location": "India, Chennai",
+      "company": "GSK",
+      "title": "Senior, Platform Engineer",
+      "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
-      "req_id": "JR163500",
-      "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Senior-Internal-Auditor_JR163500-1",
+      "req_id": "450889",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior--Platform-Engineer_450889",
       "category": "Other",
       "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Full Stack AI Engineer",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "450898",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Full-Stack-AI-Engineer_450898",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Engineer I, Forward Deployed Engineer",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "450899",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Engineer-I--Forward-Deployed-Engineer_450899",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Staff, Forward Deployed Engineer",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "450918",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Staff--Forward-Deployed-Engineer_450918",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Manager-Digital and Technology-Hong Kong and Taiwan",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "450758",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager-Digital-and-Technology-Hong-Kong-and-Taiwan_450758",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -215,54 +155,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Engineer---Technical-SME--EHS---Sustainability_451054",
       "category": "Other",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Reporting Specialists (Global)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447860",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Reporting-Specialists--Global-_447860",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Reporting Specialists (Global)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447845",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Reporting-Specialists--Global-_447845",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Reporting Specialists (Global)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447846",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Reporting-Specialists--Global-_447846",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Reporting Specialists (APAC)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447841",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Reporting-Specialists--APAC-_447841",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -316,42 +208,6 @@
     },
     {
       "company": "GSK",
-      "title": "P&F Lead",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "448301",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/P-F-Lead_448301",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Manager, Market / Entity Financial Controllers (APAC)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447794",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager--Market---Entity-Financial-Controllers--APAC-_447794",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Manager, Market / Entity Financial Controllers (APAC)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "447778",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager--Market---Entity-Financial-Controllers--APAC-_447778",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
       "title": "Senior Manager- Master Data Management Steward",
       "location": "Bengaluru Luxor North Tower",
       "posted_on": "Posted Today",
@@ -359,18 +215,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager--Master-Data-Management-Steward_450942",
       "category": "Medical Writing & QA",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Procurement Associate",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "450850",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Procurement-Associate_450850",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -711,18 +555,6 @@
       "source": "Workday (direct)"
     },
     {
-      "company": "Sanofi",
-      "title": "iCare Connect Engineer",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2865965",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/iCare-Connect-Engineer_R2865965",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
       "company": "Gilead Sciences",
       "title": "Manager, IT Support Engineering",
       "location": "India - Bengaluru",
@@ -755,54 +587,6 @@
       "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/India---Bengaluru/IT-Support-Engineer-II_R0055928",
       "category": "IT / Systems / Analyst",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Gilead Sciences",
-      "title": "Administrative Coordinator, IT GCC Site Operations",
-      "location": "India - Bengaluru",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0056115",
-      "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/India---Bengaluru/Administrative-Coordinator--IT-GCC-Site-Operations_R0056115-1",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Gilead Sciences",
-      "title": "Fullstack AI Lead Engineer",
-      "location": "India - Bengaluru",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0056221",
-      "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/India---Bengaluru/Fullstack-AI-Lead-Engineer_R0056221-1",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Gilead Sciences",
-      "title": "Domain Architect",
-      "location": "India - Bengaluru",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0055926",
-      "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/India---Bengaluru/Domain-Architect_R0055926",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Gilead Sciences",
-      "title": "IT Commercial Functional Lead",
-      "location": "India - Bengaluru",
-      "posted_on": "Posted Yesterday",
-      "req_id": "R0055927",
-      "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/India---Bengaluru/IT-Commercial-Functional-Lead_R0055927",
-      "category": "Other",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -851,18 +635,6 @@
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Lead-Safety-Systems-Specialist_265203",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
-      "title": "Apprentice Biometrics Costing",
-      "location": "Bangalore",
-      "posted_on": "Posted Yesterday",
-      "req_id": "266568",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Apprentice-Biometrics-Costing_266568",
-      "category": "Other",
-      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1624,30 +1396,6 @@
     },
     {
       "company": "Novartis",
-      "title": "Global Regulatory Manager, GRSS&C",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10089484",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Global-Regulatory-Manager--GRSS-C_REQ-10089484",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Qualification Expert",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10091329",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Qualification-Expert_REQ-10091329",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
       "title": "Data Analyst, MMF - Insights & Operational Excellence",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Today",
@@ -1655,18 +1403,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Data-Analyst--MMF---Insights---Operational-Excellence_REQ-10090208-1",
       "category": "Other",
       "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Senior Financial Analyst- Business Planning & Analysis",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10089295",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Financial-Analyst--Business-Planning---Analysis_REQ-10089295",
-      "category": "Other",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1726,18 +1462,6 @@
       "req_id": "REQ-10084024",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Associate-Director-Tech-Product-Management--DAM---MLR-_REQ-10084024",
       "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "eCompliance Manager",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10088583",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/eCompliance-Manager_REQ-10088583",
-      "category": "Medical Writing & QA",
       "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
