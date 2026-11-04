@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:37:10.633833+00:00",
+  "generated_at": "2026-11-04T02:00:38.313189+00:00",
   "total_jobs": 112,
   "jobs": [
     {
@@ -479,6 +479,18 @@
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/IMS-Specialist-II_25114265",
       "category": "Other",
       "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Labcorp",
+      "title": "Medical Technologist II",
+      "location": "Indianapolis IN",
+      "posted_on": "Posted Today",
+      "req_id": "2639240",
+      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-II_2639240-1",
+      "category": "Other",
+      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1331,18 +1343,6 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Data-Lead---Customer-Relationship-Platform--Salesforce--Operations_REQ-10091099",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Analyst - Provider MDM",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10081512",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Analyst---Provider-MDM_REQ-10081512",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     }
