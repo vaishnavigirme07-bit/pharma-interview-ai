@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-05T19:50:14.049467+00:00",
-  "total_jobs": 115,
+  "generated_at": "2026-11-06T00:55:46.746206+00:00",
+  "total_jobs": 111,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Manual Test Engineer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1563911",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Software-QA-Engineer-1_R1563911-1",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "SQL Developer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1563828",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/SQL-Developer_R1563828",
+      "category": "IT / Systems / Analyst",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "IQVIA",
       "title": "Mobile Medical Assistant/Phlebotomist-Per Diem In-Home Services",
@@ -11,6 +35,18 @@
       "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-IN/Mobile-Medical-Assistant-Phlebotomist-Per-Diem-In-Home-Services_R1578572",
       "category": "Other",
       "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Parexel",
+      "title": "Manager, Clinical Operations",
+      "location": "India-Bengaluru",
+      "posted_on": "Posted Today",
+      "req_id": "R0000047630",
+      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Bengaluru/Manager--Clinical-Operations_R0000047630",
+      "category": "Clinical Operations",
+      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -47,30 +83,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Reporting-Specialists--APAC-_447842",
       "category": "Other",
       "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Manager-Digital and Technology-Hong Kong and Taiwan",
-      "location": "India - Maharashtra - Worli Mumbai",
-      "posted_on": "Posted Today",
-      "req_id": "450758",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Senior-Manager-Digital-and-Technology-Hong-Kong-and-Taiwan_450758",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Staff, Forward Deployed Engineer",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "450233",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Staff--Full-Stack-Engineer_450233",
-      "category": "Other",
-      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -383,54 +395,6 @@
       "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Associate-Project-Manager---Medical-Affairs_R2877447",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Analytics Platforms Analyst",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2871874",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Analytics-Platforms-Analyst_R2871874",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Project Specialist – Contract Management",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2876521",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Project-Specialist---Contract-Management_R2876521-1",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Events & Engagements Specialist",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2877417",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Events---Engagements-Specialist_R2877417-1",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Senior Analyst - Python Developer",
-      "location": "Hyderabad",
-      "posted_on": "Posted Today",
-      "req_id": "R2876914",
-      "apply_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Senior-Analyst---Python-Developer_R2876914",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1365,18 +1329,6 @@
       "posted_on": "Posted Today",
       "req_id": "REQ-10091528",
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Lead---FIS---People-Placement_REQ-10091528",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
-      "title": "Sr. Specialist DDIT ISC CSOC Engineering - AgentOps Engineer",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Today",
-      "req_id": "REQ-10091686",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Sr-Specialist-DDIT-ISC-CSOC-Engineering---AgentOps-Engineer_REQ-10091686",
       "category": "Other",
       "experience_level": "Senior",
       "type": "Other",
