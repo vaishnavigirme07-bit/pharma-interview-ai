@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-07T15:32:33.572771+00:00",
-  "total_jobs": 120,
+  "generated_at": "2026-11-07T20:00:50.615802+00:00",
+  "total_jobs": 116,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Data Team Lead",
+      "location": "Kochi, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1575671",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Data-Team-Lead_R1575671",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
@@ -166,18 +178,6 @@
       "req_id": "R-262960",
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Analyst---PowerBI-Developer_R-262960-1",
       "category": "IT / Systems / Analyst",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Associate - Salesforce Marketing Cloud, Campaign Operations",
-      "location": "India - Chennai",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R-263573",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Associate---Salesforce-Marketing-Cloud--Campaign-Operations_R-263573",
-      "category": "Other",
       "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
@@ -431,54 +431,6 @@
       "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/India---Bengaluru/Engineering---AI-Technical-Lead_R0056454",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Gilead Sciences",
-      "title": "Fullstack AI Lead Engineer",
-      "location": "India - Bengaluru",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R0056453",
-      "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/India---Bengaluru/Fullstack-AI-Lead-Engineer_R0056453",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Gilead Sciences",
-      "title": "Full Stack AI Engineer",
-      "location": "India - Bengaluru",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R0056450",
-      "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/India---Bengaluru/Full-Stack-AI-Engineer_R0056450",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Gilead Sciences",
-      "title": "Architect I",
-      "location": "India - Bengaluru",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R0056452",
-      "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/India---Bengaluru/Architect-I_R0056452",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Gilead Sciences",
-      "title": "IT Engineering Specialist",
-      "location": "India - Bengaluru",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R0056451",
-      "apply_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/India---Bengaluru/IT-Engineering-Specialist_R0056451-1",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1408,18 +1360,6 @@
     },
     {
       "company": "Novartis",
-      "title": "Business Analyst - AI Content Engine",
-      "location": "Hyderabad (Office)",
-      "posted_on": "Posted Yesterday",
-      "req_id": "REQ-10089858",
-      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Business-Analyst---AI-Content-Engine_REQ-10089858",
-      "category": "IT / Systems / Analyst",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Novartis",
       "title": "Quality Control Specialist",
       "location": "Hyderabad (Office)",
       "posted_on": "Posted Yesterday",
@@ -1439,6 +1379,18 @@
       "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Specialist---Quality-Operations_REQ-10091889-1",
       "category": "Other",
       "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "Senior Analyst - Marketing Platform Operations",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Yesterday",
+      "req_id": "REQ-10089734",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Senior-Analyst---Marketing-Platform-Operations_REQ-10089734-1",
+      "category": "Other",
+      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     }
