@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-11-08T17:46:40.038236+00:00",
-  "total_jobs": 112,
+  "generated_at": "2026-11-08T21:50:36.342852+00:00",
+  "total_jobs": 105,
   "jobs": [
-    {
-      "company": "IQVIA",
-      "title": "Data Team Lead",
-      "location": "Kochi, India",
-      "posted_on": "Posted Today",
-      "req_id": "R1575671",
-      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kochi-India/Data-Team-Lead_R1575671",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
     {
       "company": "ICON plc",
       "title": "Senior Clinical Python Programmer",
@@ -155,18 +143,6 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Associate-Global-Development-Scientist-Director-I_R-263626-1",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Senior Analyst - Commercial Pharma Analytics",
-      "location": "India - Chennai",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "R-261980",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Senior-Analyst---Brand-Analytics_R-261980",
-      "category": "Other",
-      "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -712,54 +688,6 @@
     },
     {
       "company": "Labcorp",
-      "title": "Informed Consent Codification Associate",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2638127",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Informed-Consent-Codification-Associate_2638127",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Informed Consent Codification Associate",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2638133",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Informed-Consent-Codification-Associate_2638133",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Informed Consent Codification Associate",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2638131",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Informed-Consent-Codification-Associate_2638131",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Informed Consent Codification Associate",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2638134",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Informed-Consent-Codification-Associate_2638134",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
       "title": "Medical Technologist I",
       "location": "Indianapolis IN",
       "posted_on": "Posted 6 Days Ago",
@@ -767,18 +695,6 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Indianapolis-IN/Medical-Technologist-I_2639241",
       "category": "Other",
       "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Labcorp",
-      "title": "Data Management Associate I",
-      "location": "Bengaluru India",
-      "posted_on": "Posted 5 Days Ago",
-      "req_id": "2634415",
-      "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Data-Management-Associate-I_2634415",
-      "category": "Medical Writing & QA",
-      "experience_level": "Entry-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
