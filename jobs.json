@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-10T20:22:09.308890+00:00",
-  "total_jobs": 94,
+  "generated_at": "2026-11-11T01:08:02.837391+00:00",
+  "total_jobs": 92,
   "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Assoc Scientist, Lab Operations",
+      "location": "Indianapolis, IN, United States of America",
+      "posted_on": "Posted Today",
+      "req_id": "R1568620",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Indianapolis-IN-United-States-of-America/Assoc-Scientist--Lab-Operations_R1568620",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
     {
       "company": "Parexel",
       "title": "Senior Software Engineer",
@@ -10,18 +22,6 @@
       "req_id": "R0000046131",
       "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Senior-Software-Engineer_R0000046131",
       "category": "IT / Systems / Analyst",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Parexel",
-      "title": "Senior Software Quality and Test Engineer",
-      "location": "India-Hyderabad-Remote",
-      "posted_on": "Posted Today",
-      "req_id": "R0000046130",
-      "apply_url": "https://parexel.wd1.myworkdayjobs.com/Parexel_External_Careers/job/India-Hyderabad-Remote/Senior-Software-Quality-and-Test-Engineer_R0000046130",
-      "category": "Other",
       "experience_level": "Senior",
       "type": "Other",
       "source": "Workday (direct)"
@@ -395,30 +395,6 @@
       "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/QA-Compliance-Lead-Auditor--Host-_266463",
       "category": "Medical Writing & QA",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
-      "title": "Apprentice - IT Product Management for Commercial and Marketing",
-      "location": "Bangalore",
-      "posted_on": "Posted 6 Days Ago",
-      "req_id": "266370",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Apprentice---IT-Product-Management-for-Commercial-and-Marketing_266370",
-      "category": "Other",
-      "experience_level": "Not specified",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "Fortrea",
-      "title": "REGULATORY AND START-UP",
-      "location": "Bangalore",
-      "posted_on": "Posted 6 Days Ago",
-      "req_id": "262931",
-      "apply_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/REGULATORY-AND-START-UP_262931",
-      "category": "Other",
-      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
