@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T13:39:03.345276+00:00",
-  "total_jobs": 91,
+  "generated_at": "2026-11-15T19:40:03.342132+00:00",
+  "total_jobs": 87,
   "jobs": [
     {
       "company": "Parexel",
@@ -23,18 +23,6 @@
       "apply_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Senior-Clinical-Python-Programmer_JR156050",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Associate Director - Senior Program Manager (M&A)",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted Today",
-      "req_id": "449001",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Senior-Program-Manager--M-A-_449001",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -71,30 +59,6 @@
       "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Principal---Service-Owner---DWE---P-C_449165",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "GSK",
-      "title": "Senior Principal - Principal, RE – P&C",
-      "location": "Bengaluru Luxor North Tower",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "449096",
-      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Principal---Principal--RE---P-C_449096",
-      "category": "Other",
-      "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Analyst - Medical Information",
-      "location": "India - Bangalore",
-      "posted_on": "Posted 2 Days Ago",
-      "req_id": "R-261903",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Analyst---Medical-Information_R-261903",
-      "category": "Other",
-      "experience_level": "Mid-level",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -172,18 +136,6 @@
     },
     {
       "company": "AstraZeneca",
-      "title": "Specialist- Commercial Reporting & Analytics (CRA)",
-      "location": "India - Chennai",
-      "posted_on": "Posted 3 Days Ago",
-      "req_id": "R-263634",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Specialist--Commercial-Reporting---Analytics--CRA-_R-263634",
-      "category": "Other",
-      "experience_level": "Mid-level",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
       "title": "Associate Director Statistical Programming",
       "location": "India - Bangalore",
       "posted_on": "Posted 3 Days Ago",
@@ -203,18 +155,6 @@
       "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India--Mumbai-Commerz/Risk-Assessment-Lead_R-261126-1",
       "category": "Other",
       "experience_level": "Senior",
-      "type": "Other",
-      "source": "Workday (direct)"
-    },
-    {
-      "company": "AstraZeneca",
-      "title": "Director- CMDB & Configuration Management",
-      "location": "India - Chennai",
-      "posted_on": "Posted 4 Days Ago",
-      "req_id": "R-263689",
-      "apply_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Chennai/Director--CMDB---Configuration-Management_R-263689",
-      "category": "Other",
-      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     },
@@ -1031,6 +971,18 @@
       "apply_url": "https://labcorp.wd1.myworkdayjobs.com/External/job/IND---Mumbai---Unit-No-201-2nd-Floor-Akruti-Softech-Park---Road-C-Cross-Road-MIDC-Marol-Andheri-East/Director--Customers---Market-Insights_2532837",
       "category": "Other",
       "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Novartis",
+      "title": "USA Payroll Expert",
+      "location": "Hyderabad (Office)",
+      "posted_on": "Posted Today",
+      "req_id": "REQ-10090686",
+      "apply_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/USA-Payroll-Expert_REQ-10090686-1",
+      "category": "Other",
+      "experience_level": "Not specified",
       "type": "Other",
       "source": "Workday (direct)"
     },
