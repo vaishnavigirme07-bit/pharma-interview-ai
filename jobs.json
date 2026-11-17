@@ -1,5 +1,114 @@
 {
-  "generated_at": "2026-11-16T15:05:42.761120+00:00",
-  "total_jobs": 0,
-  "jobs": []
+  "generated_at": "2026-11-17T00:00:40.273969+00:00",
+  "total_jobs": 9,
+  "jobs": [
+    {
+      "company": "IQVIA",
+      "title": "Sr Site Activation Coordinator",
+      "location": "Thane, Maharashtra, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1580081",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Thane-Maharashtra-India/Sr-Site-Activation-Coordinator_R1580081",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "IQVIA",
+      "title": "Principal Cloud Engineer",
+      "location": "Bangalore, India",
+      "posted_on": "Posted Today",
+      "req_id": "R1575304",
+      "apply_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Principal-Cloud-Engineer_R1575304-1",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Associate Director - Product Mgt - Resilient Operations",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "449069",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Product-Mgt---Resilient-Operations_449069",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "PROGRAMMING MANAGER",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "449474",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/PROGRAMMING-MANAGER_449474",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Medical Advisor",
+      "location": "India - Maharashtra - Worli Mumbai",
+      "posted_on": "Posted Today",
+      "req_id": "451636",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/India---Maharashtra---Worli-Mumbai/Senior-Medical-Advisor_451636",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Manager - Planning & Forecasting Lead",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "448298",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---Planning---Forecasting-Lead_448298",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Manager - Organisational Culture Assurance",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "447749",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager---Organisational-Culture-Assurance_447749",
+      "category": "Other",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Principal - IAM Advanced Authentication",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "449972",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Principal---IAM-Advanced-Authentication_449972",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "GSK",
+      "title": "Senior Statistician Global MSAT",
+      "location": "Bengaluru Luxor North Tower",
+      "posted_on": "Posted Today",
+      "req_id": "451196",
+      "apply_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Senior-Statistician-Global-MSAT_451196-1",
+      "category": "Other",
+      "experience_level": "Senior",
+      "type": "Other",
+      "source": "Workday (direct)"
+    }
+  ]
 }
