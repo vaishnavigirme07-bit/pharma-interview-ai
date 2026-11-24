@@ -1,5 +1,30 @@
 {
-  "generated_at": "2026-11-24T04:39:05.308281+00:00",
-  "total_jobs": 0,
-  "jobs": []
+  "generated_at": "2026-11-24T15:35:16.947169+00:00",
+  "total_jobs": 2,
+  "jobs": [
+    {
+      "company": "Syneos Health",
+      "title": "Manager, Clinical Operations (3rd Shift: 8 PM to 5 AM IST)",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Yesterday",
+      "req_id": "25113934",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Manager--Clinical-Operations_25113934",
+      "category": "Clinical Operations",
+      "experience_level": "Leadership (Manager+)",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "CRES Coordinator",
+      "location": "IND-Hyderabad",
+      "posted_on": "Posted Yesterday",
+      "req_id": "25113780",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad/CRES-Coordinator_25113780",
+      "category": "Other",
+      "experience_level": "Not specified",
+      "type": "Other",
+      "source": "Workday (direct)"
+    }
+  ]
 }
