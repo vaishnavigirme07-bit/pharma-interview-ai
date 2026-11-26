@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T02:40:46.848398+00:00",
-  "total_jobs": 2,
+  "generated_at": "2026-11-26T11:58:56.499630+00:00",
+  "total_jobs": 4,
   "jobs": [
     {
       "company": "Syneos Health",
       "title": "IRT Project Manager & Sr / Prin IRT Project Manager",
       "location": "IND-Hyderabad",
-      "posted_on": "Posted Today",
+      "posted_on": "Posted Yesterday",
       "req_id": "25114979",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad/IRT-Project-Manager---Sr---Prin-IRT-Project-Manager_25114979",
       "category": "Other",
@@ -18,11 +18,35 @@
       "company": "Syneos Health",
       "title": "Data Operations Technical Specialist",
       "location": "IND-Hyderabad-Hybrid",
-      "posted_on": "Posted Today",
+      "posted_on": "Posted Yesterday",
       "req_id": "25113005",
       "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-Operations-Technical-Specialist_25113005",
       "category": "Other",
       "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Project Delivery Support Specialist (PDSS) - Night Shift",
+      "location": "IND-Hyderabad-Hybrid",
+      "posted_on": "Posted Yesterday",
+      "req_id": "25114048",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Project-Delivery-Support-Specialist--PDSS----Night-Shift_25114048",
+      "category": "Other",
+      "experience_level": "Mid-level",
+      "type": "Other",
+      "source": "Workday (direct)"
+    },
+    {
+      "company": "Syneos Health",
+      "title": "Associate Director, Global TA Operations Audit & Compliance",
+      "location": "IND-Hyderabad",
+      "posted_on": "Posted 2 Days Ago",
+      "req_id": "25114962",
+      "apply_url": "https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad/Associate-Director--Global-TA-Operations-Audit---Compliance_25114962",
+      "category": "Medical Writing & QA",
+      "experience_level": "Leadership (Manager+)",
       "type": "Other",
       "source": "Workday (direct)"
     }
